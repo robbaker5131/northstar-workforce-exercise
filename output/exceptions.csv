@@ -1,0 +1,1204 @@
+employee_id,opco,raw_department,raw_job_title,field,issue,original_value,resolved_value,rule_applied
+BAY-10405,Bayside Mechanical,Sales,Customer Service Rep,employee_id,Duplicate employee_id,Sales / status blank,row dropped,Keep the duplicate row with a populated status
+GLC-10345,Great Lakes Comfort Systems,Sales,Customer Care Manager,employee_id,Duplicate employee_id,Sales / status blank,row dropped,Keep the duplicate row with a populated status
+RED-10236,Redwood Electric,Sales,Cust Svc Rep,employee_id,Duplicate employee_id,Sales / status blank,row dropped,Keep the duplicate row with a populated status
+GLC-10138,Great Lakes Comfort Systems,Install,Technician,employee_id,Duplicate employee_id,Install / status blank,row dropped,Keep the duplicate row with a populated status
+RED-10009,Redwood Electric,Parts & Fleet,Apprentice Electrician (Lvl 1),employee_id,Duplicate employee_id,Parts & Fleet / status blank,row dropped,Keep the duplicate row with a populated status
+RED-10139,Redwood Electric,Parts & Fleet,Electrician (Lvl 2),employee_id,Duplicate employee_id,Parts & Fleet / status blank,row dropped,Keep the duplicate row with a populated status
+PIN-90046,Pinnacle Plumbing & Drain,Call Center,Call Center Supervisor,termination_date,Terminated with no termination_date,blank,excluded from active model,9xxxx id prefix corroborates terminated status
+PIN-90078,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,termination_date,Terminated with no termination_date,blank,excluded from active model,9xxxx id prefix corroborates terminated status
+PIN-90084,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,termination_date,Terminated with no termination_date,blank,excluded from active model,9xxxx id prefix corroborates terminated status
+BAY-90011,Bayside Mechanical,Sales,Comfort Advisor,termination_date,Terminated with no termination_date,blank,excluded from active model,9xxxx id prefix corroborates terminated status
+BAY-90014,Bayside Mechanical,Warehouse,Warehouse Associate,termination_date,Terminated with no termination_date,blank,excluded from active model,9xxxx id prefix corroborates terminated status
+RED-90057,Redwood Electric,Installation,Electrical Installer (Lvl 2),termination_date,Terminated with no termination_date,blank,excluded from active model,9xxxx id prefix corroborates terminated status
+PIN-90093,Pinnacle Plumbing & Drain,Field,Plumber - Master,termination_date,Terminated with no termination_date,blank,excluded from active model,9xxxx id prefix corroborates terminated status
+RED-90051,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),termination_date,Terminated with no termination_date,blank,excluded from active model,9xxxx id prefix corroborates terminated status
+RED-90036,Redwood Electric,Installation,Electrical Installer (Lvl 2),termination_date,Terminated with no termination_date,blank,excluded from active model,9xxxx id prefix corroborates terminated status
+GLC-90059,Great Lakes Comfort Systems,Service - Plumbing,Technician,termination_date,Terminated with no termination_date,blank,excluded from active model,9xxxx id prefix corroborates terminated status
+PIN-10307,Pinnacle Plumbing & Drain,Sales,Senior Sales Consultant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10151,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10099,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10389,Pinnacle Plumbing & Drain,Fleet,Warehouse Associate,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10375,Pinnacle Plumbing & Drain,Call Center,Call Center Supervisor,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10174,Redwood Electric,Field Ops - Service,Electrician (Lvl 3),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10018,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10198,Redwood Electric,Field Ops - Service,Field Supervisor,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10003,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10232,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10282,Pinnacle Plumbing & Drain,Field,Field Supervisor,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10214,Redwood Electric,Sales,Sr Home Solutions Consultant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10120,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10203,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10023,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10075,Redwood Electric,Installation,Lead Electrical Installer (Lvl 3),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10117,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10222,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10144,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10161,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10339,Pinnacle Plumbing & Drain,Call Center,CSR,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10277,Pinnacle Plumbing & Drain,Field,Field Supervisor,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10175,Redwood Electric,Field Ops - Service,Electrician (Lvl 3),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10004,Redwood Electric,Installation,Apprentice Electrician (Lvl 1),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10101,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10358,Pinnacle Plumbing & Drain,Call Center,CSR,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10259,Pinnacle Plumbing & Drain,Field,Plumber - Master,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10011,Redwood Electric,Installation,Apprentice Electrician (Lvl 1),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10033,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10169,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-C326,Pinnacle Plumbing & Drain,Field,Contract Electrician,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10390,Pinnacle Plumbing & Drain,Fleet,Warehouse Associate,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10199,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10145,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10065,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10244,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10093,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10354,Pinnacle Plumbing & Drain,Call Center,CSR,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10007,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10065,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10369,Pinnacle Plumbing & Drain,Call Center,Dispatcher,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10067,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10275,Redwood Electric,HR,HR Coordinator,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10386,Pinnacle Plumbing & Drain,Fleet,Warehouse Associate,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10184,Redwood Electric,Field Ops - Service,Electrician (Lvl 3),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10021,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10215,Redwood Electric,Sales,Sr Home Solutions Consultant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10074,Redwood Electric,Installation,Lead Electrical Installer (Lvl 3),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10089,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10247,Redwood Electric,CSR,Dispatcher,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10206,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10009,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10263,Pinnacle Plumbing & Drain,Field,Plumber - Master,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10137,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10415,Pinnacle Plumbing & Drain,Acctg,Staff Accountant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10127,Pinnacle Plumbing & Drain,Field,Installation Manager,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10259,Redwood Electric,Parts & Fleet,Warehouse Associate,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10286,Pinnacle Plumbing & Drain,Sales,Sales Consultant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10056,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10035,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10014,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10283,Redwood Electric,HR,Recruiter,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10172,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10152,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10266,Pinnacle Plumbing & Drain,Field,Plumber - Master,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10113,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10194,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10120,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10384,Pinnacle Plumbing & Drain,Fleet,Warehouse Associate,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10249,Redwood Electric,CSR,Dispatcher,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10041,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10253,Redwood Electric,Parts & Fleet,Warehouse Associate,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10023,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10403,Pinnacle Plumbing & Drain,Fleet,Fleet Coordinator,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10025,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10160,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10426,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10011,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10096,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10108,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10352,Pinnacle Plumbing & Drain,Call Center,CSR,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10217,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10031,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10196,Redwood Electric,Field Ops - Service,Field Supervisor,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10176,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10029,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10073,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10186,Redwood Electric,Field Ops - Service,Electrician (Lvl 3),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10378,Pinnacle Plumbing & Drain,Call Center,Call Center Supervisor,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10175,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10350,Pinnacle Plumbing & Drain,Call Center,CSR,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10261,Pinnacle Plumbing & Drain,Field,Plumber - Master,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10181,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10266,Redwood Electric,Parts & Fleet,Parts Coordinator,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10091,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10213,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10167,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10312,Pinnacle Plumbing & Drain,Sales,Senior Sales Consultant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10393,Pinnacle Plumbing & Drain,Fleet,Warehouse Associate,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10179,Redwood Electric,Field Ops - Service,Electrician (Lvl 3),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10042,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10045,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10103,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10280,Pinnacle Plumbing & Drain,Field,Field Supervisor,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10252,Redwood Electric,CSR,Dispatcher,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10115,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10092,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10260,Pinnacle Plumbing & Drain,Field,Plumber - Master,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10168,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10116,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10107,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10067,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10285,Pinnacle Plumbing & Drain,Sales,Sales Consultant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10212,Redwood Electric,Sales,Sr Home Solutions Consultant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10102,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10208,Redwood Electric,Sales,Home Solutions Consultant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10254,Pinnacle Plumbing & Drain,Field,Plumber - Master,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10250,Pinnacle Plumbing & Drain,Field,Plumber - Master,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10371,Pinnacle Plumbing & Drain,Call Center,Dispatcher,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10236,Redwood Electric,CSR,Cust Svc Rep,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10026,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10242,Redwood Electric,CSR,Cust Svc Rep,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10246,Redwood Electric,CSR,Dispatcher,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10165,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10381,Pinnacle Plumbing & Drain,Call Center,Customer Care Manager,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10272,Redwood Electric,Finance,Payroll Specialist,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10180,Redwood Electric,Field Ops - Service,Electrician (Lvl 3),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10174,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10355,Pinnacle Plumbing & Drain,Call Center,CSR,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10294,Pinnacle Plumbing & Drain,Sales,Sales Consultant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10078,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10359,Pinnacle Plumbing & Drain,Call Center,CSR,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10370,Pinnacle Plumbing & Drain,Call Center,Dispacher,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10353,Pinnacle Plumbing & Drain,Call Center,CSR,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10203,Redwood Electric,Field Ops - Service,Service Manager,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-C333,Pinnacle Plumbing & Drain,Fleet,Temp Warehouse Associate,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10058,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10278,Redwood Electric,HR,HR Coordinator,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10024,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10071,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10314,Pinnacle Plumbing & Drain,Sales,Inside Sales Representative,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10349,Pinnacle Plumbing & Drain,Call Center,CSR,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10136,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10095,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10271,Redwood Electric,Finance,AP/AR Specialist,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10229,Redwood Electric,CSR,Cust Svc Rep,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10162,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10155,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10026,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10330,Pinnacle Plumbing & Drain,Call Center,CSR,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-C304,Pinnacle Plumbing & Drain,Field,Contract HVAC Technician,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10032,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10296,Pinnacle Plumbing & Drain,Sales,Sales Consultant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10161,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10124,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10068,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10073,Redwood Electric,Installation,Lead Electrical Installer (Lvl 3),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10087,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10158,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10147,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10241,Redwood Electric,CSR,Cust Svc Rep,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10222,Redwood Electric,CSR,Cust Svc Rep,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10077,Redwood Electric,Installation,Lead Electrical Installer (Lvl 3),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10058,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10328,Pinnacle Plumbing & Drain,Call Center,CSR,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10249,Pinnacle Plumbing & Drain,Field,Plumber - Master,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10200,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10204,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10238,Redwood Electric,CSR,Cust Svc Rep,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10284,Pinnacle Plumbing & Drain,Field,Service Manager,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10133,Pinnacle Plumbing & Drain,Field,Installation Manager,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10050,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10395,Pinnacle Plumbing & Drain,Fleet,Parts Coordinator,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10046,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10270,Pinnacle Plumbing & Drain,Field,Plumber - Master,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10057,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10200,Redwood Electric,Field Ops - Service,Service Manager,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10252,Pinnacle Plumbing & Drain,Field,Plumber - Master,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10146,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10060,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10334,Pinnacle Plumbing & Drain,Call Center,CSR,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10030,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10368,Pinnacle Plumbing & Drain,Call Center,Dispacher,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10132,Pinnacle Plumbing & Drain,Field,Installation Manager,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10034,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10009,Redwood Electric,Installation,Apprentice Electrician (Lvl 1),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10066,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10267,Pinnacle Plumbing & Drain,Field,Plumber - Master,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10281,Redwood Electric,HR,Recruiter,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10099,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10087,Redwood Electric,Installation,Lead Electrical Installer (Lvl 3),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10392,Pinnacle Plumbing & Drain,Fleet,Warehouse Associate,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10044,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10193,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10121,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10081,Redwood Electric,Installation,Lead Electrical Installer (Lvl 3),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10148,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10084,Redwood Electric,Installation,Lead Electrical Installer (Lvl 3),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10340,Pinnacle Plumbing & Drain,Call Center,CSR,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10319,Pinnacle Plumbing & Drain,Sales,Sales Manager,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10002,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10055,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10227,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10276,Redwood Electric,HR,HR Coordinator,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10085,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10418,Pinnacle Plumbing & Drain,Acctg,Senior Accountant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10114,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10177,Redwood Electric,Field Ops - Service,Electrician (Lvl 3),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10365,Pinnacle Plumbing & Drain,Call Center,Dispatcher,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10108,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10038,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10291,Pinnacle Plumbing & Drain,Sales,Sales Consultant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10142,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10075,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10165,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10098,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10233,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10320,Pinnacle Plumbing & Drain,Sales,Sales Manager,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10265,Pinnacle Plumbing & Drain,Field,Plumber - Master,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10191,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10064,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10144,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10332,Pinnacle Plumbing & Drain,Call Center,CSR,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10399,Pinnacle Plumbing & Drain,Fleet,Parts Coordinator,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10129,Pinnacle Plumbing & Drain,Field,Installation Manager,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10029,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10131,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10318,Pinnacle Plumbing & Drain,Sales,Inside Sales Representative,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10160,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10185,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10153,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10037,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10262,Pinnacle Plumbing & Drain,Field,Plumber - Master,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10183,Redwood Electric,Field Ops - Service,Electrician (Lvl 3),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10130,Pinnacle Plumbing & Drain,Field,Installation Manager,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10190,Redwood Electric,Field Ops - Service,Electrician (Lvl 3),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10303,Pinnacle Plumbing & Drain,Sales,Sales Consultant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10112,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10020,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10348,Pinnacle Plumbing & Drain,Call Center,CSR,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10226,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-C314,Pinnacle Plumbing & Drain,Field,Contract Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10061,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10182,Redwood Electric,Field Ops - Service,Electrician (Lvl 3),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10061,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10412,Pinnacle Plumbing & Drain,Acctg,AP/AR Specialist,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10113,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10125,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10224,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10083,Redwood Electric,Installation,Lead Electrical Installer (Lvl 3),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10069,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10210,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10372,Pinnacle Plumbing & Drain,Call Center,Dispatcher,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10220,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10115,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10251,Redwood Electric,CSR,Dispatcher,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10240,Redwood Electric,CSR,Cust Svc Rep,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10050,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10030,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10091,Redwood Electric,Installation,Install Manager,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10374,Pinnacle Plumbing & Drain,Call Center,Call Center Supervisor,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10236,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10260,Redwood Electric,Parts & Fleet,Warehouse Associate,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10178,Redwood Electric,Field Ops - Service,Electrician (Lvl 3),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10111,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10036,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10228,Redwood Electric,CSR,Cust Svc Rep,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10013,Redwood Electric,Installation,Apprentice Electrician (Lvl 1),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10044,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10159,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10360,Pinnacle Plumbing & Drain,Call Center,CSR,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10373,Pinnacle Plumbing & Drain,Call Center,Dispatcher,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10070,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10170,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10016,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10267,Redwood Electric,Parts & Fleet,Fleet Coordinator,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10074,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10176,Redwood Electric,Field Ops - Service,Electrician (Lvl 3),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10149,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10083,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10171,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10257,Pinnacle Plumbing & Drain,Field,Plumber - Master,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10240,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10141,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10409,Pinnacle Plumbing & Drain,Acctg,AP/AR Specialist,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10145,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10216,Redwood Electric,Sales,Sr Home Solutions Consultant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10221,Redwood Electric,CSR,Cust Svc Rep,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10216,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10335,Pinnacle Plumbing & Drain,Call Center,CSR,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10056,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10425,Pinnacle Plumbing & Drain,Executive,General Manager,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10417,Pinnacle Plumbing & Drain,Acctg,Staff Accountant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10002,Redwood Electric,Installation,Apprentice Electrician (Lvl 1),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10069,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10408,Pinnacle Plumbing & Drain,Acctg,AP/AR Specialist,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10344,Pinnacle Plumbing & Drain,Call Center,CSR,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10422,Pinnacle Plumbing & Drain,Acctg,Controller,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10218,Redwood Electric,Sales,Inside Sales Representative,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10014,Redwood Electric,Installation,Apprentice Electrician (Lvl 1),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10054,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10027,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10006,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10305,Pinnacle Plumbing & Drain,Sales,Sales Consultant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10205,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10025,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10079,Redwood Electric,Installation,Lead Electrical Installer (Lvl 3),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10140,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10323,Pinnacle Plumbing & Drain,Call Center,CSR,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10398,Pinnacle Plumbing & Drain,Fleet,Parts Coordinator,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10197,Redwood Electric,Field Ops - Service,Field Supervisor,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10400,Pinnacle Plumbing & Drain,Fleet,Parts Coordinator,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10268,Pinnacle Plumbing & Drain,Field,Plumber - Master,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10128,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10223,Redwood Electric,CSR,Cust Svc Rep,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10152,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10388,Pinnacle Plumbing & Drain,Fleet,Warehouse Associate,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10341,Pinnacle Plumbing & Drain,Call Center,CSR,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10237,Redwood Electric,CSR,Cust Svc Rep,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10005,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10119,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10235,Redwood Electric,CSR,Cust Svc Rep,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10298,Pinnacle Plumbing & Drain,Sales,Sales Consultant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10407,Pinnacle Plumbing & Drain,Acctg,AP/AR Specialist,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10279,Pinnacle Plumbing & Drain,Field,Field Supervisor,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10053,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10095,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10051,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10047,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10223,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10255,Pinnacle Plumbing & Drain,Field,Plumber - Master,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10194,Redwood Electric,Field Ops - Service,Field Supervisor,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10018,Redwood Electric,Installation,Apprentice Electrician (Lvl 1),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10278,Pinnacle Plumbing & Drain,Field,Field Supervisor,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10173,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10413,Pinnacle Plumbing & Drain,Acctg,AP/AR Specialist,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10118,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10290,Pinnacle Plumbing & Drain,Sales,Sales Consultant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10362,Pinnacle Plumbing & Drain,Call Center,CSR,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10396,Pinnacle Plumbing & Drain,Fleet,Parts Coordinator,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10017,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10406,Pinnacle Plumbing & Drain,Fleet,Fleet Coordinator,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10258,Redwood Electric,Parts & Fleet,Warehouse Associate,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10288,Pinnacle Plumbing & Drain,Sales,Sales Consultant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10137,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10093,Redwood Electric,Installation,Install Manager,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10048,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-C311,Pinnacle Plumbing & Drain,Field,Contract HVAC Technician,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10059,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10264,Redwood Electric,Parts & Fleet,Parts Coordinator,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10062,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10297,Pinnacle Plumbing & Drain,Sales,Sales Consultant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10090,Redwood Electric,Installation,Lead Electrical Installer (Lvl 3),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10053,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10089,Redwood Electric,Installation,Lead Electrical Installer (Lvl 3),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10239,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10333,Pinnacle Plumbing & Drain,Call Center,CSR,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10079,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10082,Redwood Electric,Installation,Lead Electrical Installer (Lvl 3),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10190,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10356,Pinnacle Plumbing & Drain,Call Center,CSR,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-C327,Pinnacle Plumbing & Drain,Field,Contract Electrician,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10104,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10281,Pinnacle Plumbing & Drain,Field,Field Supervisor,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10329,Pinnacle Plumbing & Drain,Call Center,CSR,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10423,Pinnacle Plumbing & Drain,HR,HR Coordinator,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10401,Pinnacle Plumbing & Drain,Fleet,Parts Coordinator,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10006,Redwood Electric,Installation,Apprentice Electrician (Lvl 1),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10143,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10131,Pinnacle Plumbing & Drain,Field,Installation Manager,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10049,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10300,Pinnacle Plumbing & Drain,Sales,Sales Consultant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10019,Redwood Electric,Installation,Apprentice Electrician (Lvl 1),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10338,Pinnacle Plumbing & Drain,Call Center,CSR,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10040,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10188,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10366,Pinnacle Plumbing & Drain,Call Center,Dispatcher,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10317,Pinnacle Plumbing & Drain,Sales,Inside Sales Representative,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10292,Pinnacle Plumbing & Drain,Sales,Sales Consultant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10114,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10085,Redwood Electric,Installation,Lead Electrical Installer (Lvl 3),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10138,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10088,Redwood Electric,Installation,Lead Electrical Installer (Lvl 3),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10184,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10181,Redwood Electric,Field Ops - Service,Electrician (Lvl 3),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10039,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10256,Redwood Electric,Parts & Fleet,Warehouse Associate,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10309,Pinnacle Plumbing & Drain,Sales,Senior Sales Consultant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10282,Redwood Electric,HR,Recruiter,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10097,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10197,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10051,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10261,Redwood Electric,Parts & Fleet,Warehouse Associate,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10209,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10105,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10421,Pinnacle Plumbing & Drain,Acctg,Controller,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10166,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10040,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10004,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10132,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10135,Pinnacle Plumbing & Drain,Field,Installation Manager,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10306,Pinnacle Plumbing & Drain,Sales,Senior Sales Consultant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10230,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10231,Redwood Electric,CSR,Cust Svc Rep,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10038,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10171,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10052,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10228,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10106,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10068,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10324,Pinnacle Plumbing & Drain,Call Center,CSR,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10241,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10012,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10343,Pinnacle Plumbing & Drain,Call Center,CSR,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10116,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10202,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10243,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10039,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10082,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10164,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-C336,Redwood Electric,Parts & Fleet,Temp Warehouse Associate,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10033,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10003,Redwood Electric,Installation,Apprentice Electrician (Lvl 1),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10097,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10136,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10081,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10214,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10311,Pinnacle Plumbing & Drain,Sales,Senior Sales Consultant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10094,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10189,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10154,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10201,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10043,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10416,Pinnacle Plumbing & Drain,Acctg,Staff Accountant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10035,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10209,Redwood Electric,Sales,Home Solutions Consultant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10167,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10268,Redwood Electric,Parts & Fleet,Warehouse Manager,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10001,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10138,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10126,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10198,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10163,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10028,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10192,Redwood Electric,Field Ops - Service,Electrician (Lvl 3),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10019,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10385,Pinnacle Plumbing & Drain,Fleet,Warehouse Associate,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10055,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10071,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10424,Pinnacle Plumbing & Drain,Executive,Executive Assistant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10191,Redwood Electric,Field Ops - Service,Electrician (Lvl 3),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10076,Redwood Electric,Installation,Lead Electrical Installer (Lvl 3),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-C335,Pinnacle Plumbing & Drain,Fleet,Temp Warehouse Associate,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10255,Redwood Electric,Parts & Fleet,Warehouse Associate,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-C317,Redwood Electric,Installation,Contract Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10227,Redwood Electric,CSR,Cust Svc Rep,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10052,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10229,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10125,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10246,Pinnacle Plumbing & Drain,Field,Plumber - Master,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10299,Pinnacle Plumbing & Drain,Sales,Sales Consultant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10008,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10177,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10126,Pinnacle Plumbing & Drain,Field,Installation Manager,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10034,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10248,Redwood Electric,CSR,Dispatcher,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10263,Redwood Electric,Parts & Fleet,Parts Coordinator,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10287,Pinnacle Plumbing & Drain,Sales,Sales Consultant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10041,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10207,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-C328,Pinnacle Plumbing & Drain,Field,Contract Electrician,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10123,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10134,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10119,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10380,Pinnacle Plumbing & Drain,Call Center,Customer Care Manager,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10394,Pinnacle Plumbing & Drain,Fleet,Parts Coordinator,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10103,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10042,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10064,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10208,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10258,Pinnacle Plumbing & Drain,Field,Plumber - Master,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10172,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10313,Pinnacle Plumbing & Drain,Sales,Inside Sales Representative,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10107,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10276,Pinnacle Plumbing & Drain,Field,Field Supervisor,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10302,Pinnacle Plumbing & Drain,Sales,Sales Consultant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10133,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10122,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10016,Redwood Electric,Installation,Apprentice Electrician (Lvl 1),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10357,Pinnacle Plumbing & Drain,Call Center,CSR,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10315,Pinnacle Plumbing & Drain,Sales,Inside Sales Representative,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10124,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10060,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10308,Pinnacle Plumbing & Drain,Sales,Senior Sales Consultant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10187,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10147,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10146,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10139,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10024,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10225,Redwood Electric,CSR,Cust Svc Rep,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10363,Pinnacle Plumbing & Drain,Call Center,CSR,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10248,Pinnacle Plumbing & Drain,Field,Plumber - Master,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10092,Redwood Electric,Installation,Install Manager,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10206,Redwood Electric,Sales,Home Solutions Consultant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10269,Redwood Electric,Finance,AP/AR Specialist,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10404,Pinnacle Plumbing & Drain,Fleet,Fleet Coordinator,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10219,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10279,Redwood Electric,HR,HR Coordinator,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10212,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10274,Redwood Electric,Finance,Staff Accountant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10185,Redwood Electric,Field Ops - Service,Electrician (Lvl 3),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10047,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10345,Pinnacle Plumbing & Drain,Call Center,CSR,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10411,Pinnacle Plumbing & Drain,Acctg,AP/AR Specialist,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10218,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10142,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10098,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10100,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10159,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10102,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10063,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10250,Redwood Electric,CSR,Dispatcher,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10346,Pinnacle Plumbing & Drain,Call Center,CSR,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10321,Pinnacle Plumbing & Drain,Sales,Sales Manager,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10202,Redwood Electric,Field Ops - Service,Service Manager,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10379,Pinnacle Plumbing & Drain,Call Center,Customer Care Manager,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10010,Redwood Electric,Installation,Apprentice Electrician (Lvl 1),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10237,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10017,Redwood Electric,Installation,Apprentice Electrician (Lvl 1),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10007,Redwood Electric,Installation,Apprentice Electrician (Lvl 1),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10310,Pinnacle Plumbing & Drain,Sales,Senior Sales Consultant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10021,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10295,Pinnacle Plumbing & Drain,Sales,Sales Consultant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10182,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10326,Pinnacle Plumbing & Drain,Call Center,CSR,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10104,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10129,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10088,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-C303,Pinnacle Plumbing & Drain,Field,Contract HVAC Technician,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10285,Redwood Electric,Executive,General Manager,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10225,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10193,Redwood Electric,Field Ops - Service,Field Supervisor,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10127,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10262,Redwood Electric,Parts & Fleet,Parts Coordinator,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10204,Redwood Electric,Sales,Home Solutions Consultant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10264,Pinnacle Plumbing & Drain,Field,Plumber - Master,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10199,Redwood Electric,Field Ops - Service,Service Manager,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10036,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-C322,Redwood Electric,Installation,Contract Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10286,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10122,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10084,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10070,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10157,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10154,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10153,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10377,Pinnacle Plumbing & Drain,Call Center,Call Center Supervisor,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10028,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10163,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10008,Redwood Electric,Installation,Apprentice Electrician (Lvl 1),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10420,Pinnacle Plumbing & Drain,Acctg,Controller,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10283,Pinnacle Plumbing & Drain,Field,Service Manager,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10269,Pinnacle Plumbing & Drain,Field,Plumber - Master,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10094,Redwood Electric,Installation,Install Manager,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10224,Redwood Electric,CSR,Cust Svc Rep,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10414,Pinnacle Plumbing & Drain,Acctg,Payroll Specialist,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10162,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10256,Pinnacle Plumbing & Drain,Field,Plumber - Master,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10106,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10183,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10272,Pinnacle Plumbing & Drain,Field,Plumber - Master,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10156,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10337,Pinnacle Plumbing & Drain,Call Center,CSR,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10293,Pinnacle Plumbing & Drain,Sales,Sales Consultant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10180,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10101,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10376,Pinnacle Plumbing & Drain,Call Center,Call Center Supervisor,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10072,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10233,Redwood Electric,CSR,Cust Svc Rep,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10015,Redwood Electric,Installation,Apprentice Electrician (Lvl 1),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10063,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10164,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10245,Redwood Electric,CSR,Dispatcher,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10117,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10397,Pinnacle Plumbing & Drain,Fleet,Parts Coordinator,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10211,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10123,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10301,Pinnacle Plumbing & Drain,Sales,Sales Consultant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-C321,Pinnacle Plumbing & Drain,Field,Contract Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10170,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10410,Pinnacle Plumbing & Drain,Acctg,AP/AR Specialist,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10325,Pinnacle Plumbing & Drain,Call Center,CSR,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10189,Redwood Electric,Field Ops - Service,Electrician (Lvl 3),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10155,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10072,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10141,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10234,Redwood Electric,CSR,Cust Svc Rep,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10048,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10226,Redwood Electric,CSR,Cust Svc Rep,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10109,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10158,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10215,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10111,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10405,Pinnacle Plumbing & Drain,Fleet,Fleet Coordinator,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10419,Pinnacle Plumbing & Drain,Acctg,Senior Accountant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10187,Redwood Electric,Field Ops - Service,Electrician (Lvl 3),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-C325,Redwood Electric,Field Ops - Service,Contract Electrician,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10327,Pinnacle Plumbing & Drain,Call Center,CSR,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10043,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10273,Pinnacle Plumbing & Drain,Field,Plumber - Master,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10022,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10066,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10128,Pinnacle Plumbing & Drain,Field,Installation Manager,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10179,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10257,Redwood Electric,Parts & Fleet,Warehouse Associate,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10271,Pinnacle Plumbing & Drain,Field,Plumber - Master,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10273,Redwood Electric,Finance,Staff Accountant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10265,Redwood Electric,Parts & Fleet,Parts Coordinator,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10086,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10217,Redwood Electric,Sales,Sr Home Solutions Consultant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10001,Redwood Electric,Installation,Apprentice Electrician (Lvl 1),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10078,Redwood Electric,Installation,Lead Electrical Installer (Lvl 3),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10059,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10037,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10247,Pinnacle Plumbing & Drain,Field,Plumber - Master,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10274,Pinnacle Plumbing & Drain,Field,Plumber - Master,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10192,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10148,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10130,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10062,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10347,Pinnacle Plumbing & Drain,Call Center,CSR,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10331,Pinnacle Plumbing & Drain,Call Center,CSR,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10135,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10322,Pinnacle Plumbing & Drain,Sales,Sales Manager,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10121,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-C337,Pinnacle Plumbing & Drain,Fleet,Temp Warehouse Associate,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10316,Pinnacle Plumbing & Drain,Sales,Inside Sales Representative,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10150,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10251,Pinnacle Plumbing & Drain,Field,Plumber - Master,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10010,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10221,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10277,Redwood Electric,HR,HR Coordinator,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10031,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10211,Redwood Electric,Sales,Home Solutions Consultant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10270,Redwood Electric,Finance,AP/AR Specialist,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10022,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10005,Redwood Electric,Installation,Apprentice Electrician (Lvl 1),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10096,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10220,Redwood Electric,CSR,Cust Svc Rep,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10243,Redwood Electric,CSR,Cust Svc Rep,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10235,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10210,Redwood Electric,Sales,Home Solutions Consultant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10118,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10254,Redwood Electric,Parts & Fleet,Warehouse Associate,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10168,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10367,Pinnacle Plumbing & Drain,Call Center,Dispatcher,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10232,Redwood Electric,CSR,Cust Svc Rep,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10289,Pinnacle Plumbing & Drain,Sales,Sales Consultant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10275,Pinnacle Plumbing & Drain,Field,Plumber - Master,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10109,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10140,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10150,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10239,Redwood Electric,CSR,Cust Svc Rep,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10178,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10045,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10242,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10143,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10012,Redwood Electric,Installation,Apprentice Electrician (Lvl 1),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10231,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10195,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10139,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10112,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10234,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10364,Pinnacle Plumbing & Drain,Call Center,Dispatcher,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10173,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10245,Pinnacle Plumbing & Drain,Field,Plumber - Master,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10387,Pinnacle Plumbing & Drain,Fleet,Warehouse Associate,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10027,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10391,Pinnacle Plumbing & Drain,Fleet,Warehouse Associate,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10077,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10057,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10151,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10049,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10090,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10013,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10382,Pinnacle Plumbing & Drain,Fleet,Warehouse Associate,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10230,Redwood Electric,CSR,Cust Svc Rep,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10238,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10032,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10054,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10361,Pinnacle Plumbing & Drain,Call Center,CSR,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10015,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10020,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10110,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10205,Redwood Electric,Sales,Home Solutions Consultant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10304,Pinnacle Plumbing & Drain,Sales,Sales Consultant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10336,Pinnacle Plumbing & Drain,Call Center,CSR,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10166,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10383,Pinnacle Plumbing & Drain,Fleet,Warehouse Associate,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10213,Redwood Electric,Sales,Sr Home Solutions Consultant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10105,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10134,Pinnacle Plumbing & Drain,Field,Installation Manager,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10156,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10402,Pinnacle Plumbing & Drain,Fleet,Parts Coordinator,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10186,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10284,Redwood Electric,IT,Systems Administrator,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10219,Redwood Electric,CSR,Cust Svc Rep,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10100,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10207,Redwood Electric,Sales,Home Solutions Consultant,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10201,Redwood Electric,Field Ops - Service,Service Manager,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10196,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10080,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10157,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10253,Pinnacle Plumbing & Drain,Field,Plumber - Master,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10110,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10086,Redwood Electric,Installation,Lead Electrical Installer (Lvl 3),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10046,Redwood Electric,Installation,Electrical Installer (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10188,Redwood Electric,Field Ops - Service,Electrician (Lvl 3),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10351,Pinnacle Plumbing & Drain,Call Center,CSR,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10195,Redwood Electric,Field Ops - Service,Field Supervisor,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10169,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10280,Redwood Electric,HR,Recruiter,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10076,Pinnacle Plumbing & Drain,Field,Plumbing Installer,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10149,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10244,Redwood Electric,CSR,Cust Svc Rep,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+RED-10080,Redwood Electric,Installation,Lead Electrical Installer (Lvl 3),scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10342,Pinnacle Plumbing & Drain,Call Center,CSR,scheduled_weekly_hours,Blank scheduled hours,blank,40.0,Default to 40 hours per week
+PIN-10307,Pinnacle Plumbing & Drain,Sales,Senior Sales Consultant,pay_basis,Blank pay basis,50500.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10151,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,pay_basis,Blank pay basis,17.76,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10389,Pinnacle Plumbing & Drain,Fleet,Warehouse Associate,pay_basis,Blank pay basis,16.68,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10375,Pinnacle Plumbing & Drain,Call Center,Call Center Supervisor,pay_basis,Blank pay basis,58000.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10018,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,pay_basis,Blank pay basis,20.24,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10003,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,pay_basis,Blank pay basis,17.78,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10232,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,28.1,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10282,Pinnacle Plumbing & Drain,Field,Field Supervisor,pay_basis,Blank pay basis,82000.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10120,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,pay_basis,Blank pay basis,43.63,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10203,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,28.19,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10023,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,pay_basis,Blank pay basis,20.61,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10222,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,26.89,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10339,Pinnacle Plumbing & Drain,Call Center,CSR,pay_basis,Blank pay basis,20.14,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10277,Pinnacle Plumbing & Drain,Field,Field Supervisor,pay_basis,Blank pay basis,80000.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10101,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,23.1,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10358,Pinnacle Plumbing & Drain,Call Center,CSR,pay_basis,Blank pay basis,20.84,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10259,Pinnacle Plumbing & Drain,Field,Plumber - Master,pay_basis,Blank pay basis,37.16,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10033,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,pay_basis,Blank pay basis,19.45,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10169,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,27.9,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-C326,Pinnacle Plumbing & Drain,Field,Contract Electrician,pay_basis,Blank pay basis,55.66,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10390,Pinnacle Plumbing & Drain,Fleet,Warehouse Associate,pay_basis,Blank pay basis,17.34,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10199,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,27.67,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10145,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,pay_basis,Blank pay basis,21.81,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10065,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,29.54,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10244,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,33.88,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10093,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,23.14,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10354,Pinnacle Plumbing & Drain,Call Center,CSR,pay_basis,Blank pay basis,20.78,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10007,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,pay_basis,Blank pay basis,21.87,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10369,Pinnacle Plumbing & Drain,Call Center,Dispatcher,pay_basis,Blank pay basis,24.49,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10067,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,29.04,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10386,Pinnacle Plumbing & Drain,Fleet,Warehouse Associate,pay_basis,Blank pay basis,16.4,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10089,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,22.72,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10206,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,29.52,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10009,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,pay_basis,Blank pay basis,18.73,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10263,Pinnacle Plumbing & Drain,Field,Plumber - Master,pay_basis,Blank pay basis,42.95,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10137,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,pay_basis,Blank pay basis,17.21,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10415,Pinnacle Plumbing & Drain,Acctg,Staff Accountant,pay_basis,Blank pay basis,62000.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10127,Pinnacle Plumbing & Drain,Field,Installation Manager,pay_basis,Blank pay basis,78000.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10286,Pinnacle Plumbing & Drain,Sales,Sales Consultant,pay_basis,Blank pay basis,50000.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10056,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,22.04,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10035,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,24.94,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10014,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,pay_basis,Blank pay basis,21.64,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10266,Pinnacle Plumbing & Drain,Field,Plumber - Master,pay_basis,Blank pay basis,34.04,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10194,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,29.51,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10384,Pinnacle Plumbing & Drain,Fleet,Warehouse Associate,pay_basis,Blank pay basis,18.4,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10403,Pinnacle Plumbing & Drain,Fleet,Fleet Coordinator,pay_basis,Blank pay basis,53500.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10025,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,pay_basis,Blank pay basis,18.21,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10426,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,pay_basis,Blank pay basis,19.0,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10011,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,pay_basis,Blank pay basis,17.77,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10108,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,pay_basis,Blank pay basis,43.35,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10352,Pinnacle Plumbing & Drain,Call Center,CSR,pay_basis,Blank pay basis,18.59,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10217,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,24.49,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10031,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,pay_basis,Blank pay basis,21.96,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10176,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,28.48,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10073,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,26.96,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10378,Pinnacle Plumbing & Drain,Call Center,Call Center Supervisor,pay_basis,Blank pay basis,60500.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10175,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,31.09,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10350,Pinnacle Plumbing & Drain,Call Center,CSR,pay_basis,Blank pay basis,20.87,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10261,Pinnacle Plumbing & Drain,Field,Plumber - Master,pay_basis,Blank pay basis,40.17,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10181,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,27.26,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10091,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,29.58,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10213,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,31.54,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10167,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,30.21,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10312,Pinnacle Plumbing & Drain,Sales,Senior Sales Consultant,pay_basis,Blank pay basis,56500.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10393,Pinnacle Plumbing & Drain,Fleet,Warehouse Associate,pay_basis,Blank pay basis,20.82,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10042,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,22.54,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10045,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,26.42,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10103,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,24.04,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10280,Pinnacle Plumbing & Drain,Field,Field Supervisor,pay_basis,Blank pay basis,76500.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10115,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,pay_basis,Blank pay basis,41.18,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10092,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,26.06,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10260,Pinnacle Plumbing & Drain,Field,Plumber - Master,pay_basis,Blank pay basis,39.57,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10168,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,31.83,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10116,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,pay_basis,Blank pay basis,40.43,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10285,Pinnacle Plumbing & Drain,Sales,Sales Consultant,pay_basis,Blank pay basis,47500.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10102,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,22.59,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10254,Pinnacle Plumbing & Drain,Field,Plumber - Master,pay_basis,Blank pay basis,34.24,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10250,Pinnacle Plumbing & Drain,Field,Plumber - Master,pay_basis,Blank pay basis,36.99,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10371,Pinnacle Plumbing & Drain,Call Center,Dispatcher,pay_basis,Blank pay basis,24.84,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10026,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,pay_basis,Blank pay basis,20.38,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10381,Pinnacle Plumbing & Drain,Call Center,Customer Care Manager,pay_basis,Blank pay basis,82500.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10174,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,31.89,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10355,Pinnacle Plumbing & Drain,Call Center,CSR,pay_basis,Blank pay basis,16.82,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10294,Pinnacle Plumbing & Drain,Sales,Sales Consultant,pay_basis,Blank pay basis,45000.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10078,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,28.11,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10359,Pinnacle Plumbing & Drain,Call Center,CSR,pay_basis,Blank pay basis,19.32,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10370,Pinnacle Plumbing & Drain,Call Center,Dispacher,pay_basis,Blank pay basis,22.28,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10353,Pinnacle Plumbing & Drain,Call Center,CSR,pay_basis,Blank pay basis,16.65,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-C333,Pinnacle Plumbing & Drain,Fleet,Temp Warehouse Associate,pay_basis,Blank pay basis,19.17,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10071,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,23.12,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10314,Pinnacle Plumbing & Drain,Sales,Inside Sales Representative,pay_basis,Blank pay basis,18.11,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10349,Pinnacle Plumbing & Drain,Call Center,CSR,pay_basis,Blank pay basis,20.87,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10155,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,pay_basis,Blank pay basis,21.15,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10330,Pinnacle Plumbing & Drain,Call Center,CSR,pay_basis,Blank pay basis,19.16,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-C304,Pinnacle Plumbing & Drain,Field,Contract HVAC Technician,pay_basis,Blank pay basis,40.47,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10032,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,pay_basis,Blank pay basis,18.46,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10296,Pinnacle Plumbing & Drain,Sales,Sales Consultant,pay_basis,Blank pay basis,46500.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10161,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,pay_basis,Blank pay basis,17.08,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10068,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,28.79,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10087,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,23.36,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10058,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,26.32,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10328,Pinnacle Plumbing & Drain,Call Center,CSR,pay_basis,Blank pay basis,19.72,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10249,Pinnacle Plumbing & Drain,Field,Plumber - Master,pay_basis,Blank pay basis,41.23,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10200,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,28.2,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10204,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,29.65,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10284,Pinnacle Plumbing & Drain,Field,Service Manager,pay_basis,Blank pay basis,94500.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10133,Pinnacle Plumbing & Drain,Field,Installation Manager,pay_basis,Blank pay basis,81000.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10050,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,26.25,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10395,Pinnacle Plumbing & Drain,Fleet,Parts Coordinator,pay_basis,Blank pay basis,22.99,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10046,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,25.36,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10270,Pinnacle Plumbing & Drain,Field,Plumber - Master,pay_basis,Blank pay basis,34.24,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10252,Pinnacle Plumbing & Drain,Field,Plumber - Master,pay_basis,Blank pay basis,40.06,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10060,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,26.22,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10334,Pinnacle Plumbing & Drain,Call Center,CSR,pay_basis,Blank pay basis,17.86,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10030,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,pay_basis,Blank pay basis,19.5,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10368,Pinnacle Plumbing & Drain,Call Center,Dispacher,pay_basis,Blank pay basis,19.39,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10132,Pinnacle Plumbing & Drain,Field,Installation Manager,pay_basis,Blank pay basis,87500.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10034,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,22.61,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10066,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,28.51,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10267,Pinnacle Plumbing & Drain,Field,Plumber - Master,pay_basis,Blank pay basis,38.57,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10099,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,26.56,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10392,Pinnacle Plumbing & Drain,Fleet,Warehouse Associate,pay_basis,Blank pay basis,19.4,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10193,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,32.7,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10121,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,pay_basis,Blank pay basis,43.96,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10340,Pinnacle Plumbing & Drain,Call Center,CSR,pay_basis,Blank pay basis,18.58,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10319,Pinnacle Plumbing & Drain,Sales,Sales Manager,pay_basis,Blank pay basis,93500.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10002,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,pay_basis,Blank pay basis,18.15,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10055,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,26.11,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10227,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,32.45,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10085,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,25.64,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10418,Pinnacle Plumbing & Drain,Acctg,Senior Accountant,pay_basis,Blank pay basis,80000.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10114,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,pay_basis,Blank pay basis,44.59,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10365,Pinnacle Plumbing & Drain,Call Center,Dispatcher,pay_basis,Blank pay basis,20.0,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10291,Pinnacle Plumbing & Drain,Sales,Sales Consultant,pay_basis,Blank pay basis,51000.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10075,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,29.04,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10165,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,27.46,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10098,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,27.04,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10233,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,26.71,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10320,Pinnacle Plumbing & Drain,Sales,Sales Manager,pay_basis,Blank pay basis,114000.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10265,Pinnacle Plumbing & Drain,Field,Plumber - Master,pay_basis,Blank pay basis,35.34,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10191,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,31.58,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10144,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,pay_basis,Blank pay basis,18.5,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10332,Pinnacle Plumbing & Drain,Call Center,CSR,pay_basis,Blank pay basis,17.04,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10399,Pinnacle Plumbing & Drain,Fleet,Parts Coordinator,pay_basis,Blank pay basis,20.47,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10129,Pinnacle Plumbing & Drain,Field,Installation Manager,pay_basis,Blank pay basis,86500.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10029,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,pay_basis,Blank pay basis,20.12,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10318,Pinnacle Plumbing & Drain,Sales,Inside Sales Representative,pay_basis,Blank pay basis,20.2,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10160,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,pay_basis,Blank pay basis,17.27,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10185,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,32.47,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10262,Pinnacle Plumbing & Drain,Field,Plumber - Master,pay_basis,Blank pay basis,38.81,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10130,Pinnacle Plumbing & Drain,Field,Installation Manager,pay_basis,Blank pay basis,78500.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10303,Pinnacle Plumbing & Drain,Sales,Sales Consultant,pay_basis,Blank pay basis,52500.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10112,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,pay_basis,Blank pay basis,43.83,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10020,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,pay_basis,Blank pay basis,19.39,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10348,Pinnacle Plumbing & Drain,Call Center,CSR,pay_basis,Blank pay basis,19.64,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10226,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,25.7,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-C314,Pinnacle Plumbing & Drain,Field,Contract Installer,pay_basis,Blank pay basis,44.47,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10061,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,26.27,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10412,Pinnacle Plumbing & Drain,Acctg,AP/AR Specialist,pay_basis,Blank pay basis,22.91,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10113,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,pay_basis,Blank pay basis,43.67,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10125,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,pay_basis,Blank pay basis,42.96,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10224,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,27.59,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10210,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,26.66,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10372,Pinnacle Plumbing & Drain,Call Center,Dispatcher,pay_basis,Blank pay basis,20.65,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10220,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,32.38,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10374,Pinnacle Plumbing & Drain,Call Center,Call Center Supervisor,pay_basis,Blank pay basis,57000.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10236,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,33.76,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10044,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,29.47,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10360,Pinnacle Plumbing & Drain,Call Center,CSR,pay_basis,Blank pay basis,17.17,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10373,Pinnacle Plumbing & Drain,Call Center,Dispatcher,pay_basis,Blank pay basis,21.12,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10070,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,26.66,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10016,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,pay_basis,Blank pay basis,19.57,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10074,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,25.84,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10149,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,pay_basis,Blank pay basis,20.57,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10083,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,26.0,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10257,Pinnacle Plumbing & Drain,Field,Plumber - Master,pay_basis,Blank pay basis,34.73,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10240,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,26.3,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10409,Pinnacle Plumbing & Drain,Acctg,AP/AR Specialist,pay_basis,Blank pay basis,23.5,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10216,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,25.72,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10335,Pinnacle Plumbing & Drain,Call Center,CSR,pay_basis,Blank pay basis,17.73,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10425,Pinnacle Plumbing & Drain,Executive,General Manager,pay_basis,Blank pay basis,193500.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10417,Pinnacle Plumbing & Drain,Acctg,Staff Accountant,pay_basis,Blank pay basis,70000.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10069,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,28.81,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10408,Pinnacle Plumbing & Drain,Acctg,AP/AR Specialist,pay_basis,Blank pay basis,23.9,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10344,Pinnacle Plumbing & Drain,Call Center,CSR,pay_basis,Blank pay basis,18.76,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10422,Pinnacle Plumbing & Drain,Acctg,Controller,pay_basis,Blank pay basis,139000.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10006,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,pay_basis,Blank pay basis,18.93,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10305,Pinnacle Plumbing & Drain,Sales,Sales Consultant,pay_basis,Blank pay basis,50000.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10205,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,28.56,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10140,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,pay_basis,Blank pay basis,20.69,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10323,Pinnacle Plumbing & Drain,Call Center,CSR,pay_basis,Blank pay basis,18.62,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10398,Pinnacle Plumbing & Drain,Fleet,Parts Coordinator,pay_basis,Blank pay basis,22.09,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10400,Pinnacle Plumbing & Drain,Fleet,Parts Coordinator,pay_basis,Blank pay basis,25.56,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10268,Pinnacle Plumbing & Drain,Field,Plumber - Master,pay_basis,Blank pay basis,41.96,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10152,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,pay_basis,Blank pay basis,17.65,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10388,Pinnacle Plumbing & Drain,Fleet,Warehouse Associate,pay_basis,Blank pay basis,17.23,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10341,Pinnacle Plumbing & Drain,Call Center,CSR,pay_basis,Blank pay basis,16.68,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10005,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,pay_basis,Blank pay basis,21.11,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10298,Pinnacle Plumbing & Drain,Sales,Sales Consultant,pay_basis,Blank pay basis,52500.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10407,Pinnacle Plumbing & Drain,Acctg,AP/AR Specialist,pay_basis,Blank pay basis,22.64,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10279,Pinnacle Plumbing & Drain,Field,Field Supervisor,pay_basis,Blank pay basis,84500.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10095,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,28.3,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10051,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,24.39,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10223,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,31.67,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10255,Pinnacle Plumbing & Drain,Field,Plumber - Master,pay_basis,Blank pay basis,38.05,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10278,Pinnacle Plumbing & Drain,Field,Field Supervisor,pay_basis,Blank pay basis,80000.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10173,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,30.61,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10413,Pinnacle Plumbing & Drain,Acctg,AP/AR Specialist,pay_basis,Blank pay basis,22.84,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10118,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,pay_basis,Blank pay basis,41.23,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10290,Pinnacle Plumbing & Drain,Sales,Sales Consultant,pay_basis,Blank pay basis,48500.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10362,Pinnacle Plumbing & Drain,Call Center,CSR,pay_basis,Blank pay basis,18.5,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10396,Pinnacle Plumbing & Drain,Fleet,Parts Coordinator,pay_basis,Blank pay basis,22.27,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10017,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,pay_basis,Blank pay basis,19.66,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10406,Pinnacle Plumbing & Drain,Fleet,Fleet Coordinator,pay_basis,Blank pay basis,53500.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10288,Pinnacle Plumbing & Drain,Sales,Sales Consultant,pay_basis,Blank pay basis,45500.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10048,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,28.08,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-C311,Pinnacle Plumbing & Drain,Field,Contract HVAC Technician,pay_basis,Blank pay basis,38.76,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10062,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,28.69,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10297,Pinnacle Plumbing & Drain,Sales,Sales Consultant,pay_basis,Blank pay basis,53000.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10053,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,26.7,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10239,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,32.72,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10333,Pinnacle Plumbing & Drain,Call Center,CSR,pay_basis,Blank pay basis,18.92,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10079,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,22.71,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10190,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,28.93,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10356,Pinnacle Plumbing & Drain,Call Center,CSR,pay_basis,Blank pay basis,17.83,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-C327,Pinnacle Plumbing & Drain,Field,Contract Electrician,pay_basis,Blank pay basis,46.66,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10104,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,29.23,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10281,Pinnacle Plumbing & Drain,Field,Field Supervisor,pay_basis,Blank pay basis,85000.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10329,Pinnacle Plumbing & Drain,Call Center,CSR,pay_basis,Blank pay basis,16.8,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10423,Pinnacle Plumbing & Drain,HR,HR Coordinator,pay_basis,Blank pay basis,49500.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10401,Pinnacle Plumbing & Drain,Fleet,Parts Coordinator,pay_basis,Blank pay basis,22.44,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10131,Pinnacle Plumbing & Drain,Field,Installation Manager,pay_basis,Blank pay basis,85500.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10049,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,25.19,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10300,Pinnacle Plumbing & Drain,Sales,Sales Consultant,pay_basis,Blank pay basis,54500.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10338,Pinnacle Plumbing & Drain,Call Center,CSR,pay_basis,Blank pay basis,16.57,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10188,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,29.77,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10366,Pinnacle Plumbing & Drain,Call Center,Dispatcher,pay_basis,Blank pay basis,19.65,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10317,Pinnacle Plumbing & Drain,Sales,Inside Sales Representative,pay_basis,Blank pay basis,20.65,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10292,Pinnacle Plumbing & Drain,Sales,Sales Consultant,pay_basis,Blank pay basis,47500.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10184,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,24.06,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10039,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,24.69,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10309,Pinnacle Plumbing & Drain,Sales,Senior Sales Consultant,pay_basis,Blank pay basis,61500.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10097,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,24.51,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10197,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,25.89,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10209,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,27.39,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10105,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,pay_basis,Blank pay basis,42.38,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10421,Pinnacle Plumbing & Drain,Acctg,Controller,pay_basis,Blank pay basis,123000.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10040,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,28.94,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10004,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,pay_basis,Blank pay basis,18.7,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10135,Pinnacle Plumbing & Drain,Field,Installation Manager,pay_basis,Blank pay basis,84000.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10306,Pinnacle Plumbing & Drain,Sales,Senior Sales Consultant,pay_basis,Blank pay basis,57500.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10230,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,30.37,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10038,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,27.01,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10171,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,26.58,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10228,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,28.74,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10106,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,pay_basis,Blank pay basis,41.29,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10324,Pinnacle Plumbing & Drain,Call Center,CSR,pay_basis,Blank pay basis,16.95,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10241,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,31.34,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10012,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,pay_basis,Blank pay basis,20.21,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10343,Pinnacle Plumbing & Drain,Call Center,CSR,pay_basis,Blank pay basis,20.78,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10202,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,27.42,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10243,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,29.49,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10082,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,27.57,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10164,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,33.58,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10136,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,pay_basis,Blank pay basis,17.41,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10081,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,23.88,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10214,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,33.44,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10311,Pinnacle Plumbing & Drain,Sales,Senior Sales Consultant,pay_basis,Blank pay basis,50500.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10094,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,22.96,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10189,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,29.68,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10201,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,26.21,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10416,Pinnacle Plumbing & Drain,Acctg,Staff Accountant,pay_basis,Blank pay basis,67500.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10001,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,pay_basis,Blank pay basis,17.16,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10138,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,pay_basis,Blank pay basis,20.7,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10198,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,24.86,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10019,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,pay_basis,Blank pay basis,19.49,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10385,Pinnacle Plumbing & Drain,Fleet,Warehouse Associate,pay_basis,Blank pay basis,16.29,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10424,Pinnacle Plumbing & Drain,Executive,Executive Assistant,pay_basis,Blank pay basis,64500.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-C335,Pinnacle Plumbing & Drain,Fleet,Temp Warehouse Associate,pay_basis,Blank pay basis,17.2,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10052,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,22.81,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10229,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,30.16,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10246,Pinnacle Plumbing & Drain,Field,Plumber - Master,pay_basis,Blank pay basis,39.58,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10299,Pinnacle Plumbing & Drain,Sales,Sales Consultant,pay_basis,Blank pay basis,49000.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10008,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,pay_basis,Blank pay basis,20.8,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10177,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,30.82,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10126,Pinnacle Plumbing & Drain,Field,Installation Manager,pay_basis,Blank pay basis,83500.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10287,Pinnacle Plumbing & Drain,Sales,Sales Consultant,pay_basis,Blank pay basis,54500.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10041,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,27.96,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10207,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,25.86,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-C328,Pinnacle Plumbing & Drain,Field,Contract Electrician,pay_basis,Blank pay basis,57.29,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10119,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,pay_basis,Blank pay basis,40.4,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10380,Pinnacle Plumbing & Drain,Call Center,Customer Care Manager,pay_basis,Blank pay basis,83500.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10394,Pinnacle Plumbing & Drain,Fleet,Parts Coordinator,pay_basis,Blank pay basis,22.67,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10064,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,29.56,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10208,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,24.95,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10258,Pinnacle Plumbing & Drain,Field,Plumber - Master,pay_basis,Blank pay basis,35.98,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10172,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,32.27,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10313,Pinnacle Plumbing & Drain,Sales,Inside Sales Representative,pay_basis,Blank pay basis,18.89,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10107,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,pay_basis,Blank pay basis,41.75,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10276,Pinnacle Plumbing & Drain,Field,Field Supervisor,pay_basis,Blank pay basis,76500.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10302,Pinnacle Plumbing & Drain,Sales,Sales Consultant,pay_basis,Blank pay basis,47000.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10122,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,pay_basis,Blank pay basis,43.7,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10357,Pinnacle Plumbing & Drain,Call Center,CSR,pay_basis,Blank pay basis,19.77,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10315,Pinnacle Plumbing & Drain,Sales,Inside Sales Representative,pay_basis,Blank pay basis,18.9,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10124,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,pay_basis,Blank pay basis,40.06,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10308,Pinnacle Plumbing & Drain,Sales,Senior Sales Consultant,pay_basis,Blank pay basis,50500.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10187,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,25.6,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10147,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,pay_basis,Blank pay basis,20.57,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10146,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,pay_basis,Blank pay basis,19.78,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10024,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,pay_basis,Blank pay basis,21.61,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10363,Pinnacle Plumbing & Drain,Call Center,CSR,pay_basis,Blank pay basis,16.25,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10248,Pinnacle Plumbing & Drain,Field,Plumber - Master,pay_basis,Blank pay basis,41.72,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10404,Pinnacle Plumbing & Drain,Fleet,Fleet Coordinator,pay_basis,Blank pay basis,57500.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10219,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,26.08,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10212,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,33.82,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10047,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,29.54,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10345,Pinnacle Plumbing & Drain,Call Center,CSR,pay_basis,Blank pay basis,17.92,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10411,Pinnacle Plumbing & Drain,Acctg,AP/AR Specialist,pay_basis,Blank pay basis,22.28,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10218,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,30.32,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10142,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,pay_basis,Blank pay basis,20.61,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10100,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,25.82,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10159,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,pay_basis,Blank pay basis,21.13,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10346,Pinnacle Plumbing & Drain,Call Center,CSR,pay_basis,Blank pay basis,17.88,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10321,Pinnacle Plumbing & Drain,Sales,Sales Manager,pay_basis,Blank pay basis,105500.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10379,Pinnacle Plumbing & Drain,Call Center,Customer Care Manager,pay_basis,Blank pay basis,72000.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10237,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,27.85,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10310,Pinnacle Plumbing & Drain,Sales,Senior Sales Consultant,pay_basis,Blank pay basis,56500.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10021,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,pay_basis,Blank pay basis,20.18,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10295,Pinnacle Plumbing & Drain,Sales,Sales Consultant,pay_basis,Blank pay basis,51500.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10182,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,26.77,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10326,Pinnacle Plumbing & Drain,Call Center,CSR,pay_basis,Blank pay basis,18.27,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10088,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,25.41,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-C303,Pinnacle Plumbing & Drain,Field,Contract HVAC Technician,pay_basis,Blank pay basis,41.52,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10225,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,33.85,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10264,Pinnacle Plumbing & Drain,Field,Plumber - Master,pay_basis,Blank pay basis,34.28,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10036,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,23.78,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10084,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,24.77,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10154,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,pay_basis,Blank pay basis,21.68,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10153,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,pay_basis,Blank pay basis,20.05,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10377,Pinnacle Plumbing & Drain,Call Center,Call Center Supervisor,pay_basis,Blank pay basis,60500.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10028,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,pay_basis,Blank pay basis,21.27,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10163,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,29.36,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10420,Pinnacle Plumbing & Drain,Acctg,Controller,pay_basis,Blank pay basis,120000.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10283,Pinnacle Plumbing & Drain,Field,Service Manager,pay_basis,Blank pay basis,99000.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10269,Pinnacle Plumbing & Drain,Field,Plumber - Master,pay_basis,Blank pay basis,42.64,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10414,Pinnacle Plumbing & Drain,Acctg,Payroll Specialist,pay_basis,Blank pay basis,56500.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10162,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,pay_basis,Blank pay basis,19.63,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10256,Pinnacle Plumbing & Drain,Field,Plumber - Master,pay_basis,Blank pay basis,41.75,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10183,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,28.29,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10272,Pinnacle Plumbing & Drain,Field,Plumber - Master,pay_basis,Blank pay basis,42.08,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10156,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,pay_basis,Blank pay basis,20.48,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10337,Pinnacle Plumbing & Drain,Call Center,CSR,pay_basis,Blank pay basis,18.67,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10293,Pinnacle Plumbing & Drain,Sales,Sales Consultant,pay_basis,Blank pay basis,51000.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10180,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,28.17,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10376,Pinnacle Plumbing & Drain,Call Center,Call Center Supervisor,pay_basis,Blank pay basis,56500.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10063,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,24.72,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10117,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,pay_basis,Blank pay basis,41.41,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10397,Pinnacle Plumbing & Drain,Fleet,Parts Coordinator,pay_basis,Blank pay basis,23.29,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10211,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,25.9,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10123,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,pay_basis,Blank pay basis,44.23,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10301,Pinnacle Plumbing & Drain,Sales,Sales Consultant,pay_basis,Blank pay basis,47000.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-C321,Pinnacle Plumbing & Drain,Field,Contract Installer,pay_basis,Blank pay basis,38.56,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10170,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,31.53,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10410,Pinnacle Plumbing & Drain,Acctg,AP/AR Specialist,pay_basis,Blank pay basis,22.23,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10325,Pinnacle Plumbing & Drain,Call Center,CSR,pay_basis,Blank pay basis,17.48,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10072,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,23.8,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10141,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,pay_basis,Blank pay basis,20.01,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10109,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,pay_basis,Blank pay basis,42.42,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10158,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,pay_basis,Blank pay basis,19.64,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10215,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,24.48,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10111,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,pay_basis,Blank pay basis,40.91,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10405,Pinnacle Plumbing & Drain,Fleet,Fleet Coordinator,pay_basis,Blank pay basis,59500.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10419,Pinnacle Plumbing & Drain,Acctg,Senior Accountant,pay_basis,Blank pay basis,86500.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10327,Pinnacle Plumbing & Drain,Call Center,CSR,pay_basis,Blank pay basis,20.69,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10043,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,29.13,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10273,Pinnacle Plumbing & Drain,Field,Plumber - Master,pay_basis,Blank pay basis,39.78,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10128,Pinnacle Plumbing & Drain,Field,Installation Manager,pay_basis,Blank pay basis,79000.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10179,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,29.27,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10271,Pinnacle Plumbing & Drain,Field,Plumber - Master,pay_basis,Blank pay basis,38.34,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10086,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,29.84,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10059,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,22.57,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10037,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,28.02,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10247,Pinnacle Plumbing & Drain,Field,Plumber - Master,pay_basis,Blank pay basis,36.94,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10274,Pinnacle Plumbing & Drain,Field,Plumber - Master,pay_basis,Blank pay basis,41.26,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10192,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,31.53,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10148,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,pay_basis,Blank pay basis,18.15,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10347,Pinnacle Plumbing & Drain,Call Center,CSR,pay_basis,Blank pay basis,19.57,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10331,Pinnacle Plumbing & Drain,Call Center,CSR,pay_basis,Blank pay basis,19.13,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10322,Pinnacle Plumbing & Drain,Sales,Sales Manager,pay_basis,Blank pay basis,109000.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-C337,Pinnacle Plumbing & Drain,Fleet,Temp Warehouse Associate,pay_basis,Blank pay basis,19.77,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10316,Pinnacle Plumbing & Drain,Sales,Inside Sales Representative,pay_basis,Blank pay basis,21.93,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10251,Pinnacle Plumbing & Drain,Field,Plumber - Master,pay_basis,Blank pay basis,41.57,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10010,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,pay_basis,Blank pay basis,21.98,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10221,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,26.01,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10022,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,pay_basis,Blank pay basis,19.83,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10096,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,23.43,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10235,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,25.39,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10367,Pinnacle Plumbing & Drain,Call Center,Dispatcher,pay_basis,Blank pay basis,21.48,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10289,Pinnacle Plumbing & Drain,Sales,Sales Consultant,pay_basis,Blank pay basis,47000.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10275,Pinnacle Plumbing & Drain,Field,Plumber - Master,pay_basis,Blank pay basis,41.14,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10150,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,pay_basis,Blank pay basis,18.57,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10178,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,29.43,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10242,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,24.11,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10143,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,pay_basis,Blank pay basis,18.36,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10231,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,24.65,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10195,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,30.87,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10139,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,pay_basis,Blank pay basis,17.01,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10234,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,24.71,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10364,Pinnacle Plumbing & Drain,Call Center,Dispatcher,pay_basis,Blank pay basis,19.63,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10245,Pinnacle Plumbing & Drain,Field,Plumber - Master,pay_basis,Blank pay basis,37.85,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10387,Pinnacle Plumbing & Drain,Fleet,Warehouse Associate,pay_basis,Blank pay basis,16.84,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10027,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,pay_basis,Blank pay basis,18.16,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10391,Pinnacle Plumbing & Drain,Fleet,Warehouse Associate,pay_basis,Blank pay basis,16.83,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10077,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,24.96,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10057,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,23.47,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10090,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,24.19,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10013,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,pay_basis,Blank pay basis,17.76,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10382,Pinnacle Plumbing & Drain,Fleet,Warehouse Associate,pay_basis,Blank pay basis,19.16,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10238,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,28.73,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10054,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,25.56,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10361,Pinnacle Plumbing & Drain,Call Center,CSR,pay_basis,Blank pay basis,20.69,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10015,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,pay_basis,Blank pay basis,19.32,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10304,Pinnacle Plumbing & Drain,Sales,Sales Consultant,pay_basis,Blank pay basis,53500.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10336,Pinnacle Plumbing & Drain,Call Center,CSR,pay_basis,Blank pay basis,17.19,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10166,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,25.32,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10383,Pinnacle Plumbing & Drain,Fleet,Warehouse Associate,pay_basis,Blank pay basis,17.18,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10134,Pinnacle Plumbing & Drain,Field,Installation Manager,pay_basis,Blank pay basis,78500.0,Annual,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10402,Pinnacle Plumbing & Drain,Fleet,Parts Coordinator,pay_basis,Blank pay basis,21.14,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10186,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,33.9,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10196,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,pay_basis,Blank pay basis,26.31,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10080,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,29.47,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10157,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,pay_basis,Blank pay basis,19.06,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10253,Pinnacle Plumbing & Drain,Field,Plumber - Master,pay_basis,Blank pay basis,43.91,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10110,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,pay_basis,Blank pay basis,43.26,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10351,Pinnacle Plumbing & Drain,Call Center,CSR,pay_basis,Blank pay basis,16.64,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10076,Pinnacle Plumbing & Drain,Field,Plumbing Installer,pay_basis,Blank pay basis,27.31,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+PIN-10342,Pinnacle Plumbing & Drain,Call Center,CSR,pay_basis,Blank pay basis,17.52,Hourly,"Rate below 200 is Hourly, at or above is Annual"
+BAY-10093,Bayside Mechanical,Install,HVAC Installer II,pay_rate,Implausible pay rate,0.0,26.37,median of same role and level within opco
+GLC-10333,Great Lakes Comfort Systems,Customer Care,Dispatcher,pay_rate,Blank pay rate,blank,22.56,median of same role and level within opco
+BAY-10337,Bayside Mechanical,Sales,Comfort Advisor,pay_rate,Blank pay rate,blank,47500.0,median of same role and level within opco
+RED-10252,Redwood Electric,CSR,Dispatcher,pay_rate,Implausible pay rate,0.0,21.95,median of same role and level within opco
+GLC-10255,Great Lakes Comfort Systems,Service - HVAC,Field Supervisor,pay_rate,Blank pay rate,blank,78000.0,median of same role and level within opco
+BAY-10281,Bayside Mechanical,Service,HVAC Service Tech III,pay_rate,Implausible pay rate,0.0,37.44,median of same role and level within opco
+BAY-10329,Bayside Mechanical,Sales,Comfort Advisor,pay_rate,Blank pay rate,blank,47500.0,median of same role and level within opco
+RED-10038,Redwood Electric,Installation,Electrical Installer (Lvl 2),pay_rate,Blank pay rate,blank,25.72,median of same role and level within opco
+GLC-10198,Great Lakes Comfort Systems,Service - HVAC,Technician,pay_rate,Blank pay rate,blank,28.73,median of same role and level within opco
+RED-10013,Redwood Electric,Installation,Apprentice Electrician (Lvl 1),pay_rate,Blank pay rate,blank,18.44,median of same role and level within opco
+GLC-10200,Great Lakes Comfort Systems,Service - HVAC,Technician,pay_rate,Blank pay rate,blank,28.73,median of same role and level within opco
+BAY-10257,Bayside Mechanical,Service,HVAC Service Tech II,pay_rate,Blank pay rate,blank,28.43,median of same role and level within opco
+RED-10255,Redwood Electric,Parts & Fleet,Warehouse Associate,pay_rate,Blank pay rate,blank,18.32,median of same role and level within opco
+BAY-10139,Bayside Mechanical,Install,Install Mgr,pay_rate,Blank pay rate,blank,82750.0,median of same role and level within opco
+BAY-10459,Bayside Mechanical,Finance,AP/AR Specialist,pay_rate,Implausible pay rate,0.0,24.12,median of same role and level within opco
+GLC-10064,Great Lakes Comfort Systems,Install,Installer,pay_rate,Blank pay rate,blank,26.05,median of same role and level within opco
+RED-10104,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),pay_rate,Blank pay rate,blank,18.79,median of same role and level within opco
+RED-10277,Redwood Electric,HR,HR Coordinator,pay_rate,Implausible pay rate,5200.0,48000.0,median of same role and level within opco
+BAY-10451,Bayside Mechanical,Warehouse,Parts Coordinator,pay_rate,Implausible pay rate,0.0,24.05,median of same role and level within opco
+GLC-10170,Great Lakes Comfort Systems,Service - Plumbing,Technician,pay_rate,Blank pay rate,blank,29.95,median of same role and level within opco
+GLC-10258,Great Lakes Comfort Systems,Service - Plumbing,Field Supervisor,pay_rate,Blank pay rate,blank,78000.0,median of same role and level within opco
+GLC-10137,Great Lakes Comfort Systems,Service - HVAC,Technician,pay_rate,Pay outside 0.4x-2.5x of the role and level median,185000.0,28.73,median of same role and level within opco
+BAY-10420,Bayside Mechanical,Customer Care,Dispatcher,pay_rate,Pay outside 0.4x-2.5x of the role and level median,485000.0,23.04,median of same role and level within opco

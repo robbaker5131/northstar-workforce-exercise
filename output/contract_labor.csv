@@ -1,0 +1,41 @@
+employee_id,opco,pnl_department,standardized_role,role_level,role_family,employee_type,work_state,fte,pay_rate,pay_basis_resolved,annualized_contract_cost,data_quality_flag
+BAY-C338,Bayside Mechanical,Customer Care & Dispatch,Customer Service Representative,Unspecified,Customer Care & Dispatch,Temp,FL,1.0,18.7,Hourly,38896.0,clean
+BAY-C339,Bayside Mechanical,Customer Care & Dispatch,Customer Service Representative,Unspecified,Customer Care & Dispatch,Temp,FL,1.0,17.01,Hourly,35380.8,clean
+GLC-C340,Great Lakes Comfort Systems,Customer Care & Dispatch,Customer Service Representative,Unspecified,Customer Care & Dispatch,Temp,MI,1.0,17.93,Hourly,37294.4,clean
+RED-C317,Redwood Electric,Field Service - Install,Electrical Installer,Unspecified,Field - Install,Contractor,AZ,1.0,45.82,Hourly,95305.6,hours_defaulted
+RED-C322,Redwood Electric,Field Service - Install,Electrical Installer,Unspecified,Field - Install,Contractor,AZ,1.0,41.53,Hourly,86382.4,hours_defaulted
+BAY-C313,Bayside Mechanical,Field Service - Install,HVAC Installer,Unspecified,Field - Install,Contractor,FL,1.0,44.79,Hourly,93163.2,clean
+BAY-C315,Bayside Mechanical,Field Service - Install,HVAC Installer,Unspecified,Field - Install,Contractor,FL,1.0,48.06,Hourly,99964.8,clean
+BAY-C316,Bayside Mechanical,Field Service - Install,HVAC Installer,Unspecified,Field - Install,Contractor,FL,1.0,38.84,Hourly,80787.2,clean
+BAY-C319,Bayside Mechanical,Field Service - Install,HVAC Installer,Unspecified,Field - Install,Contractor,FL,1.0,44.15,Hourly,91832.0,clean
+GLC-C318,Great Lakes Comfort Systems,Field Service - Install,HVAC Installer,Unspecified,Field - Install,Contractor,MI,1.0,44.78,Hourly,93142.4,clean
+GLC-C320,Great Lakes Comfort Systems,Field Service - Install,HVAC Installer,Unspecified,Field - Install,Contractor,MI,1.0,38.8,Hourly,80704.0,clean
+PIN-C314,Pinnacle Plumbing & Drain,Field Service - Install,Plumbing Installer,Unspecified,Field - Install,Contractor,TX,1.0,44.47,Hourly,92497.6,hours_defaulted;pay_basis_imputed
+PIN-C321,Pinnacle Plumbing & Drain,Field Service - Install,Plumbing Installer,Unspecified,Field - Install,Contractor,TX,1.0,38.56,Hourly,80204.8,hours_defaulted;pay_basis_imputed
+BAY-C324,Bayside Mechanical,Field Service - Repair & Maintenance,Electrician,Unspecified,Field - Service,1099,FL,1.0,54.68,Hourly,113734.4,clean
+GLC-C323,Great Lakes Comfort Systems,Field Service - Repair & Maintenance,Electrician,Unspecified,Field - Service,1099,MI,1.0,42.73,Hourly,88878.4,clean
+PIN-C326,Pinnacle Plumbing & Drain,Field Service - Repair & Maintenance,Electrician,Unspecified,Field - Service,1099,TX,1.0,55.66,Hourly,115772.8,hours_defaulted;pay_basis_imputed
+PIN-C327,Pinnacle Plumbing & Drain,Field Service - Repair & Maintenance,Electrician,Unspecified,Field - Service,1099,TX,1.0,46.66,Hourly,97052.8,hours_defaulted;pay_basis_imputed
+PIN-C328,Pinnacle Plumbing & Drain,Field Service - Repair & Maintenance,Electrician,Unspecified,Field - Service,1099,TX,1.0,57.29,Hourly,119163.2,hours_defaulted;pay_basis_imputed
+RED-C325,Redwood Electric,Field Service - Repair & Maintenance,Electrician,Unspecified,Field - Service,1099,AZ,1.0,49.9,Hourly,103792.0,hours_defaulted
+BAY-C301,Bayside Mechanical,Field Service - Repair & Maintenance,HVAC Service Technician,Unspecified,Field - Service,1099,FL,1.0,46.21,Hourly,96116.8,clean
+BAY-C305,Bayside Mechanical,Field Service - Repair & Maintenance,HVAC Service Technician,Unspecified,Field - Service,1099,FL,1.0,50.55,Hourly,105144.0,clean
+BAY-C308,Bayside Mechanical,Field Service - Repair & Maintenance,HVAC Service Technician,Unspecified,Field - Service,1099,FL,1.0,45.68,Hourly,95014.4,clean
+BAY-C309,Bayside Mechanical,Field Service - Repair & Maintenance,HVAC Service Technician,Unspecified,Field - Service,1099,FL,1.0,38.1,Hourly,79248.0,clean
+BAY-C312,Bayside Mechanical,Field Service - Repair & Maintenance,HVAC Service Technician,Unspecified,Field - Service,1099,FL,1.0,53.57,Hourly,111425.6,clean
+GLC-C302,Great Lakes Comfort Systems,Field Service - Repair & Maintenance,HVAC Service Technician,Unspecified,Field - Service,1099,MI,1.0,53.73,Hourly,111758.4,clean
+GLC-C306,Great Lakes Comfort Systems,Field Service - Repair & Maintenance,HVAC Service Technician,Unspecified,Field - Service,1099,MI,1.0,47.5,Hourly,98800.0,clean
+GLC-C307,Great Lakes Comfort Systems,Field Service - Repair & Maintenance,HVAC Service Technician,Unspecified,Field - Service,1099,MI,1.0,44.41,Hourly,92372.8,clean
+GLC-C310,Great Lakes Comfort Systems,Field Service - Repair & Maintenance,HVAC Service Technician,Unspecified,Field - Service,1099,MI,1.0,52.8,Hourly,109824.0,clean
+PIN-C303,Pinnacle Plumbing & Drain,Field Service - Repair & Maintenance,HVAC Service Technician,Unspecified,Field - Service,1099,TX,1.0,41.52,Hourly,86361.6,hours_defaulted;pay_basis_imputed
+PIN-C304,Pinnacle Plumbing & Drain,Field Service - Repair & Maintenance,HVAC Service Technician,Unspecified,Field - Service,1099,TX,1.0,40.47,Hourly,84177.6,hours_defaulted;pay_basis_imputed
+PIN-C311,Pinnacle Plumbing & Drain,Field Service - Repair & Maintenance,HVAC Service Technician,Unspecified,Field - Service,1099,TX,1.0,38.76,Hourly,80620.8,hours_defaulted;pay_basis_imputed
+NHS-C329,Northstar Corporate,IT,IT Consultant,NA,IT,Contractor,FL,1.0,92.9,Hourly,193232.0,clean
+NHS-C330,Northstar Corporate,IT,IT Consultant,NA,IT,Contractor,FL,1.0,85.05,Hourly,176904.0,clean
+NHS-C331,Northstar Corporate,IT,IT Consultant,NA,IT,Contractor,FL,1.0,75.83,Hourly,157726.4,clean
+NHS-C332,Northstar Corporate,IT,IT Consultant,NA,IT,Contractor,FL,1.0,89.04,Hourly,185203.2,clean
+BAY-C334,Bayside Mechanical,Warehouse & Fleet,Warehouse Associate,Unspecified,Warehouse & Fleet,Temp,FL,1.0,17.52,Hourly,36441.6,clean
+PIN-C333,Pinnacle Plumbing & Drain,Warehouse & Fleet,Warehouse Associate,Unspecified,Warehouse & Fleet,Temp,TX,1.0,19.17,Hourly,39873.6,hours_defaulted;pay_basis_imputed
+PIN-C335,Pinnacle Plumbing & Drain,Warehouse & Fleet,Warehouse Associate,Unspecified,Warehouse & Fleet,Temp,TX,1.0,17.2,Hourly,35776.0,hours_defaulted;pay_basis_imputed
+PIN-C337,Pinnacle Plumbing & Drain,Warehouse & Fleet,Warehouse Associate,Unspecified,Warehouse & Fleet,Temp,TX,1.0,19.77,Hourly,41121.6,hours_defaulted;pay_basis_imputed
+RED-C336,Redwood Electric,Warehouse & Fleet,Warehouse Associate,Unspecified,Warehouse & Fleet,Temp,AZ,1.0,18.32,Hourly,38105.6,hours_defaulted

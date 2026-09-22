@@ -1,0 +1,116 @@
+raw_department,raw_job_title,standardized_role,role_level,role_family
+Acctg,AP/AR Specialist,AP/AR Specialist,NA,Finance & Accounting
+Acctg,Controller,Controller,NA,Finance & Accounting
+Acctg,Payroll Specialist,Payroll Specialist,NA,Finance & Accounting
+Acctg,Senior Accountant,Accountant,Senior,Finance & Accounting
+Acctg,Staff Accountant,Accountant,Staff,Finance & Accounting
+CSR,Cust Svc Rep,Customer Service Representative,Unspecified,Customer Care & Dispatch
+CSR,Dispatcher,Dispatcher,Unspecified,Customer Care & Dispatch
+Call Center,CSR,Customer Service Representative,Unspecified,Customer Care & Dispatch
+Call Center,Call Center Supervisor,Customer Care Supervisor,NA,Customer Care & Dispatch
+Call Center,Customer Care Manager,Customer Care Manager,NA,Customer Care & Dispatch
+Call Center,Dispacher,Dispatcher,Unspecified,Customer Care & Dispatch
+Call Center,Dispatcher,Dispatcher,Unspecified,Customer Care & Dispatch
+Customer Care,Call Center Supervisor,Customer Care Supervisor,NA,Customer Care & Dispatch
+Customer Care,Customer Care Manager,Customer Care Manager,NA,Customer Care & Dispatch
+Customer Care,Customer Service Rep,Customer Service Representative,Unspecified,Customer Care & Dispatch
+Customer Care,Customer Service Representative,Customer Service Representative,Unspecified,Customer Care & Dispatch
+Customer Care,Dispatcher,Dispatcher,Unspecified,Customer Care & Dispatch
+Customer Care,Temp CSR,Customer Service Representative,Unspecified,Customer Care & Dispatch
+Executive,Executive Assistant,Executive Assistant,NA,Executive & Corporate
+Executive,General Manager,General Manager,NA,Executive & Corporate
+Executive & Corporate,Chief Executive Officer,Chief Executive Officer,NA,Executive & Corporate
+Executive & Corporate,Chief Financial Officer,Chief Financial Officer,NA,Executive & Corporate
+Executive & Corporate,Chief Operating Officer,Chief Operating Officer,NA,Executive & Corporate
+Executive & Corporate,Executive Assistant,Executive Assistant,NA,Executive & Corporate
+Executive & Corporate,Operations Analyst,Operations Analyst,NA,Executive & Corporate
+Executive & Corporate,Regional Vice President,Regional Vice President,NA,Executive & Corporate
+Field,Contract Electrician,Electrician,Unspecified,Field - Service
+Field,Contract HVAC Technician,HVAC Service Technician,Unspecified,Field - Service
+Field,Contract Installer,Plumbing Installer,Unspecified,Field - Install
+Field,Field Supervisor,Field Supervisor,NA,Field Leadership
+Field,Installation Manager,Install Manager,NA,Field Leadership
+Field,Plumber - Apprentice,Plumbing Service Technician,Apprentice,Field - Service
+Field,Plumber - Journeyman,Plumbing Service Technician,Journeyman,Field - Service
+Field,Plumber - Master,Plumbing Service Technician,Master,Field - Service
+Field,Plumbing Installer,Plumbing Installer,Unspecified,Field - Install
+Field,Plumbing Installer - Apprentice,Plumbing Installer,Apprentice,Field - Install
+Field,Plumbing Installer - Lead,Plumbing Installer,Lead,Field - Install
+Field,Service Manager,Service Manager,NA,Field Leadership
+Field Ops - Service,Apprentice Electrician (Lvl 1),Electrician,Apprentice,Field - Service
+Field Ops - Service,Contract Electrician,Electrician,Unspecified,Field - Service
+Field Ops - Service,Electrician (Lvl 2),Electrician,II,Field - Service
+Field Ops - Service,Electrician (Lvl 3),Electrician,III,Field - Service
+Field Ops - Service,Field Supervisor,Field Supervisor,NA,Field Leadership
+Field Ops - Service,Service Manager,Service Manager,NA,Field Leadership
+Finance,AP/AR Specialist,AP/AR Specialist,NA,Finance & Accounting
+Finance,Controller,Controller,NA,Finance & Accounting
+Finance,Payroll Specialist,Payroll Specialist,NA,Finance & Accounting
+Finance,Senior Accountant,Accountant,Senior,Finance & Accounting
+Finance,Staff Accountant,Accountant,Staff,Finance & Accounting
+Finance & Accounting,FP&A Analyst,FP&A Analyst,NA,Finance & Accounting
+Finance & Accounting,Payroll Specialist,Payroll Specialist,NA,Finance & Accounting
+Finance & Accounting,Senior Accountant,Accountant,Senior,Finance & Accounting
+Fleet,Fleet Coordinator,Fleet Coordinator,NA,Warehouse & Fleet
+Fleet,Parts Coordinator,Parts Coordinator,NA,Warehouse & Fleet
+Fleet,Temp Warehouse Associate,Warehouse Associate,Unspecified,Warehouse & Fleet
+Fleet,Warehouse Associate,Warehouse Associate,Unspecified,Warehouse & Fleet
+HR,HR Business Partner,HR Business Partner,NA,HR
+HR,HR Coordinator,HR Coordinator,NA,HR
+HR,HR Manager,HR Manager,NA,HR
+HR,Recruiter,Recruiter,NA,HR
+IT,Business Systems Analyst,Business Systems Analyst,NA,IT
+IT,Help Desk Technician,Help Desk Technician,NA,IT
+IT,IT Consultant,IT Consultant,NA,IT
+IT,IT Manager,IT Manager,NA,IT
+IT,Systems Administrator,Systems Administrator,NA,IT
+Install,Contract Installer,HVAC Installer,Unspecified,Field - Install
+Install,HVAC Installer I,HVAC Installer,I,Field - Install
+Install,HVAC Installer II,HVAC Installer,II,Field - Install
+Install,Install Manager,Install Manager,NA,Field Leadership
+Install,Install Mgr,Install Manager,NA,Field Leadership
+Install,Installer,HVAC Installer,Unspecified,Field - Install
+Install,Lead HVAC Installer,HVAC Installer,Lead,Field - Install
+Installation,Apprentice Electrician (Lvl 1),Electrical Installer,Apprentice,Field - Install
+Installation,Contract Installer,Electrical Installer,Unspecified,Field - Install
+Installation,Electrical Installer (Lvl 2),Electrical Installer,II,Field - Install
+Installation,Install Manager,Install Manager,NA,Field Leadership
+Installation,Lead Electrical Installer (Lvl 3),Electrical Installer,Lead,Field - Install
+Marketing,Digital Marketing Specialist,Digital Marketing Specialist,NA,Marketing
+Marketing,Marketing Coordinator,Marketing Coordinator,NA,Marketing
+Marketing,Marketing Director,Marketing Director,NA,Marketing
+Marketing,Marketing Manager,Marketing Manager,NA,Marketing
+Parts & Fleet,Fleet Coordinator,Fleet Coordinator,NA,Warehouse & Fleet
+Parts & Fleet,Parts Coordinator,Parts Coordinator,NA,Warehouse & Fleet
+Parts & Fleet,Temp Warehouse Associate,Warehouse Associate,Unspecified,Warehouse & Fleet
+Parts & Fleet,Warehouse Associate,Warehouse Associate,Unspecified,Warehouse & Fleet
+Parts & Fleet,Warehouse Manager,Warehouse Manager,NA,Warehouse & Fleet
+Sales,Comfort Advisor,Sales Consultant,Standard,Sales
+Sales,Home Solutions Consultant,Sales Consultant,Standard,Sales
+Sales,Inside Sales Representative,Inside Sales Representative,NA,Sales
+Sales,Sales Consultant,Sales Consultant,Standard,Sales
+Sales,Sales Manager,Sales Manager,NA,Sales
+Sales,Senior Comfort Advisor,Sales Consultant,Senior,Sales
+Sales,Senior Sales Consultant,Sales Consultant,Senior,Sales
+Sales,Sr Comfort Advisor,Sales Consultant,Senior,Sales
+Sales,Sr Home Solutions Consultant,Sales Consultant,Senior,Sales
+Service,Contract Electrician,Electrician,Unspecified,Field - Service
+Service,Contract HVAC Technician,HVAC Service Technician,Unspecified,Field - Service
+Service,HVAC Service Tech I,HVAC Service Technician,I,Field - Service
+Service,HVAC Service Tech II,HVAC Service Technician,II,Field - Service
+Service,HVAC Service Tech III,HVAC Service Technician,III,Field - Service
+Service,Service Manager,Service Manager,NA,Field Leadership
+Service,Service Supervisor,Field Supervisor,NA,Field Leadership
+Service - HVAC,Contract HVAC Technician,HVAC Service Technician,Unspecified,Field - Service
+Service - HVAC,Field Supervisor,Field Supervisor,NA,Field Leadership
+Service - HVAC,Service Manager,Service Manager,NA,Field Leadership
+Service - HVAC,Technician,HVAC Service Technician,Unspecified,Field - Service
+Service - Plumbing,Contract Electrician,Electrician,Unspecified,Field - Service
+Service - Plumbing,Field Supervisor,Field Supervisor,NA,Field Leadership
+Service - Plumbing,Service Manager,Service Manager,NA,Field Leadership
+Service - Plumbing,Technician,Plumbing Service Technician,Unspecified,Field - Service
+Warehouse,Fleet Coordinator,Fleet Coordinator,NA,Warehouse & Fleet
+Warehouse,Parts Coordinator,Parts Coordinator,NA,Warehouse & Fleet
+Warehouse,Temp Warehouse Associate,Warehouse Associate,Unspecified,Warehouse & Fleet
+Warehouse,Warehouse Associate,Warehouse Associate,Unspecified,Warehouse & Fleet
+Warehouse,Warehouse Manager,Warehouse Manager,NA,Warehouse & Fleet

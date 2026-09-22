@@ -1,0 +1,62 @@
+pnl_department,standardized_role,role_level,headcount,fte,annual_base,fully_loaded_annual_cost,avg_fully_loaded_cost_per_fte,avg_fully_loaded_hourly_cost
+Customer Care & Dispatch,Customer Care Manager,NA,9,9.0,705000.0,852993.63,94777.0,45.57
+Customer Care & Dispatch,Customer Care Supervisor,NA,16,16.0,944500.0,1162734.45,72671.0,34.94
+Customer Care & Dispatch,Customer Service Representative,Unspecified,140,127.8,4929459.6,6292754.3,49239.0,23.67
+Customer Care & Dispatch,Dispatcher,Unspecified,45,42.85,1963261.56,2465462.51,57537.0,27.66
+Executive & Corporate,Chief Executive Officer,NA,1,1.0,438000.0,632809.94,632810.0,304.24
+Executive & Corporate,Chief Financial Officer,NA,1,1.0,314500.0,458721.05,458721.0,220.54
+Executive & Corporate,Chief Operating Officer,NA,1,1.0,313500.0,457311.42,457311.0,219.86
+Executive & Corporate,Executive Assistant,NA,6,6.0,403500.0,661145.22,110191.0,52.98
+Executive & Corporate,General Manager,NA,4,4.0,695000.0,1041264.4299999999,260316.0,125.15
+Executive & Corporate,Operations Analyst,NA,6,6.0,449000.0,725283.23,120881.0,58.12
+Executive & Corporate,Regional Vice President,NA,3,3.0,618000.0,917329.68,305777.0,147.01
+Field Service - Install,Electrical Installer,Apprentice,19,19.0,746928.0,1115355.29,58703.0,28.22
+Field Service - Install,Electrical Installer,II,53,53.0,2846313.6,4100609.87,77370.0,37.2
+Field Service - Install,Electrical Installer,Lead,18,18.0,1606987.2,2223175.84,123510.0,59.38
+Field Service - Install,HVAC Installer,I,30,30.0,1232171.2,1829585.74,60986.0,29.32
+Field Service - Install,HVAC Installer,II,81,81.0,4412678.4,6348232.14,78373.0,37.68
+Field Service - Install,HVAC Installer,Lead,21,21.0,1862120.0,2577234.7600000002,122725.0,59.0
+Field Service - Install,HVAC Installer,Unspecified,106,106.0,6028672.0,8637084.37,81482.0,39.17
+Field Service - Install,Install Manager,NA,30,30.0,2479250.0,3447100.96,114903.0,55.24
+Field Service - Install,Plumbing Installer,Apprentice,33,33.0,1352000.0,2008149.48,60853.0,29.26
+Field Service - Install,Plumbing Installer,Lead,21,21.0,1852531.2,2564797.68,122133.0,58.72
+Field Service - Install,Plumbing Installer,Unspecified,71,71.0,3843361.6,5532668.12,77925.0,37.46
+Field Service - Repair & Maintenance,Electrician,Apprentice,25,25.0,993012.8,1511078.22,60443.0,29.06
+Field Service - Repair & Maintenance,Electrician,II,55,55.0,3334926.4,4835537.46,87919.0,42.27
+Field Service - Repair & Maintenance,Electrician,III,19,19.0,1548456.0,2191203.0,115326.0,55.45
+Field Service - Repair & Maintenance,Field Supervisor,NA,30,30.0,2405500.0,3407993.75,113600.0,54.62
+Field Service - Repair & Maintenance,HVAC Service Technician,I,38,38.0,1552907.2,2354021.9699999997,61948.0,29.78
+Field Service - Repair & Maintenance,HVAC Service Technician,II,102,102.0,6145900.8,8916657.45,87418.0,42.03
+Field Service - Repair & Maintenance,HVAC Service Technician,III,32,32.0,2527824.0,3585216.02,112038.0,53.86
+Field Service - Repair & Maintenance,HVAC Service Technician,Unspecified,96,96.0,5766217.6,8368291.64,87170.0,41.91
+Field Service - Repair & Maintenance,Plumbing Service Technician,Apprentice,28,28.0,1126382.4,1711072.97,61110.0,29.38
+Field Service - Repair & Maintenance,Plumbing Service Technician,Journeyman,82,82.0,4920032.0,7140980.8,87085.0,41.87
+Field Service - Repair & Maintenance,Plumbing Service Technician,Master,31,31.0,2510414.4,3554083.1,114648.0,55.12
+Field Service - Repair & Maintenance,Plumbing Service Technician,Unspecified,45,45.0,2804349.6,4055893.63,90131.0,43.33
+Field Service - Repair & Maintenance,Service Manager,NA,20,20.0,1854000.0,2600862.76,130043.0,62.52
+Finance & Accounting,AP/AR Specialist,NA,22,22.0,1088765.6,1422318.16,64651.0,31.08
+Finance & Accounting,Accountant,Senior,8,8.0,667500.0,830845.14,103856.0,49.93
+Finance & Accounting,Accountant,Staff,14,14.0,911000.0,1157039.76,82646.0,39.73
+Finance & Accounting,Controller,NA,4,4.0,507500.0,616076.7,154019.0,74.05
+Finance & Accounting,FP&A Analyst,NA,4,4.0,350000.0,434188.79000000004,108547.0,52.19
+Finance & Accounting,Payroll Specialist,NA,8,8.0,455500.0,586018.23,73252.0,35.22
+HR,HR Business Partner,NA,6,6.0,562500.0,682980.92,113830.0,54.73
+HR,HR Coordinator,NA,10,10.0,489000.0,629210.25,62921.0,30.25
+HR,HR Manager,NA,3,3.0,299000.0,361638.45,120546.0,57.95
+HR,Recruiter,NA,9,9.0,534500.0,673442.4299999999,74827.0,35.97
+IT,Business Systems Analyst,NA,7,7.0,619500.0,777439.77,111063.0,53.4
+IT,Help Desk Technician,NA,12,12.0,634025.6,838377.47,69865.0,33.59
+IT,IT Manager,NA,4,4.0,466500.0,574206.13,143552.0,69.02
+IT,Systems Administrator,NA,9,9.0,767500.0,966065.94,107341.0,51.61
+Marketing,Digital Marketing Specialist,NA,5,5.0,335500.0,414020.81,82804.0,39.81
+Marketing,Marketing Coordinator,NA,4,4.0,218500.0,275087.80000000005,68772.0,33.06
+Marketing,Marketing Director,NA,1,1.0,140000.0,164804.01,164804.0,79.23
+Marketing,Marketing Manager,NA,2,2.0,182000.0,219375.03,109688.0,52.73
+Sales,Inside Sales Representative,NA,12,12.0,495393.6,914622.34,76219.0,36.64
+Sales,Sales Consultant,Senior,20,20.0,1122500.0,2030525.28,101526.0,48.81
+Sales,Sales Consultant,Standard,80,80.0,3887500.0,7094766.28,88685.0,42.64
+Sales,Sales Manager,NA,8,8.0,827000.0,1456745.59,182093.0,87.54
+Warehouse & Fleet,Fleet Coordinator,NA,12,12.0,650000.0,827964.24,68997.0,33.17
+Warehouse & Fleet,Parts Coordinator,NA,25,25.0,1193472.8,1536088.26,61444.0,29.54
+Warehouse & Fleet,Warehouse Associate,Unspecified,50,45.325,1718827.24,2262064.06,49908.0,23.99
+Warehouse & Fleet,Warehouse Manager,NA,8,8.0,571000.0,713753.29,89219.0,42.89
