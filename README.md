@@ -11,7 +11,14 @@ without a data room. Both are reproducible pipelines, not spreadsheets.
 | [`docs/methodology_memo.pdf`](docs/methodology_memo.pdf) | Part 1 — census onboarding, cleaning decisions, load factors, P&L reconciliation | 2 pages |
 | [`docs/cardinal_methodology_memo.pdf`](docs/cardinal_methodology_memo.pdf) | Part 2 — company-wide estimate, Field Service simulation, back-test and review checklist | 5 pages |
 
-Both are also committed as `.docx` and as the `.md` source they were generated from.
+Each is also committed as `.docx` and as the `.md` source it was generated from.
+
+There is also a third, unrequested note:
+[`docs/productionization_note.pdf`](docs/productionization_note.pdf) — what it would take to run
+this as a reusable capability across the portfolio rather than a one-off, including an honest
+audit of where the current code breaks on a second client, and the two mechanisms (a structural
+comp library and a prediction ledger) that would make the method measurably better with each
+deal instead of merely repeatable.
 
 ## Headline results
 

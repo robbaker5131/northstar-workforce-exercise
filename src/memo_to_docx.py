@@ -57,23 +57,36 @@ def set_cell_background(cell, hex_colour: str) -> None:
     cell._tc.get_or_add_tcPr().append(shd)
 
 
-def add_runs(paragraph, text: str, size: float) -> None:
+# Bold is non-greedy so it closes on the nearest **, and may contain nested italics.
+# A greedy or [^*]-bounded pattern cannot span "**a *b* c**" and silently pairs the
+# closing ** of one span with the opening ** of the next, bolding everything between.
+INLINE = re.compile(r"\*\*(.+?)\*\*|(?<!\*)\*([^*]+)\*(?!\*)|`([^`]+)`")
+
+
+def add_runs(paragraph, text: str, size: float, bold: bool = False, italic: bool = False) -> None:
     """Apply the inline markdown these memos use: **bold**, *italic*, `code`."""
-    for token in re.split(r"(\*\*[^*]+\*\*|(?<!\*)\*[^*]+\*(?!\*)|`[^`]+`)", text):
-        if not token:
-            continue
-        run = paragraph.add_run()
+
+    def plain(chunk: str):
+        run = paragraph.add_run(chunk)
         run.font.size = Pt(size)
-        if token.startswith("**") and token.endswith("**"):
-            run.text, run.bold = token[2:-2], True
-        elif token.startswith("`") and token.endswith("`"):
-            run.text = token[1:-1]
+        run.bold, run.italic = bold, italic
+        return run
+
+    pos = 0
+    for m in INLINE.finditer(text):
+        if m.start() > pos:
+            plain(text[pos : m.start()])
+        if m.group(1) is not None:
+            add_runs(paragraph, m.group(1), size, bold=True, italic=italic)
+        elif m.group(2) is not None:
+            add_runs(paragraph, m.group(2), size, bold=bold, italic=True)
+        else:
+            run = plain(m.group(3))
             run.font.name = MONO
             run.font.size = Pt(size - 0.5)
-        elif token.startswith("*") and token.endswith("*"):
-            run.text, run.italic = token[1:-1], True
-        else:
-            run.text = token
+        pos = m.end()
+    if pos < len(text):
+        plain(text[pos:])
 
 
 def style_paragraph(paragraph, profile: dict, size: float, space_after: float, keep=False):
@@ -133,6 +146,63 @@ def add_table(doc: Document, lines: list[str], profile: dict) -> None:
     style_paragraph(doc.add_paragraph(), profile, 4, profile["after"])
 
 
+BULLET_START = ("- ", "* ")
+
+
+def is_list(lines: list[str]) -> bool:
+    return lines[0].startswith(BULLET_START) or bool(re.match(r"^\d+\.\s", lines[0]))
+
+
+def group_list_items(lines: list[str]) -> list[str]:
+    """Fold soft-wrapped continuation lines back into the item they belong to."""
+    items: list[str] = []
+    for ln in lines:
+        if is_list([ln]) or not items:
+            items.append(ln)
+        else:
+            items[-1] += " " + ln
+    return items
+
+
+def iter_blocks(markdown: str):
+    """Yield ('code'|'md', lines), keeping fenced blocks intact.
+
+    Fences have to be pulled out before the blank-line split, or a code block
+    containing a blank line would be torn in half.
+    """
+    segments, buffer, fence = [], [], None
+    for line in markdown.strip().splitlines():
+        if fence is None and line.lstrip().startswith("```"):
+            segments.append(("md", "\n".join(buffer)))
+            buffer, fence = [], line.strip()[3:].strip()
+        elif fence is not None and line.lstrip().startswith("```"):
+            segments.append(("code", "\n".join(buffer)))
+            buffer, fence = [], None
+        else:
+            buffer.append(line)
+    segments.append(("code" if fence is not None else "md", "\n".join(buffer)))
+
+    for kind, text in segments:
+        if kind == "code":
+            if text.strip():
+                yield "code", text.splitlines()
+        else:
+            for block in re.split(r"\n\s*\n", text):
+                if block.strip():
+                    yield "md", block.strip().splitlines()
+
+
+def add_code_block(doc: Document, lines: list[str], profile: dict) -> None:
+    size = profile["body"] - 1
+    for i, ln in enumerate(lines):
+        p = doc.add_paragraph()
+        style_paragraph(p, profile, size, profile["after"] if i == len(lines) - 1 else 0)
+        p.paragraph_format.left_indent = Inches(0.25)
+        run = p.add_run(ln)
+        run.font.name = MONO
+        run.font.size = Pt(size)
+
+
 def build(markdown: str, profile: dict) -> Document:
     doc = Document()
     section = doc.sections[0]
@@ -143,23 +213,20 @@ def build(markdown: str, profile: dict) -> Document:
     normal.font.name = FONT
     normal.font.size = Pt(profile["body"])
 
-    for block in re.split(r"\n\s*\n", markdown.strip()):
-        lines = [ln.strip() for ln in block.strip().splitlines()]
+    for kind, raw in iter_blocks(markdown):
+        if kind == "code":
+            add_code_block(doc, raw, profile)
+            continue
+        lines = [ln.strip() for ln in raw]
         if is_table(lines):
             add_table(doc, lines, profile)
-        elif all(ln.startswith(("- ", "* ")) for ln in lines):
-            for ln in lines:
-                p = doc.add_paragraph(style="List Bullet")
+        elif is_list(lines):
+            numbered = bool(re.match(r"^\d+\.\s", lines[0]))
+            for item in group_list_items(lines):
+                p = doc.add_paragraph(style="List Number" if numbered else "List Bullet")
                 style_paragraph(p, profile, profile["body"], 1)
                 p.paragraph_format.left_indent = Inches(0.25)
-                add_runs(p, ln[2:], profile["body"])
-            style_paragraph(doc.add_paragraph(), profile, 3, profile["after"] - 3)
-        elif re.match(r"^\d+\.\s", lines[0]):
-            for ln in lines:
-                p = doc.add_paragraph(style="List Number")
-                style_paragraph(p, profile, profile["body"], 1)
-                p.paragraph_format.left_indent = Inches(0.25)
-                add_runs(p, re.sub(r"^\d+\.\s+", "", ln), profile["body"])
+                add_runs(p, re.sub(r"^(\d+\.|[-*])\s+", "", item), profile["body"])
             style_paragraph(doc.add_paragraph(), profile, 3, profile["after"] - 3)
         elif lines[0].startswith(("# ", "## ", "### ")):
             level = len(lines[0]) - len(lines[0].lstrip("#"))
