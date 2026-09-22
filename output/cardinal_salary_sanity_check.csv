@@ -1,0 +1,15 @@
+level,label,profiles_with_estimate,provider_estimate
+aggregate,"All field roles, provider estimate",38.0,62289
+aggregate,"All field roles, this model",,61799
+aggregate,Variance,,-491
+role,Field Supervisor,1.0,113000
+role,Service Manager,2.0,101500
+role,Install Manager,3.0,93500
+role,Apprentice HVAC Technician,1.0,59500
+role,HVAC Service Technician,5.0,58500
+role,Plumber,4.0,56750
+role,Senior Service Technician,4.0,55000
+role,HVAC Installer,6.0,54500
+role,Service Technician,7.0,54500
+role,Install Technician,2.0,53250
+role,Lead Installer,3.0,50000

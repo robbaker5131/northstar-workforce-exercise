@@ -1,0 +1,23 @@
+basis,role_family,standalone_share,positions,fte_per_position,fte,cost_per_position,cost_per_position_indexed,fully_loaded_cost
+standalone,Customer Care & Dispatch,0.1306,52.6,0.86,45.3,49327.0,49931.0,2626997.0
+standalone,Executive & Corporate,0.0173,7.0,1.0,7.0,223668.0,226406.0,1581589.0
+standalone,Field - Install,0.2516,101.4,1.0,101.4,81482.0,82479.0,8363268.0
+standalone,Field - Service,0.3347,134.9,1.0,134.9,88115.0,89193.0,12030309.0
+standalone,Field Leadership,0.0522,21.0,1.0,21.0,118387.0,119836.0,2521942.0
+standalone,Finance & Accounting,0.0382,15.4,1.0,15.4,84788.0,85826.0,1320017.0
+standalone,HR,0.0106,4.3,1.0,4.3,104655.0,105936.0,450841.0
+standalone,IT,0.0309,12.4,1.0,12.4,96872.0,98058.0,1220357.0
+standalone,Marketing,0.0106,4.3,1.0,4.3,89441.0,90535.0,385300.0
+standalone,Sales,0.0546,22.0,1.0,22.0,89328.0,90421.0,1989401.0
+standalone,Warehouse & Fleet,0.0688,27.7,0.875,24.3,55237.0,55914.0,1551103.0
+pro_forma_on_northstar,Customer Care & Dispatch,0.1306,52.6,0.86,45.3,49327.0,49931.0,2626997.0
+pro_forma_on_northstar,Executive & Corporate,0.0173,5.0,1.0,5.0,223668.0,226406.0,1126585.0
+pro_forma_on_northstar,Field - Install,0.2516,101.4,1.0,101.4,81482.0,82479.0,8363268.0
+pro_forma_on_northstar,Field - Service,0.3347,134.9,1.0,134.9,88115.0,89193.0,12030309.0
+pro_forma_on_northstar,Field Leadership,0.0522,21.0,1.0,21.0,118387.0,119836.0,2521942.0
+pro_forma_on_northstar,Finance & Accounting,0.0382,14.1,1.0,14.1,84788.0,85826.0,1208411.0
+pro_forma_on_northstar,HR,0.0106,2.8,1.0,2.8,104655.0,105936.0,300561.0
+pro_forma_on_northstar,IT,0.0309,9.3,1.0,9.3,96872.0,98058.0,907372.0
+pro_forma_on_northstar,Marketing,0.0106,2.8,1.0,2.8,89441.0,90535.0,256867.0
+pro_forma_on_northstar,Sales,0.0546,22.0,1.0,22.0,89328.0,90421.0,1989401.0
+pro_forma_on_northstar,Warehouse & Fleet,0.0688,27.7,0.875,24.3,55237.0,55914.0,1551103.0

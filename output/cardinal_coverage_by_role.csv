@@ -1,0 +1,12 @@
+role_family,standalone_share,valid_profiles,live_profiles,anchor_headcount,expected_positions,implied_coverage,profile_share_of_live,coverage_flag
+Sales,0.0546,92,77.0,400.0,21.8,3.532,0.2151,over_represented
+Field - Service,0.3347,85,60.0,400.0,133.9,0.448,0.1676,under_represented
+Customer Care & Dispatch,0.1306,80,54.0,400.0,52.2,1.034,0.1508,over_represented
+Executive & Corporate,0.0173,49,41.0,400.0,6.9,5.942,0.1145,over_represented
+Field - Install,0.2516,40,28.0,400.0,100.6,0.278,0.0782,under_represented
+Finance & Accounting,0.0382,32,24.0,400.0,15.3,1.569,0.067,over_represented
+Field Leadership,0.0522,22,18.0,400.0,20.9,0.861,0.0503,
+Marketing,0.0106,23,18.0,400.0,4.2,4.286,0.0503,over_represented
+Warehouse & Fleet,0.0688,20,15.0,400.0,27.5,0.545,0.0419,under_represented
+IT,0.0309,16,13.0,400.0,12.4,1.048,0.0363,over_represented
+HR,0.0106,14,10.0,400.0,4.2,2.381,0.0279,over_represented

@@ -1,0 +1,31 @@
+key,value,unit,source,rationale
+false_match_entity_ids,9083341,entity_id list,cardinal_profiles.csv + cardinal_entity_mapping.csv,All 140 profiles sit in Florida under an HVAC wholesale distributor at a different domain; Cardinal is an Ohio/Kentucky residential contractor
+as_of_date,2026-09-01,date,candidate-exercise/README.md,Extract date used as the reference point for staleness
+staleness_cutoff_months,24,months,judgement,Profiles not touched in two years are treated as unverifiable rather than current
+exclude_unclassified_from_structure,1,boolean,judgement,Titles the provider could not resolve (Team Member / Associate / Consultant / Intern) are held out of structural shares but kept in the audit trail
+comp_opco,Great Lakes Comfort Systems,opco name,output/workforce_model.csv,392 employees running HVAC plus plumbing against Cardinal at roughly 400 running HVAC plus plumbing
+level_ladder_opco_hvac,Bayside Mechanical,opco name,output/workforce_model.csv,Great Lakes records no role levels; Bayside is the only opco with a populated HVAC level ladder
+level_ladder_opco_plumbing,Pinnacle Plumbing & Drain,opco name,output/workforce_model.csv,Only opco with a populated plumbing level ladder
+corporate_opco,Northstar Corporate,opco name,output/workforce_model.csv,Shared-services pool allocated back to the comp so standalone Cardinal carries its own G&A
+press_release_headcount,400,employees,cardinal_brief.md (Aug 2026 acquirer release),Most recent signal and the only one produced by a party with LOI-level access
+press_release_weight,0.40,weight,judgement,Heaviest weight for recency and access
+live_profiles_weight,0.20,weight,judgement,Independent of the release but coverage-biased in both directions
+revenue_per_employee_weight,0.20,weight,judgement,Independent financial anchor but a wide benchmark range
+fleet_weight,0.15,weight,judgement,Independent physical signal; strong for field but silent on overhead
+trade_profile_weight,0.05,weight,judgement,Twelve months stale and stated only as a floor
+revenue_2025,85000000,USD,cardinal_brief.md,Reported 2025 revenue
+revenue_growth_rate,0.149,rate,cardinal_brief.md,Implied by 2024 revenue of 74M growing to 85M in 2025
+revenue_per_employee_benchmark,225000,USD,cardinal_brief.md,Midpoint of the 200K-250K residential services benchmark
+fleet_vehicles,260,vehicles,cardinal_brief.md,Fleet count disclosed in the brief
+field_positions_per_vehicle,1.0,ratio,output/workforce_model.csv,Great Lakes carries 269 field positions; a one-to-one read reproduces its own fleet economics
+trade_profile_headcount,350,employees,cardinal_brief.md (Sept 2025 trade profile),Stated as more than 350 so treated as a floor
+headcount_growth_rate,0.07,rate,judgement,Headcount grown forward at roughly half of revenue growth to allow for productivity gains
+fte_per_headcount,0.9886,ratio,output/workforce_model.csv,Northstar platform-wide FTE to headcount ratio
+hvac_share_of_service,0.75,share,"output/workforce_model.csv + cardinal_profiles.csv",Great Lakes runs 68 percent HVAC in service; the Cardinal title mix runs 87 percent; blended
+plumbing_share_of_install,0.0,share,"output/workforce_model.csv + cardinal_profiles.csv",Neither Great Lakes nor the Cardinal title mix shows a plumbing install crew
+standalone_ga_scale_factor,1.5,multiplier,judgement,"Standalone Cardinal must carry the G&A that Great Lakes consumes from Northstar Corporate, and cannot run it at platform efficiency: a controller, an HR manager and an IT manager are indivisible at 400 people. Largest single judgement in the cost build"
+sensitivity_headcount_pct,0.10,+/- share,judgement,Range spanning the spread between the triangulation signals
+sensitivity_field_share_pct,0.05,+/- share,judgement,Roughly twice the measured back-test error on total field headcount
+sensitivity_trade_split_pct,0.15,+/- share,judgement,Spans the gap between the Great Lakes actual and the Cardinal title mix
+sensitivity_wage_index_pct,0.05,+/- share,judgement,Spans the range across the five BLS metro areas
+sensitivity_load_factor_pct,0.05,+/- share,judgement,Standalone benefit design is unobserved until diligence

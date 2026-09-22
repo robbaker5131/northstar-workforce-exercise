@@ -1,0 +1,8 @@
+signal,source,observed_value,derived_headcount,weight,rationale,weighted_contribution
+Acquirer press release,"cardinal_brief.md, Northstar release 18 Aug 2026",400 employees,400.0,0.4,"Most recent signal and the only one from a party with LOI-level access. Read as the consolidated company including Louisville, since every other signal clusters near 400 rather than near 470.",160.0
+Live alternative-data profiles,cardinal_profiles.csv after entity and staleness filters,380 live profiles,380.0,0.2,"Taken at face value as a total only. Field roles are under-covered and sales over-represented, and the coverage table shows the two errors are of similar magnitude in opposite directions.",76.0
+Revenue per employee,cardinal_brief.md revenue plus industry benchmark,"$97.7M 2026E at $225,000/employee",434.0,0.2,Independent of headcount disclosures but inherits a wide benchmark band; the 200K-250K range alone spans 390 to 490 employees.,86.8
+Fleet size,"cardinal_brief.md, telematics case study Feb 2026",260 vehicles,407.0,0.15,A physical signal no one has an incentive to inflate. Grossed up from field positions using the comp field share of 63.9%.,61.1
+Trade press profile,"cardinal_brief.md, Contracting Business 22 Sept 2025",more than 350 team members,374.0,0.05,"Twelve months stale and stated as a floor, so grown forward one year at roughly half the revenue growth rate and weighted lightly.",18.7
+Business directory listing,"cardinal_brief.md, accessed 29 Aug 2026",250-499 employees,374.0,0.0,"Corroboration only. The band is too wide to discriminate between any of the other signals, so it carries zero weight.",0.0
+WEIGHTED ESTIMATE,this table,,403.0,1.0,Spread across the weighted signals is 374 to 434.,402.6

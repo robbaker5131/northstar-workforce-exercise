@@ -1,0 +1,6 @@
+assumption,range_tested,low_cost,high_cost,swing,swing_pct_of_baseline,baseline_cost
+Total headcount,+/-10%,20574446,25146544,4572098,20.0,22860493
+Field share of headcount,+/-5%,21717468,24003518,2286050,10.0,22860493
+Load factor,+/-5%,21717468,24003518,2286049,10.0,22860493
+Geographic wage index,+/-5%,21820983,23900001,2079018,9.1,22860493
+HVAC / plumbing split in service,+/-15% on the HVAC share,22779321,22941664,162343,0.7,22860493

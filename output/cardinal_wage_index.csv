@@ -1,0 +1,9 @@
+bls_area,annual_median_wage,cardinal_locations,profiles,weight
+"Cincinnati, OH-KY-IN",62240.0,"Cincinnati, OH, Mason, OH, Florence, KY",239,0.4733
+"Columbus, OH",64440.0,"Columbus, OH",56,0.1109
+"Dayton-Kettering, OH",62500.0,"Dayton, OH",47,0.0931
+"Lexington-Fayette, KY",60280.0,"Lexington, KY",58,0.1149
+"Louisville/Jefferson County, KY-IN",58930.0,"Louisville, KY",105,0.2079
+Cardinal branch-weighted,61595.0,all,505,1.0
+Comp base (Great Lakes Comfort Systems),60850.0,COMP_BASE,0,0.0
+INDEX,1.0122,Cardinal / comp,0,0.0

@@ -1,0 +1,63 @@
+title_raw,standardized_role,role_family,mapping_note
+Customer Service Representative,Customer Service Representative,Customer Care & Dispatch,
+HVAC Service Technician,HVAC Service Technician,Field - Service,
+Comfort Advisor,Sales Consultant,Sales,Same title Northstar uses for in-home sales
+HVAC Installer,HVAC Installer,Field - Install,
+Home Solutions Consultant,Sales Consultant,Sales,Same title Northstar uses for in-home sales
+Dispatcher,Dispatcher,Customer Care & Dispatch,
+Service Technician,Service Technician,Field - Service,Trade not stated; assigned by the HVAC/plumbing split not by title
+Branch Manager,Branch Manager,Executive & Corporate,Runs a branch P&L; sits above the crew supervisors so outside Field Service
+Plumber,Plumbing Service Technician,Field - Service,
+Team Member,Unclassified,Unclassified,Provider could not resolve
+Operations Manager,Operations Manager,Executive & Corporate,
+Residential Sales Consultant,Sales Consultant,Sales,
+Call Center Team Lead,Customer Care Supervisor,Customer Care & Dispatch,
+Senior Service Technician,HVAC Service Technician,Field - Service,
+Sales Manager,Sales Manager,Sales,
+Warehouse Associate,Warehouse Associate,Warehouse & Fleet,
+Service Manager,Service Manager,Field Leadership,
+Install Technician,HVAC Installer,Field - Install,
+Field Supervisor,Field Supervisor,Field Leadership,
+Customer Experience Manager,Customer Care Manager,Customer Care & Dispatch,
+Intern,Unclassified,Unclassified,Temporary; excluded from the headcount base
+Lead Installer,HVAC Installer,Field - Install,
+Install Manager,Install Manager,Field Leadership,
+Director of Operations,Operations Director,Executive & Corporate,
+Accounts Payable Specialist,AP/AR Specialist,Finance & Accounting,
+Digital Marketing Specialist,Digital Marketing Specialist,Marketing,
+Staff Accountant,Accountant,Finance & Accounting,
+Apprentice HVAC Technician,HVAC Service Technician,Field - Service,
+Marketing Coordinator,Marketing Coordinator,Marketing,
+Parts Runner,Warehouse Associate,Warehouse & Fleet,
+Regional Director,Regional Vice President,Executive & Corporate,
+Inside Sales Representative,Inside Sales Representative,Sales,
+IT Support Specialist,Help Desk Technician,IT,
+HR Generalist,HR Business Partner,HR,
+General Manager,General Manager,Executive & Corporate,
+Associate,Unclassified,Unclassified,Provider could not resolve
+Controller,Controller,Finance & Accounting,
+Consultant,Unclassified,Unclassified,Ambiguous between in-home sales consultant and external contractor
+Marketing Manager,Marketing Manager,Marketing,
+Systems Administrator,Systems Administrator,IT,
+Recruiter,Recruiter,HR,
+Payroll Administrator,Payroll Specialist,Finance & Accounting,
+Vice President of Operations,Regional Vice President,Executive & Corporate,
+IT Manager,IT Manager,IT,
+Financial Analyst,FP&A Analyst,Finance & Accounting,
+Brand Manager,Marketing Manager,Marketing,
+Vice President of Sales,Sales Manager,Sales,Officer-level; retained in Sales for family comparison
+Project Coordinator,Operations Analyst,Executive & Corporate,
+President,Chief Executive Officer,Executive & Corporate,Subsidiary president at Cardinal Heating
+Fleet Coordinator,Fleet Coordinator,Warehouse & Fleet,
+HR Manager,HR Manager,HR,
+Chief Financial Officer,Chief Financial Officer,Executive & Corporate,
+Chief Executive Officer,Chief Executive Officer,Executive & Corporate,
+Owner,Chief Executive Officer,Executive & Corporate,
+Counter Sales Associate,Counter Sales Associate,Wholesale Distribution,Appears only under the Florida false-match entity; no residential contractor runs a parts counter
+Inside Sales - HVAC Parts,Parts Inside Sales,Wholesale Distribution,Florida false-match entity only
+Territory Sales Rep - Wholesale,Territory Sales Representative,Wholesale Distribution,Florida false-match entity only
+Branch Manager - Distribution,Distribution Branch Manager,Wholesale Distribution,Florida false-match entity only
+Regional Sales Director,Regional Sales Director,Wholesale Distribution,Florida false-match entity only
+Delivery Driver,Delivery Driver,Wholesale Distribution,Florida false-match entity only
+Credit Analyst,Credit Analyst,Wholesale Distribution,Florida false-match entity only
+Pricing Analyst,Pricing Analyst,Wholesale Distribution,Florida false-match entity only
