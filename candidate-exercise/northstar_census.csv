@@ -1,0 +1,1812 @@
+employee_id,opco,department,job_title,job_level,employee_type,pay_rate,pay_basis,scheduled_weekly_hours,hire_date,termination_date,status,work_state
+NHS-10067,Northstar Corporate,Executive & Corporate,Operations Analyst,,,73500.0,Annual,40.0,2025-02-21,,Active,FL
+PIN-10307,Pinnacle Plumbing & Drain,Sales,Senior Sales Consultant,,,50500.0,,,2024-05-21,,Active,TX
+PIN-90043,Pinnacle Plumbing & Drain,Executive,Executive Assistant,,,64500.0,,,2022-11-26,2026-04-20,Terminated,TX
+BAY-10193,Bayside Mechanical,Service,HVAC Service Tech II,,Full-Time,32.44,Hourly,40.0,2024-04-21,,Active,FL
+GLC-90025,Great Lakes Comfort Systems,Finance,AP/AR Specialist,L1,Regular,23.49,Hourly,40.0,2018-12-27,2026-04-12,Terminated,MI
+GLC-10094,Great Lakes Comfort Systems,Install,Installer,L3,Regular,40.33,Hourly,40.0,2025-04-30,,Active,MI
+GLC-10194,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,Full-Time,33.99,Hourly,40.0,2024-10-14,,Active,MI
+PIN-10151,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,,Full-Time,17.76,,,2021-12-29,,Active,TX
+BAY-10421,Bayside Mechanical,Customer Care,Dispatcher,,Full-Time,23.04,Hourly,25.0,2024-08-21,,Active,FL
+RED-10099,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),,Regular,18.5,Hourly,,2026-01-21,,Active,AZ
+PIN-10389,Pinnacle Plumbing & Drain,Fleet,Warehouse Associate,,Regular,16.68,,,2025-05-31,,Active,TX
+GLC-90063,Great Lakes Comfort Systems,Install,Installer,L1,Full-Time,18.84,Hourly,40.0,2021-11-08,2026-04-30,Terminated,MI
+BAY-10376,Bayside Mechanical,Customer Care,Customer Service Rep,,FT,19.32,Hourly,24.0,2021-07-12,,Active,FL
+GLC-10081,Great Lakes Comfort Systems,Install,Installer,L2,FT,27.21,Hourly,40.0,2023-11-12,,Active,MI
+BAY-10109,Bayside Mechanical,Install,HVAC Installer II,,,26.45,Hourly,40.0,2024-10-18,,Active,FL
+PIN-10375,Pinnacle Plumbing & Drain,Call Center,Call Center Supervisor,,Regular,58000.0,,,2023-11-02,,Active,TX
+BAY-10129,Bayside Mechanical,Install,Lead HVAC Installer,,FT,42.2,Hourly,40.0,2021-12-20,,Active,FL
+BAY-10164,Bayside Mechanical,Service,HVAC Service Tech I,,Regular,17.5,Hourly,40.0,2020-09-13,,Active,FL
+NHS-10047,Northstar Corporate,IT,IT Manager,,Regular,112500.0,Annual,40.0,2023-03-21,,Active,FL
+RED-10174,Redwood Electric,Field Ops - Service,Electrician (Lvl 3),,Regular,42.43,Hourly,,2024-11-20,,Active,AZ
+PIN-10018,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,,Seasonal,20.24,,,2022-09-23,,Active,TX
+RED-10198,Redwood Electric,Field Ops - Service,Field Supervisor,,Regular,80000.0,Annual,,2024-10-13,,Active,AZ
+BAY-90035,Bayside Mechanical,Sales,Comfort Advisor,,Full-Time,44000.0,Annual,40.0,2019-10-25,2026-05-29,Terminated,FL
+GLC-90076,Great Lakes Comfort Systems,Warehouse,Parts Coordinator,L2,,24.94,Hourly,40.0,2024-03-25,2025-12-01,Terminated,MI
+PIN-10003,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,,,17.78,,,2025-06-23,,Active,TX
+BAY-10143,Bayside Mechanical,Service,HVAC Service Tech I,,Regular,20.67,Hourly,40.0,2022-08-29,,Active,FL
+PIN-10232,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,FT,28.1,,,2024-10-21,,Active,TX
+PIN-10282,Pinnacle Plumbing & Drain,Field,Field Supervisor,,Regular,82000.0,,,2026-05-22,,Active,TX
+GLC-10145,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,,28.08,Hourly,40.0,2026-04-07,,Active,MI
+NHS-C330,Northstar Corporate,IT,IT Consultant,,Contractor,85.05,Hourly,40.0,2025-02-18,,Active,FL
+RED-10214,Redwood Electric,Sales,Sr Home Solutions Consultant,,Regular,54000.0,Annual,,2023-05-08,,Active,AZ
+PIN-10120,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,,,43.63,,,2024-01-10,,Active,TX
+PIN-10203,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,Regular,28.19,,,2023-12-10,,Active,TX
+NHS-10023,Northstar Corporate,HR,HR Manager,,Regular,103500.0,Annual,40.0,2016-10-06,,Active,FL
+PIN-10023,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,,,20.61,,,2023-10-05,,Active,TX
+GLC-10282,Great Lakes Comfort Systems,Sales,Comfort Advisor,L2,Regular,42000.0,Annual,40.0,2024-10-09,,Active,MI
+RED-10075,Redwood Electric,Installation,Lead Electrical Installer (Lvl 3),,Full-Time,42.07,Hourly,,2024-10-18,,Active,AZ
+BAY-10058,Bayside Mechanical,Install,HVAC Installer II,,,26.57,Hourly,40.0,2023-07-09,,Active,FL
+BAY-10150,Bayside Mechanical,Service,HVAC Service Tech I,,,21.62,Hourly,40.0,2019-04-23,,Active,FL
+BAY-10346,Bayside Mechanical,Sales,Comfort Advisor,,Regular,42500.0,Annual,40.0,2025-08-18,,Active,FL
+RED-10117,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),,Regular,19.55,Hourly,,2023-07-14,,Active,AZ
+BAY-90056,Bayside Mechanical,Install,HVAC Installer I,,Full-Time,21.57,Hourly,40.0,2020-10-31,2026-08-29,Terminated,FL
+PIN-10222,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,FT,26.89,,,2025-05-30,,Active,TX
+RED-10144,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,Regular,26.98,Hourly,,2020-12-28,,Active,AZ
+BAY-10347,Bayside Mechanical,Sales,Comfort Advisor,,Full-Time,46000.0,Annual,40.0,2023-05-19,,Active,FL
+RED-10161,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,,32.66,Hourly,,2025-05-18,,Leave,AZ
+PIN-10339,Pinnacle Plumbing & Drain,Call Center,CSR,,FT,20.14,,,2017-12-12,,Active,TX
+BAY-10385,Bayside Mechanical,Customer Care,Customer Service Rep,,FT,17.88,Hourly,40.0,2023-03-16,,Active,FL
+PIN-10277,Pinnacle Plumbing & Drain,Field,Field Supervisor,,Regular,80000.0,,,2026-01-22,,Active,TX
+BAY-C315,Bayside Mechanical,Install,Contract Installer,,Contractor,48.06,Hourly,40.0,2025-09-23,,Active,FL
+RED-10175,Redwood Electric,Field Ops - Service,Electrician (Lvl 3),,Regular,37.36,Hourly,,2025-05-22,,Active,AZ
+BAY-10210,Bayside Mechanical,Service,HVAC Service Tech II,,FT,26.76,Hourly,40.0,2023-05-26,,Active,FL
+GLC-10085,Great Lakes Comfort Systems,Install,Installer,L2,Regular,27.89,Hourly,40.0,2022-08-14,,Active,MI
+GLC-10056,Great Lakes Comfort Systems,Install,Installer,L2,Full-Time,24.32,Hourly,40.0,2022-05-29,,Active,MI
+RED-10004,Redwood Electric,Installation,Apprentice Electrician (Lvl 1),,Regular,19.14,Hourly,,2019-03-25,,Active,AZ
+PIN-10101,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Regular,23.1,,,2026-01-04,,Active,TX
+BAY-10356,Bayside Mechanical,Sales,Comfort Advisor,,FT,48000.0,Annual,40.0,2024-07-02,,Active,FL
+GLC-10374,Great Lakes Comfort Systems,Warehouse,Warehouse Manager,L3,FT,70500.0,Annual,40.0,2025-07-20,,Active,MI
+GLC-10377,Great Lakes Comfort Systems,Finance,AP/AR Specialist,L1,Regular,23.49,Hourly,40.0,2024-03-30,,Active,MI
+PIN-10358,Pinnacle Plumbing & Drain,Call Center,CSR,,FT,20.84,,,2025-03-21,,Active,TX
+PIN-10259,Pinnacle Plumbing & Drain,Field,Plumber - Master,,FT,37.16,,,2026-01-08,,Active,TX
+RED-10011,Redwood Electric,Installation,Apprentice Electrician (Lvl 1),,Regular,20.32,Hourly,,2026-02-28,,Active,AZ
+PIN-10033,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,,Full-Time,19.45,,,2026-06-18,,Active,TX
+PIN-90008,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,Full-Time,27.67,,,2021-11-29,2025-12-14,Terminated,TX
+GLC-90048,Great Lakes Comfort Systems,Warehouse,Warehouse Manager,L3,FT,70500.0,Annual,40.0,2022-11-28,2026-07-06,Terminated,MI
+PIN-10169,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,,27.9,,,2024-05-05,,Active,TX
+GLC-10174,Great Lakes Comfort Systems,Service - Plumbing,Technician,L2,FT,29.89,Hourly,40.0,2024-12-23,,Active,MI
+NHS-10026,Northstar Corporate,IT,Help Desk Technician,,Full-Time,25.45,Hourly,40.0,2025-05-22,,Active,FL
+GLC-10259,Great Lakes Comfort Systems,Service - Plumbing,Field Supervisor,L4,Regular,79000.0,Annual,40.0,2011-06-30,,Active,MI
+PIN-C326,Pinnacle Plumbing & Drain,Field,Contract Electrician,,1099,55.66,,,2026-04-20,,Active,TX
+PIN-10390,Pinnacle Plumbing & Drain,Fleet,Warehouse Associate,,Full-Time,17.34,,,2025-12-04,,Active,TX
+GLC-10096,Great Lakes Comfort Systems,Install,Installer,L3,Regular,42.71,Hourly,40.0,2020-12-15,,Active,MI
+PIN-10199,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,Full-Time,27.67,,,2024-04-27,,Active,TX
+PIN-10145,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,,Regular,21.81,,,2025-04-02,,Active,TX
+GLC-10196,Great Lakes Comfort Systems,Service - Plumbing,Technician,L2,Regular,32.6,Hourly,40.0,2020-11-04,,Active,MI
+PIN-10065,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,FT,29.54,,,2021-09-23,,Active,TX
+PIN-10244,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,Full-Time,33.88,,,2024-03-12,,Active,TX
+PIN-10093,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Regular,23.14,,,2024-08-28,,Active,TX
+PIN-10354,Pinnacle Plumbing & Drain,Call Center,CSR,,Regular,20.78,,,2025-02-08,,Active,TX
+PIN-10007,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,,Regular,21.87,,,2021-08-14,,Active,TX
+RED-10065,Redwood Electric,Installation,Electrical Installer (Lvl 2),,FT,22.45,Hourly,,2025-04-25,,Active,AZ
+BAY-10175,Bayside Mechanical,Service,HVAC Service Tech I,,,17.06,Hourly,40.0,2022-07-15,,Active,FL
+PIN-10369,Pinnacle Plumbing & Drain,Call Center,Dispatcher,,Full-Time,24.49,,,2025-11-23,,Active,TX
+RED-90023,Redwood Electric,Finance,Payroll Specialist,,Regular,56000.0,Annual,,2019-01-19,2026-01-27,Terminated,AZ
+PIN-10067,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,FT,29.04,,,2024-12-17,,Active,TX
+GLC-10201,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,Regular,24.91,Hourly,40.0,2025-09-03,,Active,MI
+BAY-10177,Bayside Mechanical,Service,HVAC Service Tech I,,Regular,18.49,Hourly,40.0,2024-09-24,,Active,FL
+GLC-90017,Great Lakes Comfort Systems,Install,Installer,L3,Regular,44.36,Hourly,40.0,2019-06-23,2025-09-28,Terminated,MI
+BAY-C301,Bayside Mechanical,Service,Contract HVAC Technician,,1099,46.21,Hourly,40.0,2025-12-21,,Active,FL
+BAY-10093,Bayside Mechanical,Install,HVAC Installer II,,,0.0,Hourly,40.0,2022-10-07,,Active,FL
+BAY-10014,Bayside Mechanical,Install,HVAC Installer I,,,21.16,Hourly,40.0,2024-02-17,,Active,FL
+RED-10275,Redwood Electric,HR,HR Coordinator,,Full-Time,50500.0,Annual,,2020-12-25,,Active,AZ
+BAY-10412,Bayside Mechanical,Customer Care,Dispatcher,,,24.76,Hourly,40.0,2024-02-02,,Active,FL
+GLC-10313,Great Lakes Comfort Systems,Customer Care,Customer Service Representative,L1,,16.39,Hourly,25.0,2024-02-20,,Active,MI
+BAY-10283,Bayside Mechanical,Service,HVAC Service Tech III,,Full-Time,38.47,Hourly,40.0,2023-01-16,,Active,FL
+GLC-10332,Great Lakes Comfort Systems,Customer Care,Dispatcher,L2,Regular,23.74,Hourly,40.0,2025-04-04,,Active,MI
+GLC-10268,Great Lakes Comfort Systems,Sales,Comfort Advisor,L2,Regular,48000.0,Annual,40.0,2025-09-12,,Active,MI
+PIN-10386,Pinnacle Plumbing & Drain,Fleet,Warehouse Associate,,FT,16.4,,,2022-12-17,,Active,TX
+GLC-10135,Great Lakes Comfort Systems,Service - Plumbing,Technician,L1,Regular,20.44,Hourly,40.0,2021-12-31,,Active,MI
+RED-10184,Redwood Electric,Field Ops - Service,Electrician (Lvl 3),,FT,41.74,Hourly,,2015-12-22,,Active,AZ
+RED-10021,Redwood Electric,Installation,Electrical Installer (Lvl 2),,,29.45,Hourly,,2022-12-04,,Active,AZ
+RED-10215,Redwood Electric,Sales,Sr Home Solutions Consultant,,Full-Time,59000.0,Annual,,2023-12-03,,Active,AZ
+PIN-90046,Pinnacle Plumbing & Drain,Call Center,Call Center Supervisor,,Regular,58000.0,,,2022-02-24,,Terminated,TX
+RED-10074,Redwood Electric,Installation,Lead Electrical Installer (Lvl 3),,Regular,42.53,Hourly,,2023-08-15,,Active,AZ
+BAY-10173,Bayside Mechanical,Service,HVAC Service Tech I,,Regular,17.11,Hourly,40.0,2025-10-14,,Active,FL
+PIN-10089,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Full-Time,22.72,,,2020-06-09,,Active,TX
+RED-10247,Redwood Electric,CSR,Dispatcher,,Full-Time,23.21,Hourly,,2019-06-10,,Active,AZ
+PIN-10206,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,,29.52,,,2022-08-05,,Active,TX
+PIN-10009,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,,,18.73,,,2025-05-23,,Active,TX
+PIN-10263,Pinnacle Plumbing & Drain,Field,Plumber - Master,,FT,42.95,,,2025-02-12,,Active,TX
+GLC-10147,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,FT,28.88,Hourly,40.0,2019-11-19,,Active,MI
+PIN-10137,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,,Full-Time,17.21,,,2025-07-27,,Active,TX
+PIN-10415,Pinnacle Plumbing & Drain,Acctg,Staff Accountant,,,62000.0,,,2021-03-14,,Active,TX
+PIN-10127,Pinnacle Plumbing & Drain,Field,Installation Manager,,Regular,78000.0,,,2022-04-05,,Active,TX
+RED-10259,Redwood Electric,Parts & Fleet,Warehouse Associate,,FT,18.24,Hourly,,2025-06-27,,Active,AZ
+GLC-10205,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,FT,24.17,Hourly,40.0,2025-05-19,,Active,MI
+PIN-10286,Pinnacle Plumbing & Drain,Sales,Sales Consultant,,,50000.0,,,2025-04-06,,Active,TX
+PIN-10056,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Regular,22.04,,,2024-03-10,,Active,TX
+BAY-10081,Bayside Mechanical,Install,HVAC Installer II,,FT,23.13,Hourly,40.0,2023-11-17,,Active,FL
+PIN-10035,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Full-Time,24.94,,,2025-01-15,,Active,TX
+NHS-10045,Northstar Corporate,IT,Business Systems Analyst,,Full-Time,89500.0,Annual,40.0,2021-01-13,,Active,FL
+BAY-10243,Bayside Mechanical,Service,HVAC Service Tech II,,FT,32.63,Hourly,40.0,2023-07-22,,Active,FL
+PIN-10014,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,,Full-Time,21.64,,,2020-08-11,,Active,TX
+BAY-10015,Bayside Mechanical,Install,HVAC Installer I,,FT,21.97,Hourly,40.0,2023-04-09,,Active,FL
+RED-10283,Redwood Electric,HR,Recruiter,,FT,55000.0,Annual,,2023-02-24,,Active,AZ
+BAY-10236,Bayside Mechanical,Service,HVAC Service Tech II,,Full-Time,27.75,Hourly,40.0,2025-12-23,,Active,FL
+BAY-10123,Bayside Mechanical,Install,Lead HVAC Installer,,,44.07,Hourly,40.0,2024-09-09,,Active,FL
+RED-10172,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,FT,28.19,Hourly,,2025-08-06,,Active,AZ
+GLC-10137,Great Lakes Comfort Systems,Service - HVAC,Technician,L1,Regular,185000.0,Annual,40.0,2024-12-22,,Active,MI
+RED-10152,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,,33.27,Hourly,,2025-08-28,,Active,AZ
+GLC-C340,Great Lakes Comfort Systems,Customer Care,Temp CSR,,Temp,17.93,Hourly,40.0,2024-10-23,,Active,MI
+BAY-10238,Bayside Mechanical,Service,HVAC Service Tech II,,Regular,25.06,Hourly,40.0,2016-11-12,,Active,FL
+GLC-C323,Great Lakes Comfort Systems,Service - Plumbing,Contract Electrician,,1099,42.73,Hourly,40.0,2025-09-27,,Active,MI
+PIN-10266,Pinnacle Plumbing & Drain,Field,Plumber - Master,,,34.04,,,2023-03-14,,Active,TX
+BAY-10449,Bayside Mechanical,Warehouse,Parts Coordinator,,FT,25.32,Hourly,40.0,2024-06-20,,Active,FL
+RED-10113,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),,Regular,19.58,Hourly,,2024-08-31,,Active,AZ
+PIN-10194,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,Regular,29.51,,,2021-12-03,,Active,TX
+BAY-10405,Bayside Mechanical,Sales,Customer Service Rep,,Regular,20.4,Hourly,40.0,2025-05-24,,,FL
+GLC-10132,Great Lakes Comfort Systems,Service - HVAC,Technician,L1,Full-Time,20.92,Hourly,40.0,2020-11-24,,Active,MI
+BAY-10136,Bayside Mechanical,Install,Install Mgr,,,79500.0,Annual,40.0,2023-12-25,,Active,FL
+GLC-10052,Great Lakes Comfort Systems,Install,Installer,L2,Regular,23.09,Hourly,40.0,2024-09-15,,Active,MI
+BAY-10316,Bayside Mechanical,Service,Service Supervisor,,Regular,84500.0,Annual,40.0,2024-01-15,,Active,FL
+RED-10120,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,Regular,31.54,Hourly,,2023-01-10,,Active,AZ
+BAY-10308,Bayside Mechanical,Service,HVAC Service Tech III,,Full-Time,37.2,Hourly,40.0,2024-06-16,,Active,FL
+GLC-10008,Great Lakes Comfort Systems,Install,Installer,L1,Regular,19.59,Hourly,40.0,2015-10-19,,Active,MI
+PIN-10384,Pinnacle Plumbing & Drain,Fleet,Warehouse Associate,,Regular,18.4,,,2017-02-14,,Active,TX
+BAY-10165,Bayside Mechanical,Service,HVAC Service Tech I,,Regular,20.61,Hourly,40.0,2024-02-02,,Active,FL
+RED-10249,Redwood Electric,CSR,Dispatcher,,,22.07,Hourly,,2026-02-08,,Active,AZ
+RED-90022,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),,Regular,20.79,Hourly,,2017-04-21,2025-11-29,Terminated,AZ
+BAY-10208,Bayside Mechanical,Service,HVAC Service Tech II,,Regular,24.66,Hourly,40.0,2021-12-26,,Active,FL
+GLC-10202,Great Lakes Comfort Systems,Service - Plumbing,Technician,L2,Regular,25.38,Hourly,40.0,2023-05-27,,Active,MI
+RED-10041,Redwood Electric,Installation,Electrical Installer (Lvl 2),,Regular,27.99,Hourly,,2026-01-24,,Active,AZ
+RED-10253,Redwood Electric,Parts & Fleet,Warehouse Associate,,Regular,16.37,Hourly,,2023-04-18,,Active,AZ
+NHS-10039,Northstar Corporate,IT,Systems Administrator,,FT,91500.0,Annual,40.0,2020-12-29,,Active,FL
+RED-10023,Redwood Electric,Installation,Electrical Installer (Lvl 2),,Regular,25.01,Hourly,,2023-03-15,,Active,AZ
+PIN-10403,Pinnacle Plumbing & Drain,Fleet,Fleet Coordinator,,,53500.0,,,2020-11-21,,Active,TX
+BAY-10244,Bayside Mechanical,Service,HVAC Service Tech II,,Regular,33.09,Hourly,40.0,2023-09-24,,Active,FL
+BAY-10030,Bayside Mechanical,Install,HVAC Installer II,,Full-Time,26.55,Hourly,40.0,2024-12-28,,Active,FL
+BAY-10115,Bayside Mechanical,Install,Lead HVAC Installer,,Full-Time,42.48,Hourly,40.0,2024-02-25,,Active,FL
+GLC-10040,Great Lakes Comfort Systems,Install,Installer,L2,Regular,24.82,Hourly,40.0,2024-10-12,,Active,MI
+BAY-10223,Bayside Mechanical,Service,HVAC Service Tech II,,Regular,31.46,Hourly,40.0,2024-10-21,,Active,FL
+NHS-10061,Northstar Corporate,Executive & Corporate,Executive Assistant,,Regular,71500.0,Annual,40.0,2024-06-13,,Active,FL
+GLC-10100,Great Lakes Comfort Systems,Install,Installer,L3,Regular,41.62,Hourly,40.0,2023-01-08,,Active,MI
+NHS-10055,Northstar Corporate,Marketing,Digital Marketing Specialist,,Regular,64000.0,Annual,40.0,2026-01-31,,Active,FL
+PIN-10025,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,,FT,18.21,,,2025-06-12,,Active,TX
+RED-10160,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,Regular,24.63,Hourly,,2023-03-03,,Active,AZ
+PIN-90015,Pinnacle Plumbing & Drain,Call Center,Call Center Supervisor,,Regular,60500.0,,,2018-11-01,2026-06-16,Terminated,TX
+PIN-10426,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,,Full-Time,19.0,,,2026-07-14,,Active,TX
+GLC-10333,Great Lakes Comfort Systems,Customer Care,Dispatcher,L2,FT,,Hourly,40.0,2025-10-22,,Active,MI
+BAY-10162,Bayside Mechanical,Service,HVAC Service Tech I,,,18.31,Hourly,40.0,2024-01-22,,Active,FL
+BAY-10003,Bayside Mechanical,Install,HVAC Installer I,,Full-Time,21.57,Hourly,40.0,2025-08-10,,Active,FL
+BAY-10225,Bayside Mechanical,Service,HVAC Service Tech II,,,28.28,Hourly,40.0,2024-08-21,,Active,FL
+GLC-10391,Great Lakes Comfort Systems,Install,Installer,L1,Regular,18.0,Hourly,40.0,2026-07-21,,Active,MI
+GLC-10180,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,,32.46,Hourly,40.0,2022-07-14,,Active,MI
+GLC-10392,Great Lakes Comfort Systems,Service - Plumbing,Technician,L2,Full-Time,26.0,Hourly,40.0,2026-07-28,,Active,MI
+PIN-10011,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,,Regular,17.77,,,2025-04-23,,Active,TX
+RED-10096,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),,Regular,17.06,Hourly,,2021-10-30,,Active,AZ
+PIN-10108,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,,FT,43.35,,,2025-05-30,,Active,TX
+PIN-10352,Pinnacle Plumbing & Drain,Call Center,CSR,,Regular,18.59,,,2025-10-08,,Active,TX
+GLC-10371,Great Lakes Comfort Systems,Warehouse,Warehouse Manager,L3,Regular,77500.0,Annual,40.0,2024-08-29,,Active,MI
+PIN-10217,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,,24.49,,,2024-09-25,,Active,TX
+PIN-10031,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,,,21.96,,,2023-11-18,,Active,TX
+BAY-10204,Bayside Mechanical,Service,HVAC Service Tech II,,Regular,33.67,Hourly,40.0,2024-06-10,,Active,FL
+PIN-90004,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,FT,25.32,,,2023-03-28,2026-05-15,Terminated,TX
+RED-10196,Redwood Electric,Field Ops - Service,Field Supervisor,,Regular,81500.0,Annual,,2022-07-26,,Active,AZ
+PIN-10176,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,FT,28.48,,,2021-12-31,,Active,TX
+BAY-10406,Bayside Mechanical,Customer Care,Customer Service Rep,,,17.96,Hourly,24.0,2025-10-20,,Active,FL
+BAY-10444,Bayside Mechanical,Warehouse,Warehouse Associate,,,16.36,Hourly,40.0,2025-11-17,,Leave,FL
+RED-10029,Redwood Electric,Installation,Electrical Installer (Lvl 2),,,22.1,Hourly,,2021-06-25,,Active,AZ
+BAY-10227,Bayside Mechanical,Service,HVAC Service Tech II,,,33.61,Hourly,40.0,2023-01-25,,Active,FL
+BAY-10293,Bayside Mechanical,Service,HVAC Service Tech III,,Regular,34.15,Hourly,40.0,2024-01-13,,Active,FL
+BAY-10001,Bayside Mechanical,Install,HVAC Installer I,,Regular,19.35,Hourly,40.0,2017-05-20,,Active,FL
+PIN-10073,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,,26.96,,,2023-12-24,,Active,TX
+RED-10186,Redwood Electric,Field Ops - Service,Electrician (Lvl 3),,,38.94,Hourly,,2025-08-11,,Active,AZ
+PIN-10378,Pinnacle Plumbing & Drain,Call Center,Call Center Supervisor,,Regular,60500.0,,,2024-12-08,,Active,TX
+PIN-90067,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,FT,32.27,,,2018-09-20,2025-11-26,Terminated,TX
+PIN-10175,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,,31.09,,,2026-04-12,,Active,TX
+GLC-10182,Great Lakes Comfort Systems,Service - Plumbing,Technician,L2,Regular,32.1,Hourly,40.0,2025-02-07,,Active,MI
+GLC-10122,Great Lakes Comfort Systems,Service - HVAC,Technician,L1,FT,20.3,Hourly,40.0,2022-02-07,,Active,MI
+PIN-10350,Pinnacle Plumbing & Drain,Call Center,CSR,,FT,20.87,,,2024-12-10,,Active,TX
+GLC-10024,Great Lakes Comfort Systems,Install,Installer,L1,Full-Time,20.19,Hourly,40.0,2025-06-21,,Active,MI
+NHS-10003,Northstar Corporate,Finance & Accounting,Payroll Specialist,,Full-Time,56000.0,Annual,40.0,2022-09-16,,Active,FL
+GLC-10315,Great Lakes Comfort Systems,Customer Care,Customer Service Representative,L1,Regular,17.23,Hourly,40.0,2023-09-17,,Active,MI
+BAY-10222,Bayside Mechanical,Service,HVAC Service Tech II,,FT,29.42,Hourly,40.0,2023-07-27,,Active,FL
+PIN-10261,Pinnacle Plumbing & Drain,Field,Plumber - Master,,Regular,40.17,,,2021-09-04,,Active,TX
+GLC-10274,Great Lakes Comfort Systems,Sales,Comfort Advisor,L2,Regular,50500.0,Annual,40.0,2023-06-21,,Active,MI
+BAY-10337,Bayside Mechanical,Sales,Comfort Advisor,,Regular,,Annual,40.0,2022-10-21,,Active,FL
+BAY-10055,Bayside Mechanical,Install,HVAC Installer II,,,24.07,Hourly,40.0,2024-08-04,,Active,FL
+PIN-10181,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,,27.26,,,2024-08-02,,Active,TX
+RED-90066,Redwood Electric,Installation,Apprentice Electrician (Lvl 1),,Full-Time,21.13,Hourly,,2018-12-21,2025-10-12,Terminated,AZ
+RED-10266,Redwood Electric,Parts & Fleet,Parts Coordinator,,Regular,23.33,Hourly,,2022-02-20,,Active,AZ
+BAY-10473,Bayside Mechanical,HR,HR Coordinator,,,52000.0,Annual,40.0,2025-02-01,,Active,FL
+PIN-10091,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Regular,29.58,,,2024-07-06,,Active,TX
+BAY-10469,Bayside Mechanical,Finance,Staff Accountant,,Regular,64000.0,Annual,40.0,2024-11-11,,Active,FL
+BAY-10468,Bayside Mechanical,Finance,Staff Accountant,,FT,68500.0,Annual,40.0,2023-09-10,,Active,FL
+GLC-10234,Great Lakes Comfort Systems,Service - HVAC,Technician,L3,,39.27,Hourly,40.0,2023-06-27,,Active,MI
+RED-90077,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,Regular,29.86,Hourly,,2018-05-12,2026-08-08,Terminated,AZ
+BAY-10434,Bayside Mechanical,Warehouse,Warehouse Associate,,Regular,16.53,Hourly,40.0,2023-10-31,,Active,FL
+PIN-10213,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,FT,31.54,,,2023-10-03,,Active,TX
+PIN-10167,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,Regular,30.21,,,2021-04-18,,Active,TX
+GLC-10242,Great Lakes Comfort Systems,Service - HVAC,Technician,L3,FT,41.84,Hourly,40.0,2020-10-31,,Active,MI
+PIN-10312,Pinnacle Plumbing & Drain,Sales,Senior Sales Consultant,,Regular,56500.0,,,2020-04-06,,Active,TX
+PIN-10393,Pinnacle Plumbing & Drain,Fleet,Warehouse Associate,,Regular,20.82,,,2026-03-20,,Active,TX
+BAY-10130,Bayside Mechanical,Install,Lead HVAC Installer,,Regular,43.76,Hourly,40.0,2019-11-21,,Active,FL
+GLC-10360,Great Lakes Comfort Systems,Warehouse,Warehouse Associate,L1,Regular,19.52,Hourly,25.0,2025-07-24,,Active,MI
+RED-10179,Redwood Electric,Field Ops - Service,Electrician (Lvl 3),,Regular,41.93,Hourly,,2025-07-04,,Active,AZ
+PIN-10042,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Full-Time,22.54,,,2024-04-15,,Active,TX
+BAY-10134,Bayside Mechanical,Install,Install Mgr,,Regular,87500.0,Annual,40.0,2024-05-26,,Active,FL
+BAY-10185,Bayside Mechanical,Service,HVAC Service Tech II,,,26.72,Hourly,40.0,2025-09-17,,Active,FL
+GLC-10042,Great Lakes Comfort Systems,Install,Installer,L2,Full-Time,28.39,Hourly,40.0,2020-01-05,,Active,MI
+PIN-10045,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Regular,26.42,,,2019-06-13,,Active,TX
+BAY-10221,Bayside Mechanical,Service,HVAC Service Tech II,,Regular,33.39,Hourly,40.0,2022-06-17,,Active,FL
+PIN-10103,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Regular,24.04,,,2025-04-19,,Active,TX
+PIN-10280,Pinnacle Plumbing & Drain,Field,Field Supervisor,,,76500.0,,,2023-02-28,,Active,TX
+RED-10252,Redwood Electric,CSR,Dispatcher,,Regular,0.0,Hourly,,2023-08-20,,Active,AZ
+PIN-10115,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,,Full-Time,41.18,,,2019-03-17,,Active,TX
+GLC-10240,Great Lakes Comfort Systems,Service - HVAC,Technician,L3,Regular,41.1,Hourly,40.0,2023-09-19,,Active,MI
+PIN-10092,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Regular,26.06,,,2023-07-12,,Active,TX
+BAY-10202,Bayside Mechanical,Service,HVAC Service Tech II,,Full-Time,27.64,Hourly,40.0,2021-02-05,,Active,FL
+GLC-10297,Great Lakes Comfort Systems,Customer Care,Customer Service Representative,L1,Regular,16.63,Hourly,25.0,2024-06-17,,Active,MI
+PIN-10260,Pinnacle Plumbing & Drain,Field,Plumber - Master,,Full-Time,39.57,,,2024-09-05,,Active,TX
+BAY-10476,Bayside Mechanical,HR,Recruiter,,Regular,55500.0,Annual,40.0,2020-08-17,,Active,FL
+PIN-10168,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,FT,31.83,,,2023-09-01,,Active,TX
+PIN-10116,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,,Regular,40.43,,,2023-02-22,,Active,TX
+GLC-10288,Great Lakes Comfort Systems,Sales,Senior Comfort Advisor,L3,Regular,59000.0,Annual,40.0,2022-06-13,,Active,MI
+BAY-10229,Bayside Mechanical,Service,HVAC Service Tech II,,Regular,32.0,Hourly,40.0,2025-12-02,,Active,FL
+BAY-10397,Bayside Mechanical,Customer Care,Customer Service Rep,,FT,16.7,Hourly,40.0,2017-12-02,,Active,FL
+RED-10107,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),,Full-Time,18.45,Hourly,,2025-10-30,,Active,AZ
+BAY-10201,Bayside Mechanical,Service,HVAC Service Tech II,,Full-Time,24.28,Hourly,40.0,2023-05-01,,Active,FL
+NHS-10014,Northstar Corporate,HR,Recruiter,,Regular,55000.0,Annual,40.0,2026-06-08,,Active,FL
+RED-10067,Redwood Electric,Installation,Electrical Installer (Lvl 2),,Full-Time,22.56,Hourly,,2022-06-17,,Active,AZ
+BAY-10098,Bayside Mechanical,Install,HVAC Installer II,,Regular,23.65,Hourly,40.0,2020-06-19,,Active,FL
+BAY-10326,Bayside Mechanical,Service,Service Manager,,Regular,88000.0,Annual,40.0,2023-08-01,,Active,FL
+BAY-10020,Bayside Mechanical,Install,HVAC Installer I,,Regular,21.28,Hourly,40.0,2025-06-13,,Active,FL
+PIN-90078,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,Full-Time,24.65,,,2012-07-23,,Terminated,TX
+PIN-10285,Pinnacle Plumbing & Drain,Sales,Sales Consultant,,FT,47500.0,,,2025-04-25,,Active,TX
+GLC-10131,Great Lakes Comfort Systems,Service - HVAC,Technician,L1,Regular,18.61,Hourly,40.0,2024-10-22,,Active,MI
+RED-10212,Redwood Electric,Sales,Sr Home Solutions Consultant,,Full-Time,54500.0,Annual,,2019-10-19,,Active,AZ
+PIN-10102,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Full-Time,22.59,,,2025-03-22,,Active,TX
+RED-10208,Redwood Electric,Sales,Home Solutions Consultant,,Full-Time,42500.0,Annual,,2020-04-13,,Active,AZ
+BAY-10017,Bayside Mechanical,Install,HVAC Installer I,,,19.69,Hourly,40.0,2024-07-17,,Active,FL
+GLC-10284,Great Lakes Comfort Systems,Sales,Comfort Advisor,L2,,51500.0,Annual,40.0,2025-04-07,,Active,MI
+PIN-10254,Pinnacle Plumbing & Drain,Field,Plumber - Master,,FT,34.24,,,2023-11-20,,Active,TX
+PIN-10250,Pinnacle Plumbing & Drain,Field,Plumber - Master,,Regular,36.99,,,2023-01-12,,Active,TX
+GLC-10199,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,Regular,26.65,Hourly,40.0,2018-03-14,,Active,MI
+BAY-10200,Bayside Mechanical,Service,HVAC Service Tech II,,FT,28.99,Hourly,40.0,2025-09-23,,Active,FL
+BAY-10391,Bayside Mechanical,Customer Care,Customer Service Rep,,FT,20.65,Hourly,28.0,2025-08-23,,Active,FL
+GLC-10037,Great Lakes Comfort Systems,Install,Installer,L2,,29.22,Hourly,40.0,2025-03-13,,Active,MI
+PIN-10371,Pinnacle Plumbing & Drain,Call Center,Dispatcher,,,24.84,,,2024-04-01,,Active,TX
+RED-10236,Redwood Electric,CSR,Cust Svc Rep,,Regular,16.13,Hourly,,2021-12-14,,Active,AZ
+PIN-10026,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,,Regular,20.38,,,2025-01-31,,Active,TX
+RED-10242,Redwood Electric,CSR,Cust Svc Rep,,,19.45,Hourly,,2022-03-15,,Active,AZ
+RED-10246,Redwood Electric,CSR,Dispatcher,,Full-Time,21.95,Hourly,,2026-03-03,,Active,AZ
+BAY-10447,Bayside Mechanical,Warehouse,Parts Coordinator,,Regular,24.98,Hourly,40.0,2020-05-09,,Active,FL
+BAY-10125,Bayside Mechanical,Install,Lead HVAC Installer,,,43.49,Hourly,40.0,2022-10-10,,Active,FL
+RED-10165,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,Full-Time,27.63,Hourly,,2022-11-26,,Active,AZ
+GLC-10262,Great Lakes Comfort Systems,Service - HVAC,Service Manager,L5,Regular,96000.0,Annual,40.0,2022-02-18,,Active,MI
+GLC-10005,Great Lakes Comfort Systems,Install,Installer,L1,Full-Time,17.8,Hourly,40.0,2021-09-17,,Active,MI
+PIN-10381,Pinnacle Plumbing & Drain,Call Center,Customer Care Manager,,Regular,82500.0,,,2021-04-26,,Active,TX
+GLC-10345,Great Lakes Comfort Systems,Customer Care,Customer Care Manager,L4,Full-Time,72500.0,Annual,40.0,2023-01-15,,Active,MI
+RED-10272,Redwood Electric,Finance,Payroll Specialist,,Regular,56000.0,Annual,,2023-09-28,,Active,AZ
+NHS-C331,Northstar Corporate,IT,IT Consultant,,Contractor,75.83,Hourly,40.0,2025-02-23,,Active,FL
+RED-10180,Redwood Electric,Field Ops - Service,Electrician (Lvl 3),,Regular,41.55,Hourly,,2020-12-25,,Active,AZ
+PIN-10174,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,Full-Time,31.89,,,2012-05-31,,Active,TX
+PIN-10355,Pinnacle Plumbing & Drain,Call Center,CSR,,Full-Time,16.82,,,2014-02-06,,Active,TX
+BAY-10095,Bayside Mechanical,Install,HVAC Installer II,,Regular,22.91,Hourly,40.0,2025-02-22,,Active,FL
+GLC-10356,Great Lakes Comfort Systems,Warehouse,Warehouse Associate,L1,Regular,18.7,Hourly,40.0,2025-10-01,,Active,MI
+GLC-10054,Great Lakes Comfort Systems,Install,Installer,L2,Regular,28.97,Hourly,40.0,2025-11-03,,Active,MI
+GLC-10164,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,Regular,28.33,Hourly,40.0,2024-06-03,,Active,MI
+PIN-10294,Pinnacle Plumbing & Drain,Sales,Sales Consultant,,Full-Time,45000.0,,,2025-11-28,,Active,TX
+GLC-10381,Great Lakes Comfort Systems,Finance,Staff Accountant,L2,Regular,62500.0,Annual,40.0,2021-12-09,,Active,MI
+BAY-10334,Bayside Mechanical,Sales,Comfort Advisor,,Full-Time,44000.0,Annual,40.0,2024-11-21,,Active,FL
+BAY-10040,Bayside Mechanical,Install,HVAC Installer II,,Regular,24.49,Hourly,40.0,2025-12-17,,Active,FL
+PIN-10078,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Regular,28.11,,,2023-12-22,,Active,TX
+PIN-10359,Pinnacle Plumbing & Drain,Call Center,CSR,,Full-Time,19.32,,,2020-06-28,,Active,TX
+BAY-90052,Bayside Mechanical,Install,HVAC Installer II,,Full-Time,23.44,Hourly,40.0,2019-09-19,2026-04-30,Terminated,FL
+BAY-10358,Bayside Mechanical,Sales,Sr Comfort Advisor,,Regular,54500.0,Annual,40.0,2013-05-31,,Active,FL
+PIN-10370,Pinnacle Plumbing & Drain,Call Center,Dispacher,,Full-Time,22.28,,,2025-02-08,,Active,TX
+GLC-10218,Great Lakes Comfort Systems,Service - Plumbing,Technician,L2,Regular,30.34,Hourly,40.0,2022-12-13,,Active,MI
+BAY-10063,Bayside Mechanical,Install,HVAC Installer II,,Regular,23.09,Hourly,40.0,2024-06-16,,Active,FL
+BAY-10419,Bayside Mechanical,Customer Care,Dispatcher,,FT,21.74,Hourly,40.0,2023-11-11,,Active,FL
+BAY-10255,Bayside Mechanical,Service,HVAC Service Tech II,,FT,26.52,Hourly,40.0,2025-06-18,,Active,FL
+GLC-10349,Great Lakes Comfort Systems,Warehouse,Warehouse Associate,L1,FT,18.03,Hourly,40.0,2025-05-03,,Active,MI
+GLC-10107,Great Lakes Comfort Systems,Install,Install Manager,L4,Regular,84000.0,Annual,40.0,2021-07-06,,Active,MI
+PIN-10353,Pinnacle Plumbing & Drain,Call Center,CSR,,Regular,16.65,,,2021-11-09,,Active,TX
+RED-10203,Redwood Electric,Field Ops - Service,Service Manager,,Full-Time,95000.0,Annual,,2024-02-15,,Active,AZ
+BAY-10120,Bayside Mechanical,Install,Lead HVAC Installer,,FT,44.92,Hourly,40.0,2023-12-19,,Active,FL
+BAY-10371,Bayside Mechanical,Customer Care,Customer Service Rep,,Full-Time,20.98,Hourly,40.0,2026-02-10,,Active,FL
+NHS-10018,Northstar Corporate,HR,HR Business Partner,,FT,94500.0,Annual,40.0,2024-04-14,,Active,FL
+GLC-10308,Great Lakes Comfort Systems,Customer Care,Customer Service Representative,L1,Full-Time,19.34,Hourly,40.0,2021-11-03,,Active,MI
+GLC-10178,Great Lakes Comfort Systems,Service - Plumbing,Technician,L2,FT,29.75,Hourly,40.0,2025-11-06,,Active,MI
+BAY-10127,Bayside Mechanical,Install,Lead HVAC Installer,,Regular,43.63,Hourly,40.0,2021-08-29,,Active,FL
+PIN-C333,Pinnacle Plumbing & Drain,Fleet,Temp Warehouse Associate,,Temp,19.17,,,2026-03-09,,Active,TX
+RED-10058,Redwood Electric,Installation,Electrical Installer (Lvl 2),,Regular,26.11,Hourly,,2023-06-01,,Active,AZ
+BAY-10057,Bayside Mechanical,Install,HVAC Installer II,,,22.1,Hourly,40.0,2023-10-25,,Active,FL
+BAY-10195,Bayside Mechanical,Service,HVAC Service Tech II,,Full-Time,33.25,Hourly,40.0,2025-06-18,,Active,FL
+GLC-10046,Great Lakes Comfort Systems,Install,Installer,L2,,28.63,Hourly,40.0,2021-09-12,,Active,MI
+RED-90020,Redwood Electric,Finance,AP/AR Specialist,,,21.42,Hourly,,2019-03-07,2025-11-06,Terminated,AZ
+NHS-10043,Northstar Corporate,IT,Business Systems Analyst,,FT,84500.0,Annual,40.0,2021-11-08,,Active,FL
+RED-10278,Redwood Electric,HR,HR Coordinator,,Full-Time,54500.0,Annual,,2023-01-31,,Active,AZ
+NHS-10032,Northstar Corporate,IT,Help Desk Technician,,Regular,24.6,Hourly,40.0,2020-10-28,,Active,FL
+BAY-10370,Bayside Mechanical,Sales,Sales Manager,,FT,100000.0,Annual,40.0,2023-05-27,,Active,FL
+PIN-90034,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,Regular,33.9,,,2019-09-01,2025-07-28,Terminated,TX
+BAY-10194,Bayside Mechanical,Service,HVAC Service Tech II,,FT,28.23,Hourly,40.0,2026-02-27,,Active,FL
+RED-10024,Redwood Electric,Installation,Electrical Installer (Lvl 2),,,23.41,Hourly,,2023-02-02,,Active,AZ
+PIN-10071,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Regular,23.12,,,2026-01-27,,Active,TX
+PIN-10314,Pinnacle Plumbing & Drain,Sales,Inside Sales Representative,,FT,18.11,,,2017-12-14,,Active,TX
+BAY-10205,Bayside Mechanical,Service,HVAC Service Tech II,,FT,33.53,Hourly,40.0,2015-08-26,,Active,FL
+BAY-10186,Bayside Mechanical,Service,HVAC Service Tech II,,Regular,24.19,Hourly,40.0,2024-02-20,,Active,FL
+GLC-10256,Great Lakes Comfort Systems,Service - HVAC,Field Supervisor,L4,Regular,75500.0,Annual,40.0,2022-07-16,,Active,MI
+GLC-10370,Great Lakes Comfort Systems,Warehouse,Warehouse Manager,L3,,71000.0,Annual,40.0,2021-04-29,,Active,MI
+GLC-10215,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,Regular,28.03,Hourly,40.0,2021-10-08,,Active,MI
+GLC-10083,Great Lakes Comfort Systems,Install,Installer,L2,FT,23.99,Hourly,40.0,2021-06-06,,Active,MI
+PIN-10349,Pinnacle Plumbing & Drain,Call Center,CSR,,,20.87,,,2025-05-15,,Active,TX
+RED-10136,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,Regular,30.69,Hourly,,2025-07-19,,Active,AZ
+BAY-10103,Bayside Mechanical,Install,HVAC Installer II,,FT,26.56,Hourly,40.0,2023-01-06,,Active,FL
+NHS-10048,Northstar Corporate,IT,IT Manager,,Full-Time,121000.0,Annual,40.0,2015-04-04,,Active,FL
+GLC-10067,Great Lakes Comfort Systems,Install,Installer,L2,Full-Time,29.7,Hourly,40.0,2024-09-27,,Active,MI
+RED-10095,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),,Full-Time,18.58,Hourly,,2020-12-17,,Active,AZ
+BAY-10151,Bayside Mechanical,Service,HVAC Service Tech I,,Full-Time,20.99,Hourly,40.0,2022-01-11,,Active,FL
+BAY-10279,Bayside Mechanical,Service,HVAC Service Tech II,,Full-Time,30.51,Hourly,40.0,2023-12-15,,Active,FL
+GLC-10239,Great Lakes Comfort Systems,Service - HVAC,Technician,L3,,43.8,Hourly,40.0,2024-08-26,,Active,MI
+RED-10271,Redwood Electric,Finance,AP/AR Specialist,,Regular,26.38,Hourly,,2021-09-06,,Active,AZ
+RED-10229,Redwood Electric,CSR,Cust Svc Rep,,Regular,16.99,Hourly,,2015-10-30,,Active,AZ
+BAY-10101,Bayside Mechanical,Install,HVAC Installer II,,Regular,26.58,Hourly,40.0,2023-09-20,,Active,FL
+RED-10162,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,Full-Time,26.97,Hourly,,2025-09-29,,Active,AZ
+GLC-90042,Great Lakes Comfort Systems,Service - HVAC,Technician,L3,Full-Time,43.88,Hourly,40.0,2025-01-12,2025-07-26,Terminated,MI
+PIN-10155,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,,FT,21.15,,,2019-07-25,,Active,TX
+NHS-10021,Northstar Corporate,HR,HR Manager,,,98000.0,Annual,40.0,2025-09-14,,Active,FL
+RED-10026,Redwood Electric,Installation,Electrical Installer (Lvl 2),,Regular,25.76,Hourly,,2025-12-04,,Active,AZ
+PIN-10330,Pinnacle Plumbing & Drain,Call Center,CSR,,Regular,19.16,,,2022-03-30,,Active,TX
+PIN-C304,Pinnacle Plumbing & Drain,Field,Contract HVAC Technician,,1099,40.47,,,2025-09-08,,Active,TX
+PIN-10032,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,,,18.46,,,2024-12-12,,Active,TX
+PIN-90084,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,Regular,24.86,,,2020-02-22,,Terminated,TX
+PIN-10296,Pinnacle Plumbing & Drain,Sales,Sales Consultant,,,46500.0,,,2020-01-15,,Active,TX
+PIN-10161,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,,Regular,17.08,,,2017-05-21,,Active,TX
+GLC-10207,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,FT,29.89,Hourly,40.0,2024-07-18,,Active,MI
+GLC-10104,Great Lakes Comfort Systems,Install,Installer,L3,Regular,40.87,Hourly,40.0,2022-09-22,,Active,MI
+BAY-10253,Bayside Mechanical,Service,HVAC Service Tech II,,,31.87,Hourly,40.0,2014-05-31,,Active,FL
+BAY-10044,Bayside Mechanical,Install,HVAC Installer II,,Full-Time,23.44,Hourly,40.0,2024-03-26,,Active,FL
+RED-10124,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,FT,29.75,Hourly,,2024-06-02,,Active,AZ
+GLC-10073,Great Lakes Comfort Systems,Install,Installer,L2,Regular,22.06,Hourly,40.0,2020-01-04,,Active,MI
+GLC-10156,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,Regular,26.94,Hourly,40.0,2016-11-12,,Active,MI
+BAY-10427,Bayside Mechanical,Customer Care,Call Center Supervisor,,Regular,59500.0,Annual,40.0,2026-05-17,,Active,FL
+NHS-10049,Northstar Corporate,IT,IT Manager,,FT,114500.0,Annual,40.0,2025-11-29,,Active,FL
+GLC-10018,Great Lakes Comfort Systems,Install,Installer,L1,Regular,17.13,Hourly,40.0,2024-06-25,,Active,MI
+GLC-10093,Great Lakes Comfort Systems,Install,Installer,L3,Full-Time,41.05,Hourly,40.0,2022-03-30,,Active,MI
+GLC-10255,Great Lakes Comfort Systems,Service - HVAC,Field Supervisor,L4,FT,,Annual,40.0,2024-07-15,,Active,MI
+PIN-10068,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,,28.79,,,2025-01-30,,Active,TX
+RED-10073,Redwood Electric,Installation,Lead Electrical Installer (Lvl 3),,FT,40.13,Hourly,,2025-03-15,,Active,AZ
+PIN-10087,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Regular,23.36,,,2025-11-02,,Leave,TX
+GLC-10123,Great Lakes Comfort Systems,Service - Plumbing,Technician,L1,FT,17.75,Hourly,40.0,2025-09-13,,Active,MI
+RED-10158,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,Regular,25.18,Hourly,,2023-04-17,,Active,AZ
+RED-10147,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,Regular,25.35,Hourly,,2024-03-04,,Active,AZ
+BAY-10343,Bayside Mechanical,Sales,Comfort Advisor,,Regular,48500.0,Annual,40.0,2025-06-29,,Active,FL
+BAY-10301,Bayside Mechanical,Service,HVAC Service Tech III,,Regular,35.25,Hourly,40.0,2019-11-22,,Active,FL
+BAY-10144,Bayside Mechanical,Service,HVAC Service Tech I,,Regular,20.25,Hourly,40.0,2024-07-18,,Active,FL
+GLC-10330,Great Lakes Comfort Systems,Customer Care,Dispatcher,L2,Regular,21.06,Hourly,40.0,2024-12-21,,Active,MI
+PIN-90089,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,,28.74,,,2020-02-18,2025-11-19,Terminated,TX
+RED-10241,Redwood Electric,CSR,Cust Svc Rep,,Regular,17.77,Hourly,,2022-02-22,,Active,AZ
+BAY-10068,Bayside Mechanical,Install,HVAC Installer II,,Regular,25.28,Hourly,40.0,2023-10-21,,Active,FL
+GLC-10388,Great Lakes Comfort Systems,IT,Help Desk Technician,L1,Regular,24.38,Hourly,40.0,2025-06-05,,Active,MI
+BAY-10170,Bayside Mechanical,Service,HVAC Service Tech I,,Regular,21.96,Hourly,40.0,2020-12-05,,Active,FL
+BAY-10281,Bayside Mechanical,Service,HVAC Service Tech III,,Regular,0.0,Hourly,40.0,2022-07-12,,Active,FL
+BAY-10048,Bayside Mechanical,Install,HVAC Installer II,,Full-Time,28.52,Hourly,40.0,2023-01-20,,Active,FL
+GLC-90085,Great Lakes Comfort Systems,Install,Installer,L3,Regular,40.33,Hourly,40.0,2024-01-09,2026-01-18,Terminated,MI
+RED-10222,Redwood Electric,CSR,Cust Svc Rep,,Regular,16.64,Hourly,,2022-10-17,,Active,AZ
+GLC-10166,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,Full-Time,32.05,Hourly,40.0,2024-09-30,,Active,MI
+RED-10077,Redwood Electric,Installation,Lead Electrical Installer (Lvl 3),,FT,42.61,Hourly,,2023-07-06,,Active,AZ
+NHS-10002,Northstar Corporate,Finance & Accounting,Payroll Specialist,,Regular,57500.0,Annual,40.0,2022-02-17,,Active,FL
+GLC-10343,Great Lakes Comfort Systems,Customer Care,Customer Care Manager,L4,,82500.0,Annual,40.0,2024-10-31,,Active,MI
+PIN-10058,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Regular,26.32,,,2018-01-06,,Active,TX
+BAY-90039,Bayside Mechanical,Service,HVAC Service Tech II,,Regular,24.97,Hourly,40.0,2022-09-25,2025-08-27,Terminated,FL
+PIN-10328,Pinnacle Plumbing & Drain,Call Center,CSR,,FT,19.72,,,2020-02-03,,Active,TX
+BAY-10090,Bayside Mechanical,Install,HVAC Installer II,,FT,26.85,Hourly,40.0,2026-02-14,,Active,FL
+BAY-10168,Bayside Mechanical,Service,HVAC Service Tech I,,FT,19.82,Hourly,40.0,2025-05-04,,Active,FL
+GLC-10187,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,FT,30.85,Hourly,40.0,2022-07-01,,Active,MI
+PIN-10249,Pinnacle Plumbing & Drain,Field,Plumber - Master,,,41.23,,,2018-08-22,,Active,TX
+PIN-10200,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,Regular,28.2,,,2019-05-10,,Active,TX
+BAY-10460,Bayside Mechanical,Finance,AP/AR Specialist,,Regular,24.02,Hourly,40.0,2024-03-11,,Active,FL
+PIN-10204,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,,29.65,,,2022-10-04,,Active,TX
+RED-10238,Redwood Electric,CSR,Cust Svc Rep,,Full-Time,18.61,Hourly,,2023-04-23,,Active,AZ
+PIN-10284,Pinnacle Plumbing & Drain,Field,Service Manager,,,94500.0,,,2019-11-02,,Active,TX
+BAY-10333,Bayside Mechanical,Sales,Comfort Advisor,,Regular,54000.0,Annual,40.0,2024-10-11,,Active,FL
+GLC-10030,Great Lakes Comfort Systems,Install,Installer,L2,Regular,26.39,Hourly,40.0,2022-07-05,,Active,MI
+GLC-10068,Great Lakes Comfort Systems,Install,Installer,L2,,24.64,Hourly,40.0,2021-06-06,,Active,MI
+PIN-10133,Pinnacle Plumbing & Drain,Field,Installation Manager,,Full-Time,81000.0,,,2021-09-07,,Active,TX
+GLC-10376,Great Lakes Comfort Systems,Finance,AP/AR Specialist,L1,Full-Time,23.53,Hourly,40.0,2026-02-18,,Active,MI
+GLC-10034,Great Lakes Comfort Systems,Install,Installer,L2,,23.11,Hourly,40.0,2024-06-26,,Active,MI
+PIN-10050,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Full-Time,26.25,,,2024-05-21,,Active,TX
+GLC-10264,Great Lakes Comfort Systems,Service - Plumbing,Service Manager,L5,Regular,86000.0,Annual,40.0,2013-10-04,,Active,MI
+PIN-10395,Pinnacle Plumbing & Drain,Fleet,Parts Coordinator,,FT,22.99,,,2018-11-17,,Active,TX
+BAY-10341,Bayside Mechanical,Sales,Comfort Advisor,,,45500.0,Annual,40.0,2020-04-09,,Active,FL
+PIN-10046,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Full-Time,25.36,,,2023-12-24,,Active,TX
+GLC-10212,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,FT,24.68,Hourly,40.0,2021-05-20,,Active,MI
+PIN-10270,Pinnacle Plumbing & Drain,Field,Plumber - Master,,Full-Time,34.24,,,2018-05-16,,Active,TX
+RED-10057,Redwood Electric,Installation,Electrical Installer (Lvl 2),,Regular,28.69,Hourly,,2016-07-20,,Active,AZ
+BAY-10431,Bayside Mechanical,Customer Care,Customer Care Manager,,,71000.0,Annual,40.0,2024-07-24,,Active,FL
+GLC-C307,Great Lakes Comfort Systems,Service - HVAC,Contract HVAC Technician,,1099,44.41,Hourly,40.0,2025-12-13,,Active,MI
+RED-10200,Redwood Electric,Field Ops - Service,Service Manager,,Regular,86500.0,Annual,,2024-02-14,,Active,AZ
+PIN-10252,Pinnacle Plumbing & Drain,Field,Plumber - Master,,Regular,40.06,,,2023-06-03,,Active,TX
+GLC-10088,Great Lakes Comfort Systems,Install,Installer,L3,,43.44,Hourly,40.0,2023-11-11,,Active,MI
+BAY-10475,Bayside Mechanical,HR,HR Coordinator,,Regular,50500.0,Annual,40.0,2023-09-04,,Active,FL
+RED-10146,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,Full-Time,28.09,Hourly,,2022-12-14,,Active,AZ
+PIN-10060,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,,26.22,,,2025-05-29,,Active,TX
+GLC-10039,Great Lakes Comfort Systems,Install,Installer,L2,,28.74,Hourly,40.0,2018-02-06,,Active,MI
+PIN-10334,Pinnacle Plumbing & Drain,Call Center,CSR,,Full-Time,17.86,,,2023-11-29,,Active,TX
+PIN-10030,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,,Regular,19.5,,,2022-05-28,,Active,TX
+PIN-10368,Pinnacle Plumbing & Drain,Call Center,Dispacher,,Full-Time,19.39,,,2023-12-02,,Active,TX
+PIN-10132,Pinnacle Plumbing & Drain,Field,Installation Manager,,FT,87500.0,,,2023-01-02,,Active,TX
+BAY-10157,Bayside Mechanical,Service,HVAC Service Tech I,,,18.16,Hourly,40.0,2025-01-15,,Active,FL
+PIN-10034,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,,22.61,,,2023-10-04,,Active,TX
+RED-10009,Redwood Electric,Installation,Apprentice Electrician (Lvl 1),,Regular,20.93,Hourly,,2022-06-17,,Active,AZ
+PIN-10066,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,FT,28.51,,,2021-01-05,,Active,TX
+BAY-10077,Bayside Mechanical,Install,HVAC Installer II,,FT,27.74,Hourly,40.0,2026-04-03,,Active,FL
+GLC-10250,Great Lakes Comfort Systems,Service - HVAC,Technician,L3,,39.66,Hourly,40.0,2018-11-09,,Active,MI
+GLC-C318,Great Lakes Comfort Systems,Install,Contract Installer,,Contractor,44.78,Hourly,40.0,2026-01-01,,Active,MI
+GLC-10361,Great Lakes Comfort Systems,Warehouse,Warehouse Associate,L1,Full-Time,18.04,Hourly,28.0,2023-08-07,,Active,MI
+BAY-10083,Bayside Mechanical,Install,HVAC Installer II,,Regular,25.94,Hourly,40.0,2024-08-28,,Active,FL
+PIN-10267,Pinnacle Plumbing & Drain,Field,Plumber - Master,,Regular,38.57,,,2025-10-19,,Active,TX
+GLC-10032,Great Lakes Comfort Systems,Install,Installer,L2,Regular,29.36,Hourly,40.0,2021-04-25,,Active,MI
+GLC-10035,Great Lakes Comfort Systems,Install,Installer,L2,Full-Time,23.66,Hourly,40.0,2020-11-12,,Active,MI
+BAY-10033,Bayside Mechanical,Install,HVAC Installer II,,Full-Time,24.62,Hourly,40.0,2025-05-31,,Active,FL
+BAY-10102,Bayside Mechanical,Install,HVAC Installer II,,Regular,24.6,Hourly,40.0,2025-10-16,,Active,FL
+RED-10281,Redwood Electric,HR,Recruiter,,Regular,56500.0,Annual,,2026-04-30,,Active,AZ
+GLC-10344,Great Lakes Comfort Systems,Customer Care,Customer Care Manager,L4,Full-Time,83000.0,Annual,40.0,2025-04-09,,Active,MI
+GLC-10217,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,FT,31.93,Hourly,40.0,2017-09-03,,Active,MI
+NHS-10074,Northstar Corporate,Executive & Corporate,Regional Vice President,,Regular,188500.0,Annual,40.0,2025-09-25,,Active,FL
+PIN-10099,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,FT,26.56,,,2023-04-24,,Active,TX
+RED-10087,Redwood Electric,Installation,Lead Electrical Installer (Lvl 3),,Full-Time,44.13,Hourly,,2023-11-25,,Active,AZ
+GLC-10116,Great Lakes Comfort Systems,Service - Plumbing,Technician,L1,Regular,18.19,Hourly,40.0,2021-09-06,,Active,MI
+PIN-10392,Pinnacle Plumbing & Drain,Fleet,Warehouse Associate,,Full-Time,19.4,,,2018-09-01,,Active,TX
+RED-10044,Redwood Electric,Installation,Electrical Installer (Lvl 2),,Regular,23.08,Hourly,,2023-04-14,,Active,AZ
+BAY-10171,Bayside Mechanical,Service,HVAC Service Tech I,,Regular,18.56,Hourly,40.0,2018-09-18,,Active,FL
+PIN-10193,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,FT,32.7,,,2021-05-15,,Active,TX
+PIN-10121,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,,Regular,43.96,,,2024-06-08,,Active,TX
+RED-10081,Redwood Electric,Installation,Lead Electrical Installer (Lvl 3),,Regular,43.55,Hourly,,2020-04-30,,Active,AZ
+RED-10148,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,,33.55,Hourly,,2025-12-13,,Active,AZ
+BAY-10303,Bayside Mechanical,Service,HVAC Service Tech III,,Full-Time,39.74,Hourly,40.0,2014-06-28,,Active,FL
+BAY-10197,Bayside Mechanical,Service,HVAC Service Tech II,,Regular,25.27,Hourly,40.0,2025-03-10,,Active,FL
+BAY-10394,Bayside Mechanical,Customer Care,Customer Service Rep,,,20.72,Hourly,29.0,2021-03-22,,Active,FL
+BAY-10110,Bayside Mechanical,Install,Lead HVAC Installer,,Regular,44.16,Hourly,40.0,2020-09-09,,Active,FL
+BAY-10329,Bayside Mechanical,Sales,Comfort Advisor,,,,Annual,40.0,2025-07-23,,Active,FL
+RED-10084,Redwood Electric,Installation,Lead Electrical Installer (Lvl 3),,FT,41.07,Hourly,,2025-07-10,,Leave,AZ
+GLC-10102,Great Lakes Comfort Systems,Install,Installer,L3,Regular,44.17,Hourly,40.0,2023-10-24,,Active,MI
+BAY-10028,Bayside Mechanical,Install,HVAC Installer I,,Regular,21.27,Hourly,40.0,2023-07-14,,Active,FL
+NHS-10010,Northstar Corporate,Finance & Accounting,FP&A Analyst,,Regular,81500.0,Annual,40.0,2025-11-09,,Active,FL
+PIN-10340,Pinnacle Plumbing & Drain,Call Center,CSR,,Regular,18.58,,,2020-08-26,,Active,TX
+BAY-10024,Bayside Mechanical,Install,HVAC Installer I,,Regular,21.67,Hourly,40.0,2011-06-30,,Active,FL
+GLC-10189,Great Lakes Comfort Systems,Service - Plumbing,Technician,L2,Full-Time,32.65,Hourly,40.0,2024-04-07,,Active,MI
+PIN-10319,Pinnacle Plumbing & Drain,Sales,Sales Manager,,Regular,93500.0,,,2023-03-30,,Active,TX
+GLC-10077,Great Lakes Comfort Systems,Install,Installer,L2,Regular,26.99,Hourly,40.0,2020-09-13,,Active,MI
+PIN-10002,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,,,18.15,,,2026-01-22,,Active,TX
+PIN-10055,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,FT,26.11,,,2022-12-17,,Active,TX
+RED-90028,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),,Regular,18.78,Hourly,,2019-06-23,2025-10-04,Terminated,AZ
+GLC-C302,Great Lakes Comfort Systems,Service - HVAC,Contract HVAC Technician,,1099,53.73,Hourly,40.0,2025-10-13,,Active,MI
+GLC-10378,Great Lakes Comfort Systems,Finance,AP/AR Specialist,L1,,24.43,Hourly,40.0,2024-01-26,,Active,MI
+BAY-10191,Bayside Mechanical,Service,HVAC Service Tech II,,Regular,28.64,Hourly,40.0,2024-02-27,,Active,FL
+GLC-10314,Great Lakes Comfort Systems,Customer Care,Customer Service Representative,L1,,16.16,Hourly,28.0,2022-10-27,,Active,MI
+NHS-10044,Northstar Corporate,IT,Business Systems Analyst,,FT,88000.0,Annual,40.0,2023-05-29,,Active,FL
+BAY-90030,Bayside Mechanical,Service,HVAC Service Tech I,,,21.62,Hourly,40.0,2017-04-06,2025-08-09,Terminated,FL
+GLC-10154,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,Regular,28.79,Hourly,40.0,2025-12-28,,Active,MI
+PIN-10227,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,,32.45,,,2021-02-08,,Active,TX
+GLC-90095,Great Lakes Comfort Systems,Warehouse,Warehouse Associate,L1,FT,19.69,Hourly,24.0,2017-05-18,2026-08-15,Terminated,MI
+BAY-10300,Bayside Mechanical,Service,HVAC Service Tech III,,,37.44,Hourly,40.0,2024-09-04,,Active,FL
+BAY-10387,Bayside Mechanical,Customer Care,Customer Service Rep,,FT,19.83,Hourly,25.0,2019-06-05,,Active,FL
+NHS-10057,Northstar Corporate,Marketing,Digital Marketing Specialist,,Regular,63500.0,Annual,40.0,2024-08-09,,Active,FL
+RED-10276,Redwood Electric,HR,HR Coordinator,,Full-Time,45500.0,Annual,,2023-05-26,,Active,AZ
+BAY-10345,Bayside Mechanical,Sales,Comfort Advisor,,Regular,49500.0,Annual,40.0,2026-01-20,,Active,FL
+PIN-10085,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Full-Time,25.64,,,2021-07-17,,Active,TX
+GLC-10011,Great Lakes Comfort Systems,Install,Installer,L1,Full-Time,20.51,Hourly,40.0,2024-01-05,,Active,MI
+PIN-10418,Pinnacle Plumbing & Drain,Acctg,Senior Accountant,,Regular,80000.0,,,2018-10-22,,Active,TX
+PIN-10114,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,,Full-Time,44.59,,,2020-07-19,,Active,TX
+BAY-10036,Bayside Mechanical,Install,HVAC Installer II,,Full-Time,29.22,Hourly,40.0,2022-06-25,,Active,FL
+RED-10177,Redwood Electric,Field Ops - Service,Electrician (Lvl 3),,Regular,39.99,Hourly,,2024-08-22,,Active,AZ
+PIN-10365,Pinnacle Plumbing & Drain,Call Center,Dispatcher,,Regular,20.0,,,2025-01-12,,Active,TX
+RED-10108,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),,FT,18.3,Hourly,,2024-10-15,,Active,AZ
+RED-10038,Redwood Electric,Installation,Electrical Installer (Lvl 2),,Regular,,Hourly,,2024-12-07,,Active,AZ
+PIN-10291,Pinnacle Plumbing & Drain,Sales,Sales Consultant,,,51000.0,,,2025-02-21,,Active,TX
+RED-10142,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,Regular,28.86,Hourly,,2020-03-17,,Active,AZ
+PIN-10075,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Regular,29.04,,,2025-03-10,,Active,TX
+PIN-10165,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,FT,27.46,,,2022-04-04,,Active,TX
+BAY-10471,Bayside Mechanical,Finance,Senior Accountant,,Regular,85000.0,Annual,40.0,2024-06-14,,Active,FL
+BAY-10380,Bayside Mechanical,Customer Care,Customer Service Rep,,Full-Time,20.36,Hourly,24.0,2024-07-30,,Active,FL
+GLC-10117,Great Lakes Comfort Systems,Service - HVAC,Technician,L1,,17.86,Hourly,40.0,2025-01-03,,Active,MI
+BAY-10104,Bayside Mechanical,Install,HVAC Installer II,,FT,27.32,Hourly,40.0,2025-10-02,,Active,FL
+GLC-10138,Great Lakes Comfort Systems,Service - HVAC,Technician,L1,Regular,17.05,Hourly,40.0,2023-05-03,,Active,MI
+NHS-10040,Northstar Corporate,IT,Business Systems Analyst,,Regular,91000.0,Annual,40.0,2022-10-07,,Active,FL
+BAY-10247,Bayside Mechanical,Service,HVAC Service Tech II,,Regular,25.21,Hourly,40.0,2025-05-16,,Active,FL
+PIN-10098,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Regular,27.04,,,2024-08-01,,Active,TX
+GLC-10213,Great Lakes Comfort Systems,Service - Plumbing,Technician,L2,Regular,29.85,Hourly,40.0,2021-08-07,,Active,MI
+GLC-10198,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,Full-Time,,Hourly,40.0,2024-10-14,,Active,MI
+PIN-90045,Pinnacle Plumbing & Drain,Fleet,Warehouse Associate,,FT,17.23,,,2018-03-17,2025-09-30,Terminated,TX
+GLC-10317,Great Lakes Comfort Systems,Customer Care,Customer Service Representative,L1,Regular,20.55,Hourly,40.0,2015-05-20,,Active,MI
+BAY-10480,Bayside Mechanical,Executive,General Manager,,,162500.0,Annual,40.0,2017-08-22,,Active,FL
+GLC-10193,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,Full-Time,28.9,Hourly,40.0,2018-06-10,,Active,MI
+PIN-10233,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,,26.71,,,2020-01-04,,Active,TX
+NHS-10065,Northstar Corporate,Executive & Corporate,Executive Assistant,,Regular,60500.0,Annual,40.0,2024-07-28,,Active,FL
+PIN-10320,Pinnacle Plumbing & Drain,Sales,Sales Manager,,Regular,114000.0,,,2020-12-27,,Active,TX
+PIN-10265,Pinnacle Plumbing & Drain,Field,Plumber - Master,,Regular,35.34,,,2024-02-23,,Active,TX
+PIN-10191,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,Regular,31.58,,,2024-04-12,,Active,TX
+RED-10064,Redwood Electric,Installation,Electrical Installer (Lvl 2),,,24.42,Hourly,,2023-12-11,,Active,AZ
+BAY-10417,Bayside Mechanical,Customer Care,Dispatcher,,FT,22.49,Hourly,40.0,2024-01-22,,Active,FL
+GLC-10233,Great Lakes Comfort Systems,Service - Plumbing,Technician,L3,Regular,34.12,Hourly,40.0,2024-05-29,,Active,MI
+PIN-10144,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,,Full-Time,18.5,,,2023-04-12,,Active,TX
+BAY-10212,Bayside Mechanical,Service,HVAC Service Tech II,,Regular,30.67,Hourly,40.0,2020-10-25,,Active,FL
+PIN-10332,Pinnacle Plumbing & Drain,Call Center,CSR,,,17.04,,,2018-08-01,,Active,TX
+PIN-10399,Pinnacle Plumbing & Drain,Fleet,Parts Coordinator,,,20.47,,,2020-08-15,,Active,TX
+PIN-10129,Pinnacle Plumbing & Drain,Field,Installation Manager,,FT,86500.0,,,2025-06-13,,Active,TX
+PIN-10029,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,,Full-Time,20.12,,,2018-02-07,,Active,TX
+RED-10131,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,Regular,24.01,Hourly,,2023-10-04,,Active,AZ
+BAY-10153,Bayside Mechanical,Service,HVAC Service Tech I,,Regular,21.78,Hourly,40.0,2023-01-21,,Active,FL
+GLC-10271,Great Lakes Comfort Systems,Sales,Comfort Advisor,L2,FT,54000.0,Annual,40.0,2025-06-15,,Active,MI
+BAY-10172,Bayside Mechanical,Service,HVAC Service Tech I,,Regular,20.55,Hourly,40.0,2023-10-07,,Active,FL
+BAY-10261,Bayside Mechanical,Service,HVAC Service Tech II,,Regular,26.75,Hourly,40.0,2023-11-07,,Active,FL
+GLC-10185,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,Full-Time,25.91,Hourly,40.0,2019-04-29,,Active,MI
+BAY-10360,Bayside Mechanical,Sales,Sr Comfort Advisor,,Full-Time,50500.0,Annual,40.0,2025-02-26,,Active,FL
+BAY-C316,Bayside Mechanical,Install,Contract Installer,,Contractor,38.84,Hourly,40.0,2026-03-21,,Active,FL
+NHS-10004,Northstar Corporate,Finance & Accounting,Payroll Specialist,,Regular,58500.0,Annual,40.0,2024-12-09,,Active,FL
+PIN-90013,Pinnacle Plumbing & Drain,Field,Field Supervisor,,Regular,85000.0,,,2021-11-22,2026-01-11,Terminated,TX
+PIN-10318,Pinnacle Plumbing & Drain,Sales,Inside Sales Representative,,Regular,20.2,,,2025-06-18,,Active,TX
+BAY-10262,Bayside Mechanical,Service,HVAC Service Tech II,,Regular,29.33,Hourly,40.0,2024-05-22,,Active,FL
+BAY-C324,Bayside Mechanical,Service,Contract Electrician,,1099,54.68,Hourly,40.0,2024-11-17,,Active,FL
+GLC-10159,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,FT,25.2,Hourly,40.0,2023-05-04,,Active,MI
+PIN-10160,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,,FT,17.27,,,2015-08-21,,Active,TX
+GLC-10009,Great Lakes Comfort Systems,Install,Installer,L1,Full-Time,19.53,Hourly,40.0,2025-02-26,,Active,MI
+BAY-10142,Bayside Mechanical,Service,HVAC Service Tech I,,Regular,21.84,Hourly,40.0,2024-10-29,,Active,FL
+BAY-10213,Bayside Mechanical,Service,HVAC Service Tech II,,Regular,24.46,Hourly,40.0,2025-09-02,,Active,FL
+NHS-10005,Northstar Corporate,Finance & Accounting,Senior Accountant,,Full-Time,89500.0,Annual,40.0,2024-02-22,,Active,FL
+PIN-10185,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,Full-Time,32.47,,,2023-04-20,,Active,TX
+RED-10153,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,Regular,33.82,Hourly,,2026-03-16,,Active,AZ
+GLC-10309,Great Lakes Comfort Systems,Customer Care,Customer Service Representative,L1,FT,18.74,Hourly,25.0,2024-09-08,,Active,MI
+RED-10037,Redwood Electric,Installation,Electrical Installer (Lvl 2),,Full-Time,23.22,Hourly,,2017-08-25,,Active,AZ
+BAY-10042,Bayside Mechanical,Install,HVAC Installer II,,Full-Time,26.69,Hourly,40.0,2025-01-31,,Active,FL
+BAY-C305,Bayside Mechanical,Service,Contract HVAC Technician,,1099,50.55,Hourly,40.0,2025-05-12,,Active,FL
+PIN-10262,Pinnacle Plumbing & Drain,Field,Plumber - Master,,Full-Time,38.81,,,2022-10-21,,Active,TX
+RED-10183,Redwood Electric,Field Ops - Service,Electrician (Lvl 3),,Full-Time,37.67,Hourly,,2024-07-29,,Active,AZ
+RED-90044,Redwood Electric,CSR,Dispatcher,,,22.07,Hourly,,2021-01-20,2026-06-15,Terminated,AZ
+BAY-10056,Bayside Mechanical,Install,HVAC Installer II,,Regular,25.33,Hourly,40.0,2025-01-02,,Active,FL
+BAY-10155,Bayside Mechanical,Service,HVAC Service Tech I,,Regular,21.4,Hourly,40.0,2024-09-09,,Active,FL
+PIN-10130,Pinnacle Plumbing & Drain,Field,Installation Manager,,Regular,78500.0,,,2022-08-09,,Active,TX
+RED-10190,Redwood Electric,Field Ops - Service,Electrician (Lvl 3),,Regular,36.56,Hourly,,2022-03-01,,Active,AZ
+PIN-10303,Pinnacle Plumbing & Drain,Sales,Sales Consultant,,Regular,52500.0,,,2024-02-12,,Active,TX
+PIN-10112,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,,Full-Time,43.83,,,2023-02-18,,Active,TX
+NHS-10037,Northstar Corporate,IT,Systems Administrator,,Regular,79500.0,Annual,40.0,2021-03-07,,Active,FL
+BAY-10456,Bayside Mechanical,Warehouse,Warehouse Manager,,FT,72000.0,Annual,40.0,2025-11-26,,Active,FL
+GLC-10057,Great Lakes Comfort Systems,Install,Installer,L2,Full-Time,22.5,Hourly,40.0,2020-12-31,,Active,MI
+PIN-10020,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,,Full-Time,19.39,,,2024-06-23,,Active,TX
+BAY-10016,Bayside Mechanical,Install,HVAC Installer I,,Full-Time,20.09,Hourly,40.0,2023-08-19,,Active,FL
+GLC-10044,Great Lakes Comfort Systems,Install,Installer,L2,,28.28,Hourly,40.0,2020-07-14,,Active,MI
+PIN-10348,Pinnacle Plumbing & Drain,Call Center,CSR,,,19.64,,,2021-01-05,,Active,TX
+PIN-10226,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,FT,25.7,,,2021-06-22,,Active,TX
+GLC-10069,Great Lakes Comfort Systems,Install,Installer,L2,Regular,23.69,Hourly,40.0,2024-05-21,,Active,MI
+PIN-C314,Pinnacle Plumbing & Drain,Field,Contract Installer,,Contractor,44.47,,,2025-01-06,,Active,TX
+GLC-10302,Great Lakes Comfort Systems,Customer Care,Customer Service Representative,L1,Full-Time,16.75,Hourly,25.0,2022-03-04,,Active,MI
+GLC-10265,Great Lakes Comfort Systems,Service - HVAC,Service Manager,L5,Regular,90500.0,Annual,40.0,2021-09-25,,Active,MI
+BAY-10061,Bayside Mechanical,Install,HVAC Installer II,,,24.38,Hourly,40.0,2019-08-30,,Active,FL
+RED-10061,Redwood Electric,Installation,Electrical Installer (Lvl 2),,FT,23.33,Hourly,,2021-01-01,,Active,AZ
+RED-10182,Redwood Electric,Field Ops - Service,Electrician (Lvl 3),,Regular,41.94,Hourly,,2025-05-20,,Active,AZ
+PIN-10061,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Regular,26.27,,,2023-06-13,,Active,TX
+PIN-10412,Pinnacle Plumbing & Drain,Acctg,AP/AR Specialist,,Full-Time,22.91,,,2025-02-21,,Active,TX
+GLC-10115,Great Lakes Comfort Systems,Service - HVAC,Technician,L1,Full-Time,19.67,Hourly,40.0,2015-07-03,,Active,MI
+PIN-10113,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,,FT,43.67,,,2023-12-24,,Active,TX
+BAY-10448,Bayside Mechanical,Warehouse,Parts Coordinator,,Regular,23.13,Hourly,40.0,2025-12-11,,Active,FL
+BAY-10464,Bayside Mechanical,Finance,AP/AR Specialist,,,24.23,Hourly,40.0,2024-10-22,,Active,FL
+BAY-10159,Bayside Mechanical,Service,HVAC Service Tech I,,Regular,20.56,Hourly,40.0,2024-02-20,,Active,FL
+PIN-10125,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,,Regular,42.96,,,2021-04-02,,Active,TX
+PIN-10224,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,FT,27.59,,,2022-04-30,,Active,TX
+BAY-10002,Bayside Mechanical,Install,HVAC Installer I,,,18.78,Hourly,40.0,2025-08-21,,Active,FL
+RED-10083,Redwood Electric,Installation,Lead Electrical Installer (Lvl 3),,Full-Time,45.05,Hourly,,2014-04-12,,Active,AZ
+NHS-90094,Northstar Corporate,IT,Help Desk Technician,,Full-Time,24.6,Hourly,40.0,2022-07-16,2026-05-23,Terminated,FL
+GLC-10326,Great Lakes Comfort Systems,Customer Care,Dispatcher,L2,Regular,22.4,Hourly,20.0,2023-09-27,,Active,MI
+BAY-10022,Bayside Mechanical,Install,HVAC Installer I,,Full-Time,21.76,Hourly,40.0,2024-05-27,,Active,FL
+BAY-10291,Bayside Mechanical,Service,HVAC Service Tech III,,,35.81,Hourly,40.0,2019-05-08,,Active,FL
+BAY-10409,Bayside Mechanical,Customer Care,Customer Service Rep,,Regular,20.55,Hourly,40.0,2019-04-12,,Active,FL
+RED-10069,Redwood Electric,Installation,Electrical Installer (Lvl 2),,Regular,26.54,Hourly,,2022-06-05,,Active,AZ
+PIN-10210,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,Regular,26.66,,,2020-05-06,,Active,TX
+PIN-10372,Pinnacle Plumbing & Drain,Call Center,Dispatcher,,,20.65,,,2025-06-10,,Active,TX
+GLC-10257,Great Lakes Comfort Systems,Service - Plumbing,Field Supervisor,L4,Regular,84500.0,Annual,40.0,2023-06-26,,Active,MI
+BAY-10035,Bayside Mechanical,Install,HVAC Installer II,,Regular,25.45,Hourly,40.0,2023-11-05,,Active,FL
+PIN-10220,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,FT,32.38,,,2026-04-20,,Active,TX
+BAY-10439,Bayside Mechanical,Warehouse,Warehouse Associate,,Full-Time,16.22,Hourly,40.0,2023-04-18,,Active,FL
+GLC-10089,Great Lakes Comfort Systems,Install,Installer,L3,Regular,40.03,Hourly,40.0,2016-06-30,,Active,MI
+GLC-10221,Great Lakes Comfort Systems,Service - Plumbing,Technician,L2,Full-Time,25.41,Hourly,40.0,2022-09-15,,Active,MI
+RED-10115,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),,Regular,18.78,Hourly,,2024-08-20,,Active,AZ
+GLC-10183,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,Full-Time,28.37,Hourly,40.0,2024-04-15,,Active,MI
+RED-10251,Redwood Electric,CSR,Dispatcher,,Full-Time,20.74,Hourly,,2019-09-24,,Active,AZ
+RED-10240,Redwood Electric,CSR,Cust Svc Rep,,Full-Time,16.01,Hourly,,2023-09-09,,Active,AZ
+BAY-10072,Bayside Mechanical,Install,HVAC Installer II,,,28.94,Hourly,40.0,2024-05-23,,Active,FL
+BAY-10265,Bayside Mechanical,Service,HVAC Service Tech II,,Full-Time,32.47,Hourly,40.0,2024-12-31,,Active,FL
+BAY-10441,Bayside Mechanical,Warehouse,Warehouse Associate,,Regular,16.37,Hourly,25.0,2023-10-30,,Active,FL
+BAY-10436,Bayside Mechanical,Warehouse,Warehouse Associate,,FT,17.66,Hourly,24.0,2021-03-07,,Active,FL
+BAY-10218,Bayside Mechanical,Service,HVAC Service Tech II,,FT,25.01,Hourly,40.0,2022-04-14,,Active,FL
+RED-10050,Redwood Electric,Installation,Electrical Installer (Lvl 2),,,29.54,Hourly,,2023-03-30,,Active,AZ
+GLC-10043,Great Lakes Comfort Systems,Install,Installer,L2,Full-Time,23.65,Hourly,40.0,2025-04-04,,Active,MI
+RED-10030,Redwood Electric,Installation,Electrical Installer (Lvl 2),,Regular,24.31,Hourly,,2022-02-20,,Active,AZ
+GLC-10049,Great Lakes Comfort Systems,Install,Installer,L2,Regular,29.53,Hourly,40.0,2024-03-13,,Active,MI
+RED-10091,Redwood Electric,Installation,Install Manager,,Full-Time,84000.0,Annual,,2017-06-04,,Active,AZ
+BAY-10309,Bayside Mechanical,Service,HVAC Service Tech III,,Regular,34.02,Hourly,40.0,2022-04-05,,Active,FL
+GLC-10352,Great Lakes Comfort Systems,Warehouse,Warehouse Associate,L1,Regular,19.21,Hourly,20.0,2023-09-23,,Active,MI
+GLC-10243,Great Lakes Comfort Systems,Service - HVAC,Technician,L3,,37.9,Hourly,40.0,2025-03-15,,Active,MI
+GLC-10161,Great Lakes Comfort Systems,Service - Plumbing,Technician,L2,,30.0,Hourly,40.0,2022-08-10,,Active,MI
+BAY-10214,Bayside Mechanical,Service,HVAC Service Tech II,,Regular,24.3,Hourly,40.0,2024-01-08,,Active,FL
+NHS-10024,Northstar Corporate,IT,Help Desk Technician,,,25.22,Hourly,40.0,2021-07-07,,Active,FL
+PIN-10374,Pinnacle Plumbing & Drain,Call Center,Call Center Supervisor,,Regular,57000.0,,,2025-07-29,,Active,TX
+BAY-10106,Bayside Mechanical,Install,HVAC Installer II,,Regular,24.21,Hourly,40.0,2017-03-03,,Active,FL
+NHS-10072,Northstar Corporate,Executive & Corporate,Regional Vice President,,FT,223000.0,Annual,40.0,2025-10-11,,Active,FL
+PIN-10236,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,FT,33.76,,,2025-01-17,,Active,TX
+BAY-10163,Bayside Mechanical,Service,HVAC Service Tech I,,FT,21.72,Hourly,40.0,2021-06-22,,Active,FL
+RED-10260,Redwood Electric,Parts & Fleet,Warehouse Associate,,Regular,19.28,Hourly,,2024-05-21,,Active,AZ
+BAY-10230,Bayside Mechanical,Service,HVAC Service Tech II,,Regular,24.97,Hourly,40.0,2023-05-28,,Active,FL
+GLC-90088,Great Lakes Comfort Systems,Customer Care,Dispatcher,L2,Regular,19.14,Hourly,40.0,2019-06-04,2026-01-06,Terminated,MI
+GLC-10003,Great Lakes Comfort Systems,Install,Installer,L1,Regular,21.69,Hourly,40.0,2026-06-10,,Active,MI
+GLC-10301,Great Lakes Comfort Systems,Customer Care,Customer Service Representative,L1,Regular,19.72,Hourly,40.0,2022-09-09,,Active,MI
+RED-10178,Redwood Electric,Field Ops - Service,Electrician (Lvl 3),,Regular,34.31,Hourly,,2018-10-25,,Active,AZ
+RED-10111,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),,FT,17.29,Hourly,,2025-12-08,,Active,AZ
+GLC-10277,Great Lakes Comfort Systems,Sales,Comfort Advisor,L2,Regular,42000.0,Annual,40.0,2020-02-02,,Active,MI
+GLC-10152,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,Regular,27.96,Hourly,40.0,2025-02-13,,Active,MI
+RED-10036,Redwood Electric,Installation,Electrical Installer (Lvl 2),,Regular,29.25,Hourly,,2020-04-11,,Active,AZ
+NHS-10020,Northstar Corporate,HR,HR Business Partner,,,99000.0,Annual,40.0,2021-08-25,,Active,FL
+GLC-10146,Great Lakes Comfort Systems,Service - Plumbing,Technician,L2,,32.37,Hourly,40.0,2025-06-08,,Active,MI
+RED-10228,Redwood Electric,CSR,Cust Svc Rep,,FT,19.3,Hourly,,2025-07-21,,Active,AZ
+RED-10013,Redwood Electric,Installation,Apprentice Electrician (Lvl 1),,FT,,Hourly,,2021-06-08,,Active,AZ
+PIN-10044,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Regular,29.47,,,2025-03-08,,Active,TX
+RED-10159,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,,26.82,Hourly,,2019-10-12,,Active,AZ
+PIN-10360,Pinnacle Plumbing & Drain,Call Center,CSR,,Regular,17.17,,,2023-02-16,,Active,TX
+BAY-10414,Bayside Mechanical,Customer Care,Dispatcher,,Regular,23.02,Hourly,40.0,2025-12-26,,Active,FL
+GLC-10128,Great Lakes Comfort Systems,Service - HVAC,Technician,L1,Full-Time,19.47,Hourly,40.0,2023-04-26,,Active,MI
+BAY-10012,Bayside Mechanical,Install,HVAC Installer I,,,17.15,Hourly,40.0,2023-05-16,,Active,FL
+PIN-10373,Pinnacle Plumbing & Drain,Call Center,Dispatcher,,Regular,21.12,,,2023-12-29,,Active,TX
+BAY-10019,Bayside Mechanical,Install,HVAC Installer I,,Regular,19.84,Hourly,40.0,2025-01-15,,Active,FL
+PIN-90006,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Full-Time,22.72,,,2018-06-20,2026-05-22,Terminated,TX
+PIN-10070,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Full-Time,26.66,,,2024-02-07,,Active,TX
+RED-10170,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,Full-Time,27.74,Hourly,,2016-11-18,,Active,AZ
+PIN-10016,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,,FT,19.57,,,2024-07-16,,Active,TX
+BAY-10034,Bayside Mechanical,Install,HVAC Installer II,,FT,26.95,Hourly,40.0,2022-05-25,,Active,FL
+GLC-10253,Great Lakes Comfort Systems,Service - HVAC,Field Supervisor,L4,,76000.0,Annual,40.0,2021-09-23,,Active,MI
+GLC-10023,Great Lakes Comfort Systems,Install,Installer,L1,Regular,20.51,Hourly,40.0,2025-09-15,,Active,MI
+GLC-10328,Great Lakes Comfort Systems,Customer Care,Dispatcher,L2,Regular,19.14,Hourly,40.0,2020-12-12,,Active,MI
+GLC-10295,Great Lakes Comfort Systems,Customer Care,Customer Service Representative,L1,Regular,19.49,Hourly,25.0,2025-09-02,,Active,MI
+GLC-10179,Great Lakes Comfort Systems,Service - Plumbing,Technician,L2,Full-Time,33.28,Hourly,40.0,2021-05-14,,Active,MI
+BAY-90070,Bayside Mechanical,Service,HVAC Service Tech I,,Regular,20.67,Hourly,40.0,2020-04-23,2025-09-04,Terminated,FL
+BAY-10087,Bayside Mechanical,Install,HVAC Installer II,,Regular,29.34,Hourly,40.0,2025-06-20,,Active,FL
+GLC-10075,Great Lakes Comfort Systems,Install,Installer,L2,,24.96,Hourly,40.0,2020-05-14,,Active,MI
+GLC-10045,Great Lakes Comfort Systems,Install,Installer,L2,Full-Time,26.83,Hourly,40.0,2024-06-07,,Active,MI
+GLC-10016,Great Lakes Comfort Systems,Install,Installer,L1,Regular,19.21,Hourly,40.0,2024-11-22,,Active,MI
+GLC-10029,Great Lakes Comfort Systems,Install,Installer,L1,Regular,17.35,Hourly,40.0,2025-11-17,,Active,MI
+PIN-90001,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,Full-Time,25.6,,,2020-08-20,2026-04-16,Terminated,TX
+RED-10267,Redwood Electric,Parts & Fleet,Fleet Coordinator,,,51500.0,Annual,,2026-02-06,,Active,AZ
+GLC-10129,Great Lakes Comfort Systems,Service - Plumbing,Technician,L1,FT,20.27,Hourly,40.0,2022-06-25,,Active,MI
+PIN-90069,Pinnacle Plumbing & Drain,Fleet,Fleet Coordinator,,Full-Time,59500.0,,,2020-06-13,2025-12-05,Terminated,TX
+PIN-10074,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Regular,25.84,,,2024-11-23,,Active,TX
+GLC-10279,Great Lakes Comfort Systems,Sales,Comfort Advisor,L2,Full-Time,49500.0,Annual,40.0,2025-01-29,,Active,MI
+GLC-10273,Great Lakes Comfort Systems,Sales,Comfort Advisor,L2,Full-Time,48000.0,Annual,40.0,2025-01-27,,Active,MI
+RED-10176,Redwood Electric,Field Ops - Service,Electrician (Lvl 3),,Full-Time,39.1,Hourly,,2025-05-30,,Active,AZ
+GLC-10285,Great Lakes Comfort Systems,Sales,Comfort Advisor,L2,Regular,55000.0,Annual,40.0,2025-02-03,,Active,MI
+NHS-10071,Northstar Corporate,Executive & Corporate,Operations Analyst,,Regular,71500.0,Annual,40.0,2023-06-26,,Leave,FL
+PIN-10149,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,,FT,20.57,,,2025-06-12,,Active,TX
+BAY-10241,Bayside Mechanical,Service,HVAC Service Tech II,,Full-Time,29.6,Hourly,40.0,2020-12-27,,Active,FL
+PIN-10083,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,,26.0,,,2017-02-19,,Active,TX
+BAY-90060,Bayside Mechanical,Install,HVAC Installer II,,,29.36,Hourly,40.0,2020-03-24,2026-02-01,Terminated,FL
+GLC-10017,Great Lakes Comfort Systems,Install,Installer,L1,Full-Time,18.84,Hourly,40.0,2024-09-06,,Active,MI
+RED-10171,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,Regular,29.86,Hourly,,2022-10-03,,Active,AZ
+BAY-10398,Bayside Mechanical,Customer Care,Customer Service Rep,,Full-Time,20.8,Hourly,40.0,2022-07-15,,Active,FL
+GLC-10222,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,Regular,30.29,Hourly,40.0,2019-12-13,,Active,MI
+BAY-10472,Bayside Mechanical,Finance,Senior Accountant,,,86500.0,Annual,40.0,2022-08-15,,Active,FL
+GLC-10272,Great Lakes Comfort Systems,Sales,Comfort Advisor,L2,Regular,52000.0,Annual,40.0,2024-02-08,,Active,MI
+PIN-10257,Pinnacle Plumbing & Drain,Field,Plumber - Master,,Full-Time,34.73,,,2021-11-29,,Active,TX
+PIN-10240,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,Full-Time,26.3,,,2024-02-11,,Active,TX
+RED-10141,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,FT,33.97,Hourly,,2021-10-28,,Active,AZ
+GLC-10053,Great Lakes Comfort Systems,Install,Installer,L2,FT,27.79,Hourly,40.0,2024-10-28,,Active,MI
+PIN-10409,Pinnacle Plumbing & Drain,Acctg,AP/AR Specialist,,FT,23.5,,,2024-07-07,,Active,TX
+NHS-10001,Northstar Corporate,Finance & Accounting,Payroll Specialist,,FT,59500.0,Annual,40.0,2022-09-21,,Active,FL
+RED-10145,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,Regular,25.36,Hourly,,2023-01-03,,Active,AZ
+RED-10216,Redwood Electric,Sales,Sr Home Solutions Consultant,,Regular,62000.0,Annual,,2024-05-10,,Active,AZ
+PIN-90032,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,FT,26.89,,,2020-02-29,2025-08-30,Terminated,TX
+RED-10221,Redwood Electric,CSR,Cust Svc Rep,,Full-Time,19.49,Hourly,,2020-10-23,,Active,AZ
+PIN-10216,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,Regular,25.72,,,2024-03-17,,Active,TX
+PIN-10335,Pinnacle Plumbing & Drain,Call Center,CSR,,Regular,17.73,,,2020-01-12,,Active,TX
+RED-10056,Redwood Electric,Installation,Electrical Installer (Lvl 2),,Regular,25.7,Hourly,,2025-04-19,,Active,AZ
+GLC-10379,Great Lakes Comfort Systems,Finance,AP/AR Specialist,L1,Full-Time,21.27,Hourly,40.0,2016-10-12,,Active,MI
+PIN-10425,Pinnacle Plumbing & Drain,Executive,General Manager,,,193500.0,,,2025-01-25,,Active,TX
+BAY-10209,Bayside Mechanical,Service,HVAC Service Tech II,,Regular,30.43,Hourly,40.0,2025-03-22,,Active,FL
+PIN-10417,Pinnacle Plumbing & Drain,Acctg,Staff Accountant,,Regular,70000.0,,,2022-12-26,,Active,TX
+RED-10002,Redwood Electric,Installation,Apprentice Electrician (Lvl 1),,Regular,20.32,Hourly,,2025-09-16,,Active,AZ
+BAY-10149,Bayside Mechanical,Service,HVAC Service Tech I,,FT,20.5,Hourly,40.0,2022-11-12,,Active,FL
+PIN-10069,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,FT,28.81,,,2024-08-11,,Active,TX
+PIN-10408,Pinnacle Plumbing & Drain,Acctg,AP/AR Specialist,,Full-Time,23.9,,,2023-11-13,,Active,TX
+BAY-90087,Bayside Mechanical,Install,HVAC Installer II,,FT,24.06,Hourly,40.0,2016-01-07,2026-02-11,Terminated,FL
+PIN-10344,Pinnacle Plumbing & Drain,Call Center,CSR,,,18.76,,,2022-03-27,,Active,TX
+GLC-10231,Great Lakes Comfort Systems,Service - Plumbing,Technician,L3,FT,40.13,Hourly,40.0,2022-03-23,,Active,MI
+PIN-10422,Pinnacle Plumbing & Drain,Acctg,Controller,,Full-Time,139000.0,,,2020-12-18,,Active,TX
+RED-10218,Redwood Electric,Sales,Inside Sales Representative,,Regular,20.2,Hourly,,2025-04-07,,Active,AZ
+GLC-10293,Great Lakes Comfort Systems,Customer Care,Customer Service Representative,L1,Regular,19.58,Hourly,40.0,2025-07-10,,Active,MI
+GLC-10080,Great Lakes Comfort Systems,Install,Installer,L2,FT,24.91,Hourly,40.0,2021-12-09,,Active,MI
+GLC-10160,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,Regular,32.9,Hourly,40.0,2022-07-04,,Active,MI
+BAY-10452,Bayside Mechanical,Warehouse,Fleet Coordinator,,Regular,54000.0,Annual,40.0,2021-09-15,,Active,FL
+RED-90027,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,Regular,31.94,Hourly,,2021-02-10,2026-03-20,Terminated,AZ
+BAY-10124,Bayside Mechanical,Install,Lead HVAC Installer,,Regular,41.88,Hourly,40.0,2024-07-05,,Active,FL
+RED-10014,Redwood Electric,Installation,Apprentice Electrician (Lvl 1),,Regular,17.88,Hourly,,2017-06-19,,Active,AZ
+RED-10054,Redwood Electric,Installation,Electrical Installer (Lvl 2),,FT,26.75,Hourly,,2026-01-19,,Active,AZ
+BAY-10287,Bayside Mechanical,Service,HVAC Service Tech III,,,43.53,Hourly,40.0,2025-05-31,,Active,FL
+BAY-10239,Bayside Mechanical,Service,HVAC Service Tech II,,Regular,32.91,Hourly,40.0,2024-07-12,,Active,FL
+BAY-10008,Bayside Mechanical,Install,HVAC Installer I,,FT,19.94,Hourly,40.0,2022-06-12,,Active,FL
+RED-10027,Redwood Electric,Installation,Electrical Installer (Lvl 2),,FT,29.0,Hourly,,2021-11-23,,Active,AZ
+BAY-10349,Bayside Mechanical,Sales,Comfort Advisor,,Full-Time,45000.0,Annual,40.0,2024-02-15,,Active,FL
+GLC-10300,Great Lakes Comfort Systems,Customer Care,Customer Service Representative,L1,Regular,16.86,Hourly,24.0,2026-03-29,,Active,MI
+BAY-10249,Bayside Mechanical,Service,HVAC Service Tech II,,Full-Time,31.02,Hourly,40.0,2022-07-17,,Active,FL
+PIN-10006,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,,,18.93,,,2025-09-11,,Active,TX
+GLC-90090,Great Lakes Comfort Systems,Install,Installer,L3,FT,41.25,Hourly,40.0,2017-08-10,2026-01-26,Terminated,MI
+BAY-10285,Bayside Mechanical,Service,HVAC Service Tech III,,FT,35.51,Hourly,40.0,2024-06-14,,Active,FL
+GLC-10022,Great Lakes Comfort Systems,Install,Installer,L1,Full-Time,18.92,Hourly,40.0,2012-05-31,,Active,MI
+GLC-10177,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,,33.24,Hourly,40.0,2021-05-05,,Active,MI
+BAY-10174,Bayside Mechanical,Service,HVAC Service Tech I,,FT,19.94,Hourly,40.0,2026-04-16,,Active,FL
+BAY-10009,Bayside Mechanical,Install,HVAC Installer I,,FT,20.95,Hourly,40.0,2026-03-23,,Active,FL
+GLC-10195,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,Regular,28.45,Hourly,40.0,2025-11-06,,Active,MI
+PIN-90074,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,FT,31.54,,,2019-11-08,2025-11-12,Terminated,TX
+PIN-10305,Pinnacle Plumbing & Drain,Sales,Sales Consultant,,FT,50000.0,,,2023-08-24,,Active,TX
+GLC-10220,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,Full-Time,28.04,Hourly,40.0,2021-10-17,,Active,MI
+PIN-10205,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,Regular,28.56,,,2023-03-08,,Active,TX
+NHS-10052,Northstar Corporate,Marketing,Marketing Coordinator,,,57000.0,Annual,40.0,2018-08-06,,Active,FL
+RED-10025,Redwood Electric,Installation,Electrical Installer (Lvl 2),,Regular,24.35,Hourly,,2023-01-24,,Active,AZ
+RED-10079,Redwood Electric,Installation,Lead Electrical Installer (Lvl 3),,Regular,43.09,Hourly,,2017-02-04,,Active,AZ
+BAY-10270,Bayside Mechanical,Service,HVAC Service Tech II,,Regular,31.1,Hourly,40.0,2016-03-29,,Active,FL
+PIN-10140,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,,Regular,20.69,,,2023-07-04,,Active,TX
+PIN-10323,Pinnacle Plumbing & Drain,Call Center,CSR,,,18.62,,,2026-02-28,,Active,TX
+BAY-10332,Bayside Mechanical,Sales,Comfort Advisor,,Regular,49000.0,Annual,40.0,2022-05-26,,Active,FL
+GLC-10345,Great Lakes Comfort Systems,Sales,Customer Care Manager,L4,Full-Time,72500.0,Annual,40.0,2023-01-15,,,MI
+GLC-10237,Great Lakes Comfort Systems,Service - Plumbing,Technician,L3,Full-Time,43.29,Hourly,40.0,2024-01-27,,Active,MI
+NHS-10042,Northstar Corporate,IT,Business Systems Analyst,,,90000.0,Annual,40.0,2024-03-12,,Active,FL
+PIN-10398,Pinnacle Plumbing & Drain,Fleet,Parts Coordinator,,Regular,22.09,,,2024-01-20,,Active,TX
+GLC-10091,Great Lakes Comfort Systems,Install,Installer,L3,FT,44.9,Hourly,40.0,2022-12-14,,Active,MI
+RED-10236,Redwood Electric,Sales,Cust Svc Rep,,Regular,16.13,Hourly,,2021-12-14,,,AZ
+RED-10197,Redwood Electric,Field Ops - Service,Field Supervisor,,Regular,79000.0,Annual,,2025-08-13,,Active,AZ
+PIN-10400,Pinnacle Plumbing & Drain,Fleet,Parts Coordinator,,,25.56,,,2019-11-09,,Active,TX
+GLC-10351,Great Lakes Comfort Systems,Warehouse,Warehouse Associate,L1,Full-Time,18.8,Hourly,40.0,2023-12-13,,Active,MI
+PIN-10268,Pinnacle Plumbing & Drain,Field,Plumber - Master,,FT,41.96,,,2025-10-25,,Active,TX
+GLC-10292,Great Lakes Comfort Systems,Customer Care,Customer Service Representative,L1,,16.36,Hourly,40.0,2018-10-06,,Active,MI
+BAY-10051,Bayside Mechanical,Install,HVAC Installer II,,,25.82,Hourly,40.0,2024-03-14,,Active,FL
+RED-10128,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,,28.16,Hourly,,2022-04-19,,Active,AZ
+BAY-10108,Bayside Mechanical,Install,HVAC Installer II,,Regular,27.37,Hourly,40.0,2026-01-09,,Active,FL
+RED-10223,Redwood Electric,CSR,Cust Svc Rep,,Regular,19.37,Hourly,,2024-06-23,,Active,AZ
+PIN-10152,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,,FT,17.65,,,2024-04-19,,Active,TX
+BAY-10060,Bayside Mechanical,Install,HVAC Installer II,,Regular,25.39,Hourly,40.0,2025-10-19,,Active,FL
+NHS-10059,Northstar Corporate,Marketing,Marketing Manager,,,86000.0,Annual,40.0,2020-09-23,,Active,FL
+BAY-10126,Bayside Mechanical,Install,Lead HVAC Installer,,Regular,40.09,Hourly,40.0,2016-06-06,,Active,FL
+NHS-10076,Northstar Corporate,Executive & Corporate,Chief Financial Officer,,Regular,314500.0,Annual,40.0,2025-04-02,,Active,FL
+BAY-10272,Bayside Mechanical,Service,HVAC Service Tech II,,,26.79,Hourly,40.0,2021-07-18,,Active,FL
+BAY-10235,Bayside Mechanical,Service,HVAC Service Tech II,,,33.04,Hourly,40.0,2024-01-20,,Active,FL
+GLC-10138,Great Lakes Comfort Systems,Install,Technician,L1,Regular,17.05,Hourly,40.0,2023-05-03,,,MI
+PIN-10388,Pinnacle Plumbing & Drain,Fleet,Warehouse Associate,,FT,17.23,,,2023-07-27,,Active,TX
+PIN-10341,Pinnacle Plumbing & Drain,Call Center,CSR,,Full-Time,16.68,,,2015-08-11,,Active,TX
+RED-10237,Redwood Electric,CSR,Cust Svc Rep,,Regular,20.5,Hourly,,2011-12-12,,Active,AZ
+GLC-10337,Great Lakes Comfort Systems,Customer Care,Call Center Supervisor,L3,Regular,62000.0,Annual,40.0,2026-05-01,,Active,MI
+PIN-10005,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,,Regular,21.11,,,2023-08-10,,Active,TX
+BAY-10118,Bayside Mechanical,Install,Lead HVAC Installer,,Regular,42.42,Hourly,40.0,2018-10-06,,Active,FL
+RED-10119,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,Regular,24.99,Hourly,,2024-02-17,,Active,AZ
+BAY-10217,Bayside Mechanical,Service,HVAC Service Tech II,,Full-Time,27.92,Hourly,40.0,2021-09-06,,Active,FL
+RED-10235,Redwood Electric,CSR,Cust Svc Rep,,Regular,17.74,Hourly,,2018-06-05,,Active,AZ
+PIN-10298,Pinnacle Plumbing & Drain,Sales,Sales Consultant,,FT,52500.0,,,2025-02-08,,Active,TX
+PIN-10407,Pinnacle Plumbing & Drain,Acctg,AP/AR Specialist,,,22.64,,,2024-05-25,,Active,TX
+BAY-10074,Bayside Mechanical,Install,HVAC Installer II,,Regular,26.79,Hourly,40.0,2024-07-13,,Active,FL
+PIN-10279,Pinnacle Plumbing & Drain,Field,Field Supervisor,,FT,84500.0,,,2024-08-30,,Active,TX
+PIN-90026,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,Regular,33.82,,,2017-11-09,2026-08-14,Terminated,TX
+RED-10053,Redwood Electric,Installation,Electrical Installer (Lvl 2),,Full-Time,23.04,Hourly,,2013-03-28,,Active,AZ
+PIN-10095,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,,28.3,,,2025-04-13,,Active,TX
+PIN-10051,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,FT,24.39,,,2022-12-27,,Active,TX
+NHS-10012,Northstar Corporate,HR,HR Coordinator,,Regular,47000.0,Annual,40.0,2019-01-17,,Active,FL
+BAY-10187,Bayside Mechanical,Service,HVAC Service Tech II,,Regular,30.05,Hourly,40.0,2024-10-09,,Active,FL
+BAY-10004,Bayside Mechanical,Install,HVAC Installer I,,Regular,17.82,Hourly,40.0,2024-10-26,,Active,FL
+GLC-10367,Great Lakes Comfort Systems,Warehouse,Fleet Coordinator,L2,,54500.0,Annual,40.0,2022-05-05,,Active,MI
+GLC-10280,Great Lakes Comfort Systems,Sales,Comfort Advisor,L2,Regular,44500.0,Annual,40.0,2025-09-01,,Active,MI
+RED-10047,Redwood Electric,Installation,Electrical Installer (Lvl 2),,,25.87,Hourly,,2023-09-29,,Active,AZ
+NHS-90053,Northstar Corporate,Finance & Accounting,FP&A Analyst,,,84500.0,Annual,40.0,2020-11-20,2026-06-18,Terminated,FL
+BAY-10367,Bayside Mechanical,Sales,Sales Manager,,,95000.0,Annual,40.0,2022-06-07,,Active,FL
+PIN-10223,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,Full-Time,31.67,,,2011-06-30,,Active,TX
+NHS-10008,Northstar Corporate,Finance & Accounting,FP&A Analyst,,,84500.0,Annual,40.0,2024-01-09,,Active,FL
+PIN-10255,Pinnacle Plumbing & Drain,Field,Plumber - Master,,Regular,38.05,,,2022-02-10,,Active,TX
+RED-10194,Redwood Electric,Field Ops - Service,Field Supervisor,,,79500.0,Annual,,2025-10-14,,Active,AZ
+NHS-10063,Northstar Corporate,Executive & Corporate,Executive Assistant,,Full-Time,63500.0,Annual,40.0,2023-07-11,,Active,FL
+RED-10018,Redwood Electric,Installation,Apprentice Electrician (Lvl 1),,Regular,17.66,Hourly,,2019-09-17,,Active,AZ
+GLC-10186,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,Regular,25.45,Hourly,40.0,2024-02-13,,Active,MI
+BAY-10482,Bayside Mechanical,Install,HVAC Installer II,,FT,24.0,Hourly,40.0,2026-08-17,,Active,FL
+BAY-90037,Bayside Mechanical,Customer Care,Customer Service Rep,,Full-Time,20.7,Hourly,40.0,2012-06-09,2025-09-28,Terminated,FL
+GLC-10230,Great Lakes Comfort Systems,Service - Plumbing,Technician,L3,Full-Time,34.34,Hourly,40.0,2016-08-19,,Active,MI
+BAY-10463,Bayside Mechanical,Finance,AP/AR Specialist,,Regular,23.24,Hourly,40.0,2023-04-20,,Active,FL
+BAY-10064,Bayside Mechanical,Install,HVAC Installer II,,FT,25.48,Hourly,40.0,2021-02-03,,Active,FL
+PIN-10278,Pinnacle Plumbing & Drain,Field,Field Supervisor,,Regular,80000.0,,,2022-09-01,,Active,TX
+BAY-C338,Bayside Mechanical,Customer Care,Temp CSR,,Temp,18.7,Hourly,40.0,2024-11-12,,Active,FL
+BAY-10323,Bayside Mechanical,Service,Service Manager,,Full-Time,94500.0,Annual,40.0,2025-07-20,,Active,FL
+PIN-10173,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,,30.61,,,2020-08-24,,Active,TX
+BAY-10282,Bayside Mechanical,Service,HVAC Service Tech III,,Full-Time,41.01,Hourly,40.0,2022-08-07,,Active,FL
+GLC-10200,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,,,Hourly,40.0,2022-02-20,,Active,MI
+GLC-10296,Great Lakes Comfort Systems,Customer Care,Customer Service Representative,L1,Full-Time,19.41,Hourly,25.0,2025-02-25,,Active,MI
+PIN-10413,Pinnacle Plumbing & Drain,Acctg,AP/AR Specialist,,FT,22.84,,,2023-10-05,,Active,TX
+PIN-10118,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,,FT,41.23,,,2024-07-12,,Active,TX
+PIN-10290,Pinnacle Plumbing & Drain,Sales,Sales Consultant,,Full-Time,48500.0,,,2024-09-29,,Active,TX
+PIN-10362,Pinnacle Plumbing & Drain,Call Center,CSR,,Regular,18.5,,,2023-05-28,,Active,TX
+PIN-10396,Pinnacle Plumbing & Drain,Fleet,Parts Coordinator,,,22.27,,,2024-11-26,,Active,TX
+BAY-10114,Bayside Mechanical,Install,Lead HVAC Installer,,Full-Time,44.83,Hourly,40.0,2021-08-04,,Active,FL
+PIN-10017,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,,Regular,19.66,,,2026-01-29,,Active,TX
+NHS-10030,Northstar Corporate,IT,Help Desk Technician,,Regular,27.0,Hourly,40.0,2021-10-29,,Active,FL
+GLC-10372,Great Lakes Comfort Systems,Warehouse,Warehouse Manager,L3,Full-Time,66000.0,Annual,40.0,2024-01-04,,Active,MI
+BAY-10342,Bayside Mechanical,Sales,Comfort Advisor,,Regular,46500.0,Annual,40.0,2019-04-06,,Active,FL
+PIN-10406,Pinnacle Plumbing & Drain,Fleet,Fleet Coordinator,,Regular,53500.0,,,2025-06-20,,Active,TX
+RED-10258,Redwood Electric,Parts & Fleet,Warehouse Associate,,Full-Time,17.93,Hourly,,2023-04-17,,Active,AZ
+BAY-10478,Bayside Mechanical,HR,Recruiter,,Full-Time,57500.0,Annual,40.0,2026-02-08,,Active,FL
+PIN-10288,Pinnacle Plumbing & Drain,Sales,Sales Consultant,,FT,45500.0,,,2024-01-02,,Active,TX
+NHS-10041,Northstar Corporate,IT,Business Systems Analyst,,,85500.0,Annual,40.0,2023-11-30,,Active,FL
+RED-10137,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,Regular,31.94,Hourly,,2022-01-10,,Active,AZ
+RED-10093,Redwood Electric,Installation,Install Manager,,FT,84500.0,Annual,,2017-09-03,,Active,AZ
+GLC-10304,Great Lakes Comfort Systems,Customer Care,Customer Service Representative,L1,,17.36,Hourly,29.0,2025-02-14,,Active,MI
+PIN-10048,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,FT,28.08,,,2025-08-26,,Active,TX
+PIN-C311,Pinnacle Plumbing & Drain,Field,Contract HVAC Technician,,1099,38.76,,,2025-05-19,,Active,TX
+GLC-10078,Great Lakes Comfort Systems,Install,Installer,L2,FT,23.11,Hourly,40.0,2024-08-28,,Active,MI
+GLC-10124,Great Lakes Comfort Systems,Service - HVAC,Technician,L1,Full-Time,19.44,Hourly,40.0,2017-03-02,,Active,MI
+BAY-10297,Bayside Mechanical,Service,HVAC Service Tech III,,Regular,38.29,Hourly,40.0,2011-10-15,,Active,FL
+RED-10059,Redwood Electric,Installation,Electrical Installer (Lvl 2),,Regular,27.75,Hourly,,2025-09-26,,Active,AZ
+RED-10264,Redwood Electric,Parts & Fleet,Parts Coordinator,,Regular,20.41,Hourly,,2026-05-26,,Active,AZ
+PIN-10062,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Regular,28.69,,,2021-07-03,,Active,TX
+BAY-10112,Bayside Mechanical,Install,Lead HVAC Installer,,Regular,40.04,Hourly,40.0,2022-10-12,,Active,FL
+PIN-10297,Pinnacle Plumbing & Drain,Sales,Sales Consultant,,,53000.0,,,2024-10-08,,Active,TX
+GLC-10305,Great Lakes Comfort Systems,Customer Care,Customer Service Representative,L1,Full-Time,20.94,Hourly,40.0,2025-06-22,,Active,MI
+GLC-10070,Great Lakes Comfort Systems,Install,Installer,L2,FT,29.92,Hourly,40.0,2021-01-23,,Active,MI
+BAY-10113,Bayside Mechanical,Install,Lead HVAC Installer,,FT,40.2,Hourly,40.0,2025-11-25,,Active,FL
+RED-10090,Redwood Electric,Installation,Lead Electrical Installer (Lvl 3),,FT,41.17,Hourly,,2024-07-03,,Active,AZ
+BAY-10146,Bayside Mechanical,Service,HVAC Service Tech I,,Regular,21.64,Hourly,40.0,2025-03-21,,Active,FL
+PIN-10053,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,FT,26.7,,,2024-04-24,,Active,TX
+BAY-10084,Bayside Mechanical,Install,HVAC Installer II,,FT,23.24,Hourly,40.0,2020-10-10,,Active,FL
+RED-10089,Redwood Electric,Installation,Lead Electrical Installer (Lvl 3),,FT,45.71,Hourly,,2021-12-20,,Active,AZ
+PIN-10239,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,Full-Time,32.72,,,2019-02-27,,Active,TX
+PIN-10333,Pinnacle Plumbing & Drain,Call Center,CSR,,Regular,18.92,,,2023-08-28,,Active,TX
+PIN-10079,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Full-Time,22.71,,,2025-01-26,,Active,TX
+NHS-C332,Northstar Corporate,IT,IT Consultant,,Contractor,89.04,Hourly,40.0,2025-08-20,,Active,FL
+GLC-10375,Great Lakes Comfort Systems,Finance,AP/AR Specialist,L1,Regular,26.77,Hourly,40.0,2022-09-22,,Active,MI
+PIN-90096,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,,22.81,,,2021-09-22,2025-12-30,Terminated,TX
+RED-10082,Redwood Electric,Installation,Lead Electrical Installer (Lvl 3),,Regular,42.91,Hourly,,2022-09-08,,Active,AZ
+BAY-90019,Bayside Mechanical,Customer Care,Customer Service Rep,,FT,20.65,Hourly,28.0,2024-10-22,2026-08-05,Terminated,FL
+GLC-10012,Great Lakes Comfort Systems,Install,Installer,L1,Full-Time,17.84,Hourly,40.0,2025-09-05,,Active,MI
+GLC-10148,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,FT,24.28,Hourly,40.0,2023-05-10,,Active,MI
+BAY-10350,Bayside Mechanical,Sales,Comfort Advisor,,Regular,52000.0,Annual,40.0,2024-04-23,,Active,FL
+GLC-10109,Great Lakes Comfort Systems,Install,Install Manager,L4,Full-Time,86500.0,Annual,40.0,2024-12-30,,Active,MI
+PIN-10190,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,,28.93,,,2024-07-30,,Active,TX
+BAY-10258,Bayside Mechanical,Service,HVAC Service Tech II,,FT,33.41,Hourly,40.0,2024-10-09,,Active,FL
+GLC-10112,Great Lakes Comfort Systems,Install,Install Manager,L4,FT,78500.0,Annual,40.0,2020-12-09,,Active,MI
+PIN-10356,Pinnacle Plumbing & Drain,Call Center,CSR,,,17.83,,,2024-02-19,,Active,TX
+BAY-10032,Bayside Mechanical,Install,HVAC Installer II,,Full-Time,29.76,Hourly,40.0,2023-06-03,,Active,FL
+PIN-C327,Pinnacle Plumbing & Drain,Field,Contract Electrician,,1099,46.66,,,2025-07-12,,Active,TX
+BAY-10075,Bayside Mechanical,Install,HVAC Installer II,,FT,24.09,Hourly,40.0,2020-08-03,,Active,FL
+PIN-10104,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,,29.23,,,2025-07-30,,Active,TX
+PIN-10281,Pinnacle Plumbing & Drain,Field,Field Supervisor,,Regular,85000.0,,,2023-05-13,,Active,TX
+BAY-10216,Bayside Mechanical,Service,HVAC Service Tech II,,,26.67,Hourly,40.0,2020-11-17,,Active,FL
+BAY-10317,Bayside Mechanical,Service,Service Supervisor,,FT,78000.0,Annual,40.0,2026-04-11,,Active,FL
+GLC-10173,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,FT,26.46,Hourly,40.0,2025-03-06,,Active,MI
+GLC-10130,Great Lakes Comfort Systems,Service - Plumbing,Technician,L1,FT,17.99,Hourly,40.0,2023-11-04,,Active,MI
+GLC-10294,Great Lakes Comfort Systems,Customer Care,Customer Service Representative,L1,Full-Time,17.35,Hourly,40.0,2024-04-28,,Active,MI
+PIN-10329,Pinnacle Plumbing & Drain,Call Center,CSR,,,16.8,,,2020-02-03,,Active,TX
+PIN-10423,Pinnacle Plumbing & Drain,HR,HR Coordinator,,Regular,49500.0,,,2024-09-29,,Active,TX
+PIN-10401,Pinnacle Plumbing & Drain,Fleet,Parts Coordinator,,Full-Time,22.44,,,2023-08-14,,Active,TX
+RED-10006,Redwood Electric,Installation,Apprentice Electrician (Lvl 1),,Seasonal,18.35,Hourly,,2026-03-07,,Active,AZ
+RED-10143,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,Full-Time,30.66,Hourly,,2025-05-30,,Active,AZ
+BAY-10275,Bayside Mechanical,Service,HVAC Service Tech II,,FT,26.46,Hourly,40.0,2023-06-12,,Active,FL
+PIN-10131,Pinnacle Plumbing & Drain,Field,Installation Manager,,Full-Time,85500.0,,,2022-09-12,,Active,TX
+PIN-10049,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Regular,25.19,,,2025-07-06,,Active,TX
+BAY-10284,Bayside Mechanical,Service,HVAC Service Tech III,,Regular,39.58,Hourly,40.0,2022-05-06,,Active,FL
+GLC-10165,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,Regular,32.47,Hourly,40.0,2025-07-10,,Active,MI
+GLC-10001,Great Lakes Comfort Systems,Install,Installer,L1,Full-Time,21.56,Hourly,40.0,2024-09-24,,Active,MI
+PIN-10300,Pinnacle Plumbing & Drain,Sales,Sales Consultant,,FT,54500.0,,,2024-02-02,,Active,TX
+BAY-10432,Bayside Mechanical,Customer Care,Customer Care Manager,,Regular,77500.0,Annual,40.0,2020-12-08,,Active,FL
+BAY-10005,Bayside Mechanical,Install,HVAC Installer I,,Seasonal,20.63,Hourly,40.0,2021-11-25,,Active,FL
+RED-10019,Redwood Electric,Installation,Apprentice Electrician (Lvl 1),,Seasonal,17.14,Hourly,,2022-02-19,,Active,AZ
+PIN-10338,Pinnacle Plumbing & Drain,Call Center,CSR,,Regular,16.57,,,2021-02-08,,Active,TX
+NHS-10078,Northstar Corporate,Marketing,Marketing Director,,Regular,140000.0,Annual,40.0,2026-07-13,,Active,FL
+RED-10040,Redwood Electric,Installation,Electrical Installer (Lvl 2),,Regular,24.7,Hourly,,2022-10-14,,Active,AZ
+BAY-10411,Bayside Mechanical,Customer Care,Dispatcher,,Regular,21.71,Hourly,40.0,2022-08-24,,Active,FL
+PIN-90080,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,,,42.42,,,2023-08-01,2025-11-16,Terminated,TX
+PIN-10188,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,Regular,29.77,,,2022-08-18,,Active,TX
+BAY-10296,Bayside Mechanical,Service,HVAC Service Tech III,,FT,37.53,Hourly,40.0,2019-04-09,,Active,FL
+RED-10009,Redwood Electric,Parts & Fleet,Apprentice Electrician (Lvl 1),,Regular,20.93,Hourly,,2022-06-17,,,AZ
+BAY-10401,Bayside Mechanical,Customer Care,Customer Service Rep,,Regular,18.49,Hourly,28.0,2023-04-19,,Active,FL
+BAY-10274,Bayside Mechanical,Service,HVAC Service Tech II,,Full-Time,27.82,Hourly,40.0,2023-10-03,,Active,FL
+BAY-10430,Bayside Mechanical,Customer Care,Call Center Supervisor,,Regular,59000.0,Annual,40.0,2021-07-22,,Active,FL
+NHS-90016,Northstar Corporate,Marketing,Marketing Manager,,,96000.0,Annual,40.0,2017-12-15,2025-08-06,Terminated,FL
+PIN-10366,Pinnacle Plumbing & Drain,Call Center,Dispatcher,,FT,19.65,,,2024-09-19,,Active,TX
+GLC-10010,Great Lakes Comfort Systems,Install,Installer,L1,Regular,17.48,Hourly,40.0,2025-04-17,,Active,MI
+PIN-10317,Pinnacle Plumbing & Drain,Sales,Inside Sales Representative,,,20.65,,,2023-03-12,,Active,TX
+NHS-10064,Northstar Corporate,Executive & Corporate,Executive Assistant,,Full-Time,71500.0,Annual,40.0,2023-09-21,,Active,FL
+BAY-10154,Bayside Mechanical,Service,HVAC Service Tech I,,Regular,18.27,Hourly,40.0,2022-08-27,,Active,FL
+PIN-10292,Pinnacle Plumbing & Drain,Sales,Sales Consultant,,FT,47500.0,,,2022-03-29,,Active,TX
+RED-10114,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),,,17.79,Hourly,,2026-03-09,,Active,AZ
+GLC-10065,Great Lakes Comfort Systems,Install,Installer,L2,Full-Time,27.55,Hourly,40.0,2014-10-07,,Active,MI
+RED-10085,Redwood Electric,Installation,Lead Electrical Installer (Lvl 3),,Full-Time,42.78,Hourly,,2023-06-07,,Active,AZ
+RED-10138,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,Full-Time,30.41,Hourly,,2024-03-02,,Active,AZ
+BAY-10399,Bayside Mechanical,Customer Care,Customer Service Rep,,,16.84,Hourly,40.0,2025-02-03,,Active,FL
+RED-10088,Redwood Electric,Installation,Lead Electrical Installer (Lvl 3),,Regular,43.35,Hourly,,2023-04-13,,Active,AZ
+PIN-10184,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,,24.06,,,2023-08-14,,Active,TX
+RED-10181,Redwood Electric,Field Ops - Service,Electrician (Lvl 3),,FT,38.13,Hourly,,2023-06-22,,Active,AZ
+GLC-10318,Great Lakes Comfort Systems,Customer Care,Customer Service Representative,L1,Regular,20.34,Hourly,28.0,2024-06-11,,Active,MI
+PIN-10039,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Regular,24.69,,,2026-05-26,,Active,TX
+RED-10256,Redwood Electric,Parts & Fleet,Warehouse Associate,,,20.07,Hourly,,2024-02-10,,Active,AZ
+PIN-10309,Pinnacle Plumbing & Drain,Sales,Senior Sales Consultant,,Full-Time,61500.0,,,2024-07-25,,Active,TX
+RED-10282,Redwood Electric,HR,Recruiter,,Regular,62500.0,Annual,,2022-08-04,,Active,AZ
+PIN-10097,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Regular,24.51,,,2021-04-13,,Active,TX
+PIN-10197,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,,25.89,,,2023-08-18,,Active,TX
+GLC-10203,Great Lakes Comfort Systems,Service - Plumbing,Technician,L2,Full-Time,29.01,Hourly,40.0,2019-04-05,,Active,MI
+RED-10051,Redwood Electric,Installation,Electrical Installer (Lvl 2),,Full-Time,22.41,Hourly,,2021-01-01,,Active,AZ
+RED-10261,Redwood Electric,Parts & Fleet,Warehouse Associate,,Regular,20.32,Hourly,,2021-10-09,,Active,AZ
+NHS-10075,Northstar Corporate,Executive & Corporate,Chief Executive Officer,,Regular,438000.0,Annual,40.0,2022-08-01,,Active,FL
+BAY-10416,Bayside Mechanical,Customer Care,Dispatcher,,Regular,23.45,Hourly,40.0,2023-03-17,,Active,FL
+PIN-10209,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,FT,27.39,,,2019-05-06,,Active,TX
+GLC-10325,Great Lakes Comfort Systems,Customer Care,Dispatcher,L2,FT,20.11,Hourly,25.0,2024-12-06,,Active,MI
+GLC-10090,Great Lakes Comfort Systems,Install,Installer,L3,FT,43.19,Hourly,40.0,2023-12-09,,Active,MI
+PIN-10105,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,,Full-Time,42.38,,,2021-08-08,,Active,TX
+PIN-10421,Pinnacle Plumbing & Drain,Acctg,Controller,,FT,123000.0,,,2022-08-28,,Active,TX
+RED-10166,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,Regular,29.08,Hourly,,2025-04-09,,Active,AZ
+PIN-10040,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,FT,28.94,,,2023-05-28,,Active,TX
+GLC-10269,Great Lakes Comfort Systems,Sales,Comfort Advisor,L2,Regular,49000.0,Annual,40.0,2025-09-05,,Active,MI
+GLC-10385,Great Lakes Comfort Systems,Finance,Senior Accountant,L3,FT,77500.0,Annual,40.0,2025-02-06,,Active,MI
+BAY-90029,Bayside Mechanical,Service,HVAC Service Tech II,,FT,32.63,Hourly,40.0,2021-02-08,2025-08-24,Terminated,FL
+GLC-10321,Great Lakes Comfort Systems,Customer Care,Customer Service Representative,L1,FT,18.85,Hourly,29.0,2021-12-07,,Active,MI
+GLC-10365,Great Lakes Comfort Systems,Warehouse,Parts Coordinator,L2,,24.94,Hourly,40.0,2025-03-23,,Active,MI
+PIN-10004,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,,Regular,18.7,,,2023-03-10,,Active,TX
+RED-10132,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,FT,28.82,Hourly,,2025-01-05,,Active,AZ
+PIN-10135,Pinnacle Plumbing & Drain,Field,Installation Manager,,FT,84000.0,,,2021-12-26,,Active,TX
+PIN-10306,Pinnacle Plumbing & Drain,Sales,Senior Sales Consultant,,,57500.0,,,2023-02-09,,Active,TX
+PIN-10230,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,,30.37,,,2024-05-27,,Active,TX
+RED-10231,Redwood Electric,CSR,Cust Svc Rep,,Regular,20.8,Hourly,,2021-11-22,,Active,AZ
+GLC-10383,Great Lakes Comfort Systems,Finance,Staff Accountant,L2,Full-Time,65000.0,Annual,40.0,2024-05-30,,Active,MI
+GLC-10175,Great Lakes Comfort Systems,Service - Plumbing,Technician,L2,,32.65,Hourly,40.0,2025-06-03,,Active,MI
+NHS-10060,Northstar Corporate,Marketing,Marketing Manager,,,96000.0,Annual,40.0,2019-10-21,,Active,FL
+BAY-10286,Bayside Mechanical,Service,HVAC Service Tech III,,Full-Time,35.08,Hourly,40.0,2018-09-24,,Active,FL
+PIN-10038,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Full-Time,27.01,,,2023-11-17,,Active,TX
+GLC-90018,Great Lakes Comfort Systems,Install,Installer,L3,Regular,40.03,Hourly,40.0,2011-09-23,2026-03-19,Terminated,MI
+BAY-10043,Bayside Mechanical,Install,HVAC Installer II,,,29.36,Hourly,40.0,2024-04-26,,Active,FL
+PIN-10171,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,,26.58,,,2025-02-06,,Active,TX
+BAY-10010,Bayside Mechanical,Install,HVAC Installer I,,FT,20.74,Hourly,40.0,2024-02-25,,Active,FL
+BAY-10166,Bayside Mechanical,Service,HVAC Service Tech I,,Regular,19.27,Hourly,40.0,2022-10-01,,Active,FL
+RED-10052,Redwood Electric,Installation,Electrical Installer (Lvl 2),,Full-Time,24.03,Hourly,,2020-07-11,,Active,AZ
+GLC-10041,Great Lakes Comfort Systems,Install,Installer,L2,FT,29.49,Hourly,40.0,2024-11-05,,Active,MI
+BAY-10400,Bayside Mechanical,Customer Care,Customer Service Rep,,Full-Time,17.98,Hourly,40.0,2021-04-09,,Active,FL
+PIN-10228,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,,28.74,,,2023-02-14,,Active,TX
+BAY-10228,Bayside Mechanical,Service,HVAC Service Tech II,,Full-Time,30.54,Hourly,40.0,2020-09-29,,Active,FL
+PIN-10106,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,,,41.29,,,2017-09-08,,Active,TX
+GLC-10306,Great Lakes Comfort Systems,Customer Care,Customer Service Representative,L1,Regular,18.72,Hourly,28.0,2023-04-24,,Active,MI
+RED-10068,Redwood Electric,Installation,Electrical Installer (Lvl 2),,Full-Time,25.73,Hourly,,2025-07-02,,Active,AZ
+PIN-10324,Pinnacle Plumbing & Drain,Call Center,CSR,,FT,16.95,,,2025-01-30,,Active,TX
+GLC-10338,Great Lakes Comfort Systems,Customer Care,Call Center Supervisor,L3,Regular,61000.0,Annual,40.0,2023-10-31,,Active,MI
+BAY-10226,Bayside Mechanical,Service,HVAC Service Tech II,,Regular,31.3,Hourly,40.0,2023-05-31,,Active,FL
+GLC-C320,Great Lakes Comfort Systems,Install,Contract Installer,,Contractor,38.8,Hourly,40.0,2024-08-23,,Active,MI
+GLC-10084,Great Lakes Comfort Systems,Install,Installer,L2,Regular,25.63,Hourly,40.0,2025-02-03,,Active,MI
+GLC-10155,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,Regular,28.84,Hourly,40.0,2018-01-19,,Active,MI
+BAY-10011,Bayside Mechanical,Install,HVAC Installer I,,FT,17.75,Hourly,40.0,2025-03-10,,Active,FL
+PIN-10241,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,Regular,31.34,,,2022-08-15,,Active,TX
+GLC-10364,Great Lakes Comfort Systems,Warehouse,Parts Coordinator,L2,,22.33,Hourly,40.0,2023-08-22,,Active,MI
+BAY-90007,Bayside Mechanical,Service,HVAC Service Tech II,,FT,26.76,Hourly,40.0,2021-01-27,2025-07-28,Terminated,FL
+BAY-10372,Bayside Mechanical,Customer Care,Customer Service Rep,,Full-Time,20.09,Hourly,40.0,2020-01-16,,Active,FL
+BAY-10280,Bayside Mechanical,Service,HVAC Service Tech III,,Regular,39.71,Hourly,40.0,2024-12-06,,Active,FL
+BAY-10088,Bayside Mechanical,Install,HVAC Installer II,,Regular,24.38,Hourly,40.0,2024-01-02,,Active,FL
+BAY-10066,Bayside Mechanical,Install,HVAC Installer II,,Regular,26.04,Hourly,40.0,2024-10-30,,Active,FL
+BAY-10479,Bayside Mechanical,IT,Help Desk Technician,,Full-Time,25.51,Hourly,40.0,2024-04-19,,Active,FL
+BAY-10013,Bayside Mechanical,Install,HVAC Installer I,,,17.8,Hourly,40.0,2021-04-23,,Active,FL
+PIN-10012,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,,,20.21,,,2024-01-12,,Active,TX
+GLC-10389,Great Lakes Comfort Systems,IT,Systems Administrator,L2,Regular,91000.0,Annual,40.0,2025-07-05,,Active,MI
+BAY-10121,Bayside Mechanical,Install,Lead HVAC Installer,,,40.44,Hourly,40.0,2022-02-28,,Active,FL
+GLC-10204,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,,25.48,Hourly,40.0,2021-02-16,,Active,MI
+GLC-10141,Great Lakes Comfort Systems,Service - HVAC,Technician,L1,Regular,20.53,Hourly,40.0,2024-03-16,,Active,MI
+PIN-10343,Pinnacle Plumbing & Drain,Call Center,CSR,,Full-Time,20.78,,,2023-04-01,,Active,TX
+BAY-10357,Bayside Mechanical,Sales,Comfort Advisor,,,51000.0,Annual,40.0,2019-05-30,,Active,FL
+RED-10116,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),,Full-Time,21.1,Hourly,,2026-05-16,,Active,AZ
+BAY-10408,Bayside Mechanical,Customer Care,Customer Service Rep,,,19.69,Hourly,40.0,2011-06-30,,Active,FL
+PIN-10202,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,,27.42,,,2025-02-03,,Active,TX
+GLC-10238,Great Lakes Comfort Systems,Service - HVAC,Technician,L3,Regular,43.5,Hourly,40.0,2024-01-05,,Active,MI
+PIN-10243,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,,29.49,,,2020-07-03,,Active,TX
+GLC-10323,Great Lakes Comfort Systems,Customer Care,Customer Service Representative,L1,FT,16.33,Hourly,28.0,2022-12-13,,Active,MI
+BAY-10147,Bayside Mechanical,Service,HVAC Service Tech I,,,21.12,Hourly,40.0,2025-03-18,,Active,FL
+BAY-10352,Bayside Mechanical,Sales,Comfort Advisor,,,46500.0,Annual,40.0,2023-06-29,,Active,FL
+RED-10039,Redwood Electric,Installation,Electrical Installer (Lvl 2),,Full-Time,26.94,Hourly,,2018-08-01,,Active,AZ
+PIN-10082,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Full-Time,27.57,,,2024-11-12,,Active,TX
+BAY-90040,Bayside Mechanical,Sales,Comfort Advisor,,FT,46000.0,Annual,40.0,2024-04-18,2025-11-10,Terminated,FL
+GLC-10339,Great Lakes Comfort Systems,Customer Care,Call Center Supervisor,L3,Regular,59000.0,Annual,40.0,2024-09-30,,Active,MI
+BAY-10180,Bayside Mechanical,Service,HVAC Service Tech II,,Full-Time,27.38,Hourly,40.0,2025-04-30,,Active,FL
+GLC-10127,Great Lakes Comfort Systems,Service - HVAC,Technician,L1,Regular,19.59,Hourly,40.0,2025-04-15,,Active,MI
+BAY-10188,Bayside Mechanical,Service,HVAC Service Tech II,,,27.51,Hourly,40.0,2025-12-15,,Active,FL
+GLC-10298,Great Lakes Comfort Systems,Customer Care,Customer Service Representative,L1,Regular,16.92,Hourly,25.0,2017-06-28,,Active,MI
+GLC-10153,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,Regular,28.73,Hourly,40.0,2026-04-13,,Active,MI
+PIN-10164,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,Regular,33.58,,,2014-02-07,,Active,TX
+BAY-10440,Bayside Mechanical,Warehouse,Warehouse Associate,,Regular,18.27,Hourly,40.0,2026-02-09,,Active,FL
+BAY-10018,Bayside Mechanical,Install,HVAC Installer I,,Regular,19.58,Hourly,40.0,2019-09-22,,Active,FL
+RED-C336,Redwood Electric,Parts & Fleet,Temp Warehouse Associate,,Temp,18.32,Hourly,,2025-03-01,,Active,AZ
+BAY-10264,Bayside Mechanical,Service,HVAC Service Tech II,,Full-Time,26.51,Hourly,40.0,2021-06-18,,Active,FL
+RED-10033,Redwood Electric,Installation,Electrical Installer (Lvl 2),,FT,24.48,Hourly,,2021-07-18,,Active,AZ
+GLC-10346,Great Lakes Comfort Systems,Warehouse,Warehouse Associate,L1,FT,18.33,Hourly,20.0,2022-12-10,,Active,MI
+BAY-10420,Bayside Mechanical,Customer Care,Dispatcher,,FT,485000.0,Annual,40.0,2020-11-09,,Active,FL
+GLC-10144,Great Lakes Comfort Systems,Service - Plumbing,Technician,L2,Regular,27.19,Hourly,40.0,2025-04-13,,Active,MI
+GLC-10168,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,Regular,29.43,Hourly,40.0,2023-05-31,,Active,MI
+RED-10003,Redwood Electric,Installation,Apprentice Electrician (Lvl 1),,,19.43,Hourly,,2022-10-01,,Active,AZ
+RED-10097,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),,,17.56,Hourly,,2024-11-16,,Active,AZ
+PIN-10136,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,,FT,17.41,,,2023-07-27,,Active,TX
+GLC-10307,Great Lakes Comfort Systems,Customer Care,Customer Service Representative,L1,Full-Time,17.11,Hourly,40.0,2024-03-02,,Active,MI
+PIN-10081,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,,23.88,,,2024-07-27,,Active,TX
+BAY-10105,Bayside Mechanical,Install,HVAC Installer II,,Regular,27.22,Hourly,40.0,2024-10-22,,Active,FL
+BAY-10433,Bayside Mechanical,Warehouse,Warehouse Associate,,FT,17.65,Hourly,40.0,2024-12-29,,Active,FL
+PIN-10214,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,FT,33.44,,,2022-11-02,,Active,TX
+GLC-10143,Great Lakes Comfort Systems,Service - Plumbing,Technician,L1,,21.5,Hourly,40.0,2025-11-27,,Active,MI
+BAY-10041,Bayside Mechanical,Install,HVAC Installer II,,Regular,25.16,Hourly,40.0,2023-02-14,,Active,FL
+GLC-10244,Great Lakes Comfort Systems,Service - Plumbing,Technician,L3,,41.02,Hourly,40.0,2023-04-21,,Active,MI
+GLC-10114,Great Lakes Comfort Systems,Service - HVAC,Technician,L1,Regular,17.2,Hourly,40.0,2022-01-29,,Active,MI
+PIN-10311,Pinnacle Plumbing & Drain,Sales,Senior Sales Consultant,,,50500.0,,,2024-02-08,,Active,TX
+PIN-10094,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,,22.96,,,2021-05-12,,Active,TX
+BAY-10135,Bayside Mechanical,Install,Install Mgr,,Regular,82500.0,Annual,40.0,2024-01-10,,Active,FL
+PIN-10189,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,Full-Time,29.68,,,2022-05-13,,Active,TX
+GLC-10224,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,Full-Time,26.02,Hourly,40.0,2022-04-08,,Active,MI
+RED-10154,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,,30.71,Hourly,,2026-01-24,,Active,AZ
+PIN-10201,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,Full-Time,26.21,,,2025-08-19,,Active,TX
+GLC-10291,Great Lakes Comfort Systems,Customer Care,Customer Service Representative,L1,Full-Time,18.82,Hourly,29.0,2018-12-15,,Active,MI
+GLC-10246,Great Lakes Comfort Systems,Service - HVAC,Technician,L3,,43.9,Hourly,40.0,2022-01-08,,Active,MI
+GLC-10184,Great Lakes Comfort Systems,Service - Plumbing,Technician,L2,Regular,30.86,Hourly,40.0,2018-12-15,,Active,MI
+NHS-10033,Northstar Corporate,IT,Systems Administrator,,Regular,76000.0,Annual,40.0,2023-08-21,,Active,FL
+RED-10043,Redwood Electric,Installation,Electrical Installer (Lvl 2),,Regular,25.34,Hourly,,2022-12-13,,Active,AZ
+GLC-10387,Great Lakes Comfort Systems,IT,Help Desk Technician,L1,Full-Time,25.08,Hourly,40.0,2016-06-21,,Active,MI
+GLC-10369,Great Lakes Comfort Systems,Warehouse,Fleet Coordinator,L2,Regular,53000.0,Annual,40.0,2021-03-06,,Active,MI
+BAY-10374,Bayside Mechanical,Customer Care,Customer Service Rep,,FT,19.07,Hourly,40.0,2025-07-24,,Active,FL
+BAY-10383,Bayside Mechanical,Customer Care,Customer Service Rep,,Regular,17.5,Hourly,40.0,2024-08-08,,Active,FL
+BAY-10368,Bayside Mechanical,Sales,Sales Manager,,FT,104500.0,Annual,40.0,2024-08-18,,Active,FL
+NHS-10015,Northstar Corporate,HR,HR Business Partner,,Full-Time,93000.0,Annual,40.0,2024-10-23,,Active,FL
+GLC-10149,Great Lakes Comfort Systems,Service - Plumbing,Technician,L2,,28.57,Hourly,40.0,2025-07-10,,Active,MI
+BAY-10423,Bayside Mechanical,Customer Care,Dispatcher,,Regular,23.05,Hourly,40.0,2025-12-20,,Active,FL
+BAY-10465,Bayside Mechanical,Finance,Payroll Specialist,,Full-Time,56000.0,Annual,40.0,2025-11-12,,Active,FL
+PIN-10416,Pinnacle Plumbing & Drain,Acctg,Staff Accountant,,Regular,67500.0,,,2018-11-09,,Active,TX
+RED-10035,Redwood Electric,Installation,Electrical Installer (Lvl 2),,FT,28.48,Hourly,,2020-08-01,,Active,AZ
+BAY-10199,Bayside Mechanical,Service,HVAC Service Tech II,,FT,33.68,Hourly,40.0,2022-07-29,,Active,FL
+RED-10209,Redwood Electric,Sales,Home Solutions Consultant,,,54000.0,Annual,,2017-03-17,,Active,AZ
+BAY-10119,Bayside Mechanical,Install,Lead HVAC Installer,,Full-Time,44.45,Hourly,40.0,2021-08-20,,Active,FL
+GLC-90083,Great Lakes Comfort Systems,Service - Plumbing,Technician,L2,Regular,30.83,Hourly,40.0,2022-07-14,2025-07-07,Terminated,MI
+BAY-10257,Bayside Mechanical,Service,HVAC Service Tech II,,FT,,Hourly,40.0,2024-11-10,,Active,FL
+GLC-10140,Great Lakes Comfort Systems,Service - HVAC,Technician,L1,Full-Time,20.16,Hourly,40.0,2024-07-29,,Active,MI
+BAY-10442,Bayside Mechanical,Warehouse,Warehouse Associate,,FT,16.26,Hourly,40.0,2022-08-14,,Active,FL
+RED-10167,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,Regular,26.65,Hourly,,2022-08-05,,Active,AZ
+BAY-90031,Bayside Mechanical,Service,HVAC Service Tech II,,Full-Time,33.25,Hourly,40.0,2023-07-23,2025-08-09,Terminated,FL
+GLC-10216,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,Regular,30.03,Hourly,40.0,2022-09-23,,Active,MI
+NHS-10034,Northstar Corporate,IT,Systems Administrator,,Regular,81500.0,Annual,40.0,2023-04-12,,Active,FL
+NHS-10062,Northstar Corporate,Executive & Corporate,Executive Assistant,,FT,72000.0,Annual,40.0,2023-11-12,,Active,FL
+RED-10268,Redwood Electric,Parts & Fleet,Warehouse Manager,,FT,65500.0,Annual,,2023-09-23,,Active,AZ
+PIN-10001,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,,,17.16,,,2018-08-13,,Active,TX
+PIN-10138,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,,Regular,20.7,,,2024-03-30,,Active,TX
+BAY-10466,Bayside Mechanical,Finance,Payroll Specialist,,Regular,55500.0,Annual,40.0,2022-01-03,,Active,FL
+RED-10126,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,FT,30.94,Hourly,,2022-03-10,,Active,AZ
+PIN-10198,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,Regular,24.86,,,2024-06-04,,Active,TX
+GLC-10136,Great Lakes Comfort Systems,Service - HVAC,Technician,L1,FT,20.11,Hourly,40.0,2025-09-29,,Active,MI
+BAY-10092,Bayside Mechanical,Install,HVAC Installer II,,Regular,29.38,Hourly,40.0,2024-03-11,,Active,FL
+BAY-10071,Bayside Mechanical,Install,HVAC Installer II,,Regular,29.97,Hourly,40.0,2021-04-26,,Active,FL
+RED-10163,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,,24.7,Hourly,,2019-09-09,,Active,AZ
+BAY-C309,Bayside Mechanical,Service,Contract HVAC Technician,,1099,38.1,Hourly,40.0,2025-11-10,,Active,FL
+RED-10028,Redwood Electric,Installation,Electrical Installer (Lvl 2),,,25.98,Hourly,,2022-08-15,,Active,AZ
+GLC-10087,Great Lakes Comfort Systems,Install,Installer,L3,Regular,45.13,Hourly,40.0,2025-01-17,,Active,MI
+RED-10192,Redwood Electric,Field Ops - Service,Electrician (Lvl 3),,Regular,42.69,Hourly,,2018-09-09,,Active,AZ
+BAY-C312,Bayside Mechanical,Service,Contract HVAC Technician,,1099,53.57,Hourly,40.0,2025-05-19,,Active,FL
+PIN-10019,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,,Regular,19.49,,,2025-09-04,,Active,TX
+PIN-10385,Pinnacle Plumbing & Drain,Fleet,Warehouse Associate,,Regular,16.29,,,2018-10-01,,Active,TX
+BAY-10224,Bayside Mechanical,Service,HVAC Service Tech II,,Regular,26.74,Hourly,40.0,2026-01-04,,Active,FL
+BAY-10215,Bayside Mechanical,Service,HVAC Service Tech II,,Regular,28.25,Hourly,40.0,2020-07-31,,Active,FL
+RED-10055,Redwood Electric,Installation,Electrical Installer (Lvl 2),,Full-Time,24.22,Hourly,,2021-02-16,,Active,AZ
+BAY-10038,Bayside Mechanical,Install,HVAC Installer II,,,26.16,Hourly,40.0,2020-02-16,,Active,FL
+GLC-10125,Great Lakes Comfort Systems,Service - HVAC,Technician,L1,,20.47,Hourly,40.0,2021-11-12,,Active,MI
+GLC-10119,Great Lakes Comfort Systems,Service - Plumbing,Technician,L1,Full-Time,20.08,Hourly,40.0,2024-05-10,,Active,MI
+RED-10071,Redwood Electric,Installation,Electrical Installer (Lvl 2),,Regular,23.27,Hourly,,2017-11-13,,Active,AZ
+GLC-10335,Great Lakes Comfort Systems,Customer Care,Dispatcher,L2,,19.11,Hourly,40.0,2025-08-23,,Active,MI
+GLC-10058,Great Lakes Comfort Systems,Install,Installer,L2,FT,27.12,Hourly,40.0,2019-08-19,,Active,MI
+PIN-10424,Pinnacle Plumbing & Drain,Executive,Executive Assistant,,,64500.0,,,2026-05-11,,Active,TX
+GLC-10004,Great Lakes Comfort Systems,Install,Installer,L1,,18.33,Hourly,40.0,2023-03-30,,Active,MI
+GLC-10357,Great Lakes Comfort Systems,Warehouse,Warehouse Associate,L1,Full-Time,17.79,Hourly,40.0,2022-06-06,,Active,MI
+GLC-10299,Great Lakes Comfort Systems,Customer Care,Customer Service Representative,L1,FT,19.62,Hourly,25.0,2016-04-09,,Active,MI
+BAY-10294,Bayside Mechanical,Service,HVAC Service Tech III,,Regular,40.65,Hourly,40.0,2026-04-03,,Active,FL
+BAY-10396,Bayside Mechanical,Customer Care,Customer Service Rep,,,18.12,Hourly,40.0,2023-05-01,,Active,FL
+GLC-10267,Great Lakes Comfort Systems,Service - HVAC,Service Manager,L5,,96000.0,Annual,40.0,2017-12-20,,Active,MI
+RED-10191,Redwood Electric,Field Ops - Service,Electrician (Lvl 3),,Regular,43.51,Hourly,,2022-01-23,,Active,AZ
+RED-10076,Redwood Electric,Installation,Lead Electrical Installer (Lvl 3),,FT,43.56,Hourly,,2017-11-21,,Active,AZ
+PIN-C335,Pinnacle Plumbing & Drain,Fleet,Temp Warehouse Associate,,Temp,17.2,,,2026-04-13,,Active,TX
+RED-10255,Redwood Electric,Parts & Fleet,Warehouse Associate,,Regular,,Hourly,,2026-03-13,,Active,AZ
+RED-C317,Redwood Electric,Installation,Contract Installer,,Contractor,45.82,Hourly,,2025-12-13,,Active,AZ
+RED-10227,Redwood Electric,CSR,Cust Svc Rep,,Regular,20.33,Hourly,,2026-05-06,,Active,AZ
+GLC-10076,Great Lakes Comfort Systems,Install,Installer,L2,Regular,28.01,Hourly,40.0,2023-04-25,,Active,MI
+PIN-10052,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,,22.81,,,2024-03-10,,Active,TX
+PIN-10229,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,FT,30.16,,,2022-07-25,,Active,TX
+BAY-10415,Bayside Mechanical,Customer Care,Dispatcher,,Regular,23.5,Hourly,40.0,2022-08-07,,Active,FL
+GLC-10210,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,,29.58,Hourly,40.0,2022-02-18,,Active,MI
+RED-10125,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,Regular,32.64,Hourly,,2018-02-02,,Active,AZ
+PIN-10246,Pinnacle Plumbing & Drain,Field,Plumber - Master,,FT,39.58,,,2025-11-26,,Active,TX
+PIN-90079,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,FT,26.56,,,2022-07-11,2026-05-07,Terminated,TX
+BAY-90098,Bayside Mechanical,Service,HVAC Service Tech II,,Full-Time,29.6,Hourly,40.0,2017-11-08,2026-03-11,Terminated,FL
+GLC-10386,Great Lakes Comfort Systems,Finance,Controller,L4,,125500.0,Annual,40.0,2025-05-20,,Active,MI
+BAY-10295,Bayside Mechanical,Service,HVAC Service Tech III,,Full-Time,39.11,Hourly,40.0,2024-12-13,,Active,FL
+PIN-10299,Pinnacle Plumbing & Drain,Sales,Sales Consultant,,Regular,49000.0,,,2025-10-30,,Active,TX
+NHS-10035,Northstar Corporate,IT,Systems Administrator,,Full-Time,93000.0,Annual,40.0,2022-04-12,,Active,FL
+PIN-10008,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,,,20.8,,,2023-06-30,,Active,TX
+BAY-10052,Bayside Mechanical,Install,HVAC Installer II,,Full-Time,28.61,Hourly,40.0,2019-11-01,,Active,FL
+BAY-10139,Bayside Mechanical,Install,Install Mgr,,,,Annual,40.0,2023-12-09,,Active,FL
+GLC-10191,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,,30.27,Hourly,40.0,2024-10-27,,Active,MI
+GLC-10347,Great Lakes Comfort Systems,Warehouse,Warehouse Associate,L1,,17.81,Hourly,28.0,2022-12-28,,Active,MI
+GLC-10066,Great Lakes Comfort Systems,Install,Installer,L2,,22.98,Hourly,40.0,2024-01-17,,Active,MI
+BAY-10269,Bayside Mechanical,Service,HVAC Service Tech II,,Regular,25.77,Hourly,40.0,2017-01-29,,Active,FL
+PIN-10177,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,Regular,30.82,,,2022-12-02,,Active,TX
+PIN-10126,Pinnacle Plumbing & Drain,Field,Installation Manager,,Full-Time,83500.0,,,2020-01-23,,Active,TX
+BAY-10207,Bayside Mechanical,Service,HVAC Service Tech II,,Full-Time,32.14,Hourly,40.0,2017-01-23,,Active,FL
+BAY-10462,Bayside Mechanical,Finance,AP/AR Specialist,,FT,26.27,Hourly,40.0,2023-09-16,,Active,FL
+GLC-10368,Great Lakes Comfort Systems,Warehouse,Fleet Coordinator,L2,Full-Time,51500.0,Annual,40.0,2024-02-29,,Active,MI
+GLC-90054,Great Lakes Comfort Systems,Service - HVAC,Technician,L3,Regular,41.98,Hourly,40.0,2020-05-13,2026-05-28,Terminated,MI
+RED-10034,Redwood Electric,Installation,Electrical Installer (Lvl 2),,Regular,27.55,Hourly,,2023-09-06,,Active,AZ
+RED-90097,Redwood Electric,Installation,Apprentice Electrician (Lvl 1),,Regular,20.32,Hourly,,2021-04-27,2025-12-29,Terminated,AZ
+GLC-10192,Great Lakes Comfort Systems,Service - Plumbing,Technician,L2,Regular,29.85,Hourly,40.0,2025-02-05,,Active,MI
+BAY-10446,Bayside Mechanical,Warehouse,Parts Coordinator,,Regular,25.95,Hourly,40.0,2022-01-28,,Active,FL
+RED-10248,Redwood Electric,CSR,Dispatcher,,Full-Time,23.39,Hourly,,2021-11-04,,Active,AZ
+GLC-10223,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,Regular,25.58,Hourly,40.0,2022-05-09,,Active,MI
+RED-10263,Redwood Electric,Parts & Fleet,Parts Coordinator,,Regular,20.23,Hourly,,2025-10-29,,Leave,AZ
+PIN-10287,Pinnacle Plumbing & Drain,Sales,Sales Consultant,,,54500.0,,,2022-02-11,,Active,TX
+GLC-10019,Great Lakes Comfort Systems,Install,Installer,L1,Full-Time,17.08,Hourly,40.0,2023-06-03,,Active,MI
+GLC-10211,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,FT,32.78,Hourly,40.0,2023-06-06,,Active,MI
+BAY-10459,Bayside Mechanical,Finance,AP/AR Specialist,,Full-Time,0.0,Hourly,40.0,2020-02-10,,Active,FL
+PIN-10041,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Full-Time,27.96,,,2023-07-02,,Active,TX
+NHS-10022,Northstar Corporate,HR,HR Manager,,Regular,97500.0,Annual,40.0,2025-04-30,,Active,FL
+PIN-10207,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,Regular,25.86,,,2024-04-02,,Active,TX
+PIN-C328,Pinnacle Plumbing & Drain,Field,Contract Electrician,,1099,57.29,,,2025-11-17,,Active,TX
+GLC-10355,Great Lakes Comfort Systems,Warehouse,Warehouse Associate,L1,Regular,20.79,Hourly,40.0,2017-09-07,,Active,MI
+RED-10123,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,Full-Time,31.73,Hourly,,2021-05-19,,Active,AZ
+RED-10134,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,,32.11,Hourly,,2025-06-19,,Active,AZ
+GLC-10059,Great Lakes Comfort Systems,Install,Installer,L2,Regular,23.46,Hourly,40.0,2022-07-29,,Active,MI
+NHS-10056,Northstar Corporate,Marketing,Digital Marketing Specialist,,FT,71500.0,Annual,40.0,2025-01-12,,Active,FL
+BAY-10278,Bayside Mechanical,Service,HVAC Service Tech II,,,24.11,Hourly,40.0,2023-05-06,,Active,FL
+BAY-10251,Bayside Mechanical,Service,HVAC Service Tech II,,Regular,26.21,Hourly,40.0,2024-01-20,,Active,FL
+BAY-90038,Bayside Mechanical,Service,HVAC Service Tech II,,FT,25.22,Hourly,40.0,2020-05-01,2025-07-07,Terminated,FL
+BAY-10375,Bayside Mechanical,Customer Care,Customer Service Rep,,Regular,17.35,Hourly,40.0,2024-12-11,,Active,FL
+PIN-10119,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,,Regular,40.4,,,2022-02-05,,Active,TX
+BAY-10117,Bayside Mechanical,Install,Lead HVAC Installer,,,44.24,Hourly,40.0,2023-12-01,,Active,FL
+BAY-10062,Bayside Mechanical,Install,HVAC Installer II,,,29.0,Hourly,40.0,2023-07-12,,Active,FL
+PIN-10380,Pinnacle Plumbing & Drain,Call Center,Customer Care Manager,,Regular,83500.0,,,2022-05-17,,Active,TX
+NHS-10053,Northstar Corporate,Marketing,Marketing Coordinator,,Regular,53500.0,Annual,40.0,2021-05-25,,Active,FL
+GLC-10051,Great Lakes Comfort Systems,Install,Installer,L2,Regular,28.69,Hourly,40.0,2023-04-22,,Active,MI
+BAY-90064,Bayside Mechanical,Install,HVAC Installer II,,,26.16,Hourly,40.0,2017-12-08,2025-12-13,Terminated,FL
+BAY-10477,Bayside Mechanical,HR,Recruiter,,Regular,62500.0,Annual,40.0,2017-12-02,,Active,FL
+BAY-10312,Bayside Mechanical,Service,Service Supervisor,,Regular,81000.0,Annual,40.0,2023-02-23,,Active,FL
+BAY-10006,Bayside Mechanical,Install,HVAC Installer I,,Regular,18.52,Hourly,40.0,2021-06-14,,Active,FL
+GLC-10099,Great Lakes Comfort Systems,Install,Installer,L3,,43.97,Hourly,40.0,2024-01-18,,Active,MI
+GLC-10157,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,FT,29.37,Hourly,40.0,2025-03-10,,Active,MI
+PIN-10394,Pinnacle Plumbing & Drain,Fleet,Parts Coordinator,,,22.67,,,2024-07-27,,Active,TX
+RED-10103,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),,Full-Time,18.18,Hourly,,2015-06-18,,Active,AZ
+RED-10042,Redwood Electric,Installation,Electrical Installer (Lvl 2),,FT,29.99,Hourly,,2013-06-29,,Active,AZ
+GLC-10015,Great Lakes Comfort Systems,Install,Installer,L1,,19.33,Hourly,40.0,2025-08-11,,Active,MI
+GLC-90010,Great Lakes Comfort Systems,Warehouse,Warehouse Associate,L1,Regular,19.21,Hourly,20.0,2019-03-30,2026-08-14,Terminated,MI
+PIN-10064,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Regular,29.56,,,2024-02-07,,Active,TX
+BAY-10219,Bayside Mechanical,Service,HVAC Service Tech II,,Full-Time,27.02,Hourly,40.0,2024-12-11,,Active,FL
+PIN-10208,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,Full-Time,24.95,,,2017-12-01,,Active,TX
+PIN-10258,Pinnacle Plumbing & Drain,Field,Plumber - Master,,FT,35.98,,,2019-11-01,,Active,TX
+BAY-10424,Bayside Mechanical,Customer Care,Dispatcher,,FT,19.69,Hourly,40.0,2024-05-01,,Active,FL
+PIN-10172,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,FT,32.27,,,2020-11-26,,Active,TX
+BAY-10242,Bayside Mechanical,Service,HVAC Service Tech II,,Full-Time,32.84,Hourly,40.0,2018-02-06,,Active,FL
+BAY-10141,Bayside Mechanical,Service,HVAC Service Tech I,,,17.82,Hourly,40.0,2023-06-11,,Active,FL
+BAY-10078,Bayside Mechanical,Install,HVAC Installer II,,Regular,25.18,Hourly,40.0,2023-10-29,,Active,FL
+BAY-10390,Bayside Mechanical,Customer Care,Customer Service Rep,,Regular,17.95,Hourly,25.0,2026-05-09,,Active,FL
+BAY-10481,Bayside Mechanical,Install,HVAC Installer I,,Full-Time,18.5,Hourly,40.0,2026-07-07,,Active,FL
+GLC-10331,Great Lakes Comfort Systems,Customer Care,Dispatcher,L2,,23.92,Hourly,40.0,2023-04-03,,Active,MI
+GLC-10142,Great Lakes Comfort Systems,Service - HVAC,Technician,L1,Regular,21.22,Hourly,40.0,2025-02-19,,Active,MI
+NHS-10066,Northstar Corporate,Executive & Corporate,Operations Analyst,,FT,74000.0,Annual,40.0,2020-12-07,,Active,FL
+PIN-10313,Pinnacle Plumbing & Drain,Sales,Inside Sales Representative,,Regular,18.89,,,2020-07-18,,Active,TX
+PIN-10107,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,,Regular,41.75,,,2018-11-26,,Active,TX
+GLC-10350,Great Lakes Comfort Systems,Warehouse,Warehouse Associate,L1,FT,20.57,Hourly,20.0,2011-06-30,,Active,MI
+GLC-10033,Great Lakes Comfort Systems,Install,Installer,L2,FT,23.83,Hourly,40.0,2014-08-26,,Active,MI
+BAY-10348,Bayside Mechanical,Sales,Comfort Advisor,,,49500.0,Annual,40.0,2025-11-01,,Active,FL
+PIN-10276,Pinnacle Plumbing & Drain,Field,Field Supervisor,,Regular,76500.0,,,2025-11-28,,Active,TX
+BAY-10330,Bayside Mechanical,Sales,Comfort Advisor,,FT,54000.0,Annual,40.0,2022-05-15,,Active,FL
+BAY-10438,Bayside Mechanical,Warehouse,Warehouse Associate,,Full-Time,19.52,Hourly,40.0,2026-04-21,,Active,FL
+PIN-10302,Pinnacle Plumbing & Drain,Sales,Sales Consultant,,Full-Time,47000.0,,,2022-04-23,,Active,TX
+BAY-10198,Bayside Mechanical,Service,HVAC Service Tech II,,Regular,27.44,Hourly,40.0,2023-06-01,,Active,FL
+RED-10133,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,Regular,31.1,Hourly,,2024-02-27,,Active,AZ
+BAY-10059,Bayside Mechanical,Install,HVAC Installer II,,FT,24.39,Hourly,40.0,2025-12-26,,Active,FL
+BAY-10065,Bayside Mechanical,Install,HVAC Installer II,,Regular,27.98,Hourly,40.0,2026-03-07,,Active,FL
+PIN-10122,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,,Full-Time,43.7,,,2023-05-09,,Active,TX
+RED-10016,Redwood Electric,Installation,Apprentice Electrician (Lvl 1),,,20.44,Hourly,,2025-08-27,,Active,AZ
+PIN-10357,Pinnacle Plumbing & Drain,Call Center,CSR,,Regular,19.77,,,2020-10-05,,Active,TX
+PIN-10315,Pinnacle Plumbing & Drain,Sales,Inside Sales Representative,,,18.9,,,2019-12-23,,Active,TX
+PIN-10124,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,,,40.06,,,2025-01-30,,Active,TX
+RED-10060,Redwood Electric,Installation,Electrical Installer (Lvl 2),,Regular,26.08,Hourly,,2024-12-02,,Active,AZ
+PIN-10308,Pinnacle Plumbing & Drain,Sales,Senior Sales Consultant,,FT,50500.0,,,2023-07-16,,Active,TX
+PIN-10187,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,Full-Time,25.6,,,2025-03-22,,Active,TX
+PIN-10147,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,,Full-Time,20.57,,,2026-03-03,,Active,TX
+BAY-10045,Bayside Mechanical,Install,HVAC Installer II,,Regular,24.73,Hourly,40.0,2021-04-05,,Active,FL
+GLC-10064,Great Lakes Comfort Systems,Install,Installer,L2,Regular,,Hourly,40.0,2014-08-21,,Active,MI
+PIN-10146,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,,Full-Time,19.78,,,2024-07-31,,Active,TX
+RED-10139,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,,28.59,Hourly,,2025-04-26,,Active,AZ
+NHS-10058,Northstar Corporate,Marketing,Digital Marketing Specialist,,,64500.0,Annual,40.0,2022-10-01,,Active,FL
+BAY-10189,Bayside Mechanical,Service,HVAC Service Tech II,,FT,30.53,Hourly,40.0,2025-11-29,,Active,FL
+PIN-10024,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,,Full-Time,21.61,,,2023-09-23,,Active,TX
+BAY-10324,Bayside Mechanical,Service,Service Manager,,Full-Time,98000.0,Annual,40.0,2025-06-23,,Active,FL
+PIN-90062,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,,,20.61,,,2019-03-01,2026-06-05,Terminated,TX
+GLC-10197,Great Lakes Comfort Systems,Service - Plumbing,Technician,L2,Regular,30.83,Hourly,40.0,2023-08-09,,Active,MI
+RED-10225,Redwood Electric,CSR,Cust Svc Rep,,Full-Time,17.13,Hourly,,2016-05-21,,Active,AZ
+PIN-10363,Pinnacle Plumbing & Drain,Call Center,CSR,,Regular,16.25,,,2025-02-10,,Active,TX
+PIN-10248,Pinnacle Plumbing & Drain,Field,Plumber - Master,,Regular,41.72,,,2025-03-21,,Active,TX
+RED-10092,Redwood Electric,Installation,Install Manager,,Full-Time,80500.0,Annual,,2016-01-23,,Active,AZ
+RED-10206,Redwood Electric,Sales,Home Solutions Consultant,,Regular,42500.0,Annual,,2023-08-26,,Active,AZ
+BAY-90011,Bayside Mechanical,Sales,Comfort Advisor,,,49500.0,Annual,40.0,2021-05-20,,Terminated,FL
+NHS-10036,Northstar Corporate,IT,Systems Administrator,,Full-Time,88500.0,Annual,40.0,2024-08-14,,Active,FL
+RED-10269,Redwood Electric,Finance,AP/AR Specialist,,Full-Time,24.74,Hourly,,2025-04-25,,Active,AZ
+PIN-10404,Pinnacle Plumbing & Drain,Fleet,Fleet Coordinator,,,57500.0,,,2025-09-24,,Active,TX
+GLC-10227,Great Lakes Comfort Systems,Service - Plumbing,Technician,L3,Regular,42.23,Hourly,40.0,2021-10-02,,Active,MI
+PIN-10219,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,Regular,26.08,,,2013-04-29,,Active,TX
+RED-10279,Redwood Electric,HR,HR Coordinator,,Regular,45500.0,Annual,,2025-12-27,,Active,AZ
+GLC-10362,Great Lakes Comfort Systems,Warehouse,Warehouse Associate,L1,Regular,18.26,Hourly,40.0,2021-09-14,,Active,MI
+BAY-10027,Bayside Mechanical,Install,HVAC Installer I,,Regular,18.13,Hourly,40.0,2025-01-20,,Active,FL
+PIN-10212,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,Regular,33.82,,,2022-06-26,,Active,TX
+RED-10274,Redwood Electric,Finance,Staff Accountant,,Regular,64500.0,Annual,,2026-02-23,,Active,AZ
+RED-10185,Redwood Electric,Field Ops - Service,Electrician (Lvl 3),,Full-Time,34.94,Hourly,,2024-12-15,,Active,AZ
+BAY-10455,Bayside Mechanical,Warehouse,Fleet Coordinator,,,52000.0,Annual,40.0,2024-12-05,,Active,FL
+GLC-10079,Great Lakes Comfort Systems,Install,Installer,L2,FT,24.16,Hourly,40.0,2024-12-10,,Active,MI
+GLC-10060,Great Lakes Comfort Systems,Install,Installer,L2,Full-Time,26.05,Hourly,40.0,2023-03-10,,Active,MI
+BAY-10359,Bayside Mechanical,Sales,Sr Comfort Advisor,,FT,62000.0,Annual,40.0,2024-08-16,,Active,FL
+PIN-10047,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Regular,29.54,,,2024-01-19,,Active,TX
+PIN-10345,Pinnacle Plumbing & Drain,Call Center,CSR,,Regular,17.92,,,2023-08-18,,Active,TX
+BAY-10355,Bayside Mechanical,Sales,Comfort Advisor,,Regular,49000.0,Annual,40.0,2020-07-19,,Active,FL
+PIN-10411,Pinnacle Plumbing & Drain,Acctg,AP/AR Specialist,,Regular,22.28,,,2024-09-06,,Active,TX
+NHS-10068,Northstar Corporate,Executive & Corporate,Operations Analyst,,Regular,77000.0,Annual,40.0,2017-06-01,,Active,FL
+GLC-10363,Great Lakes Comfort Systems,Warehouse,Parts Coordinator,L2,Full-Time,22.67,Hourly,40.0,2023-05-12,,Active,MI
+BAY-10140,Bayside Mechanical,Service,HVAC Service Tech I,,Full-Time,17.49,Hourly,40.0,2026-01-06,,Active,FL
+PIN-10218,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,,30.32,,,2025-01-17,,Active,TX
+GLC-10002,Great Lakes Comfort Systems,Install,Installer,L1,,21.1,Hourly,40.0,2025-05-06,,Active,MI
+BAY-10091,Bayside Mechanical,Install,HVAC Installer II,,,28.71,Hourly,40.0,2021-12-24,,Active,FL
+PIN-10142,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,,,20.61,,,2023-04-02,,Active,TX
+RED-90009,Redwood Electric,CSR,Cust Svc Rep,,Regular,20.5,Hourly,,2007-10-14,2026-03-20,Terminated,AZ
+BAY-10361,Bayside Mechanical,Sales,Sr Comfort Advisor,,Regular,57500.0,Annual,40.0,2021-09-29,,Active,FL
+BAY-10458,Bayside Mechanical,Finance,AP/AR Specialist,,FT,23.16,Hourly,40.0,2025-10-18,,Active,FL
+BAY-90021,Bayside Mechanical,Service,HVAC Service Tech II,,Full-Time,26.51,Hourly,40.0,2016-06-27,2026-01-04,Terminated,FL
+BAY-10158,Bayside Mechanical,Service,HVAC Service Tech I,,,19.57,Hourly,40.0,2025-05-27,,Active,FL
+BAY-10277,Bayside Mechanical,Service,HVAC Service Tech II,,Regular,32.31,Hourly,40.0,2021-03-16,,Active,FL
+RED-10098,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),,Regular,21.69,Hourly,,2025-06-13,,Active,AZ
+BAY-10231,Bayside Mechanical,Service,HVAC Service Tech II,,Regular,24.42,Hourly,40.0,2021-04-19,,Active,FL
+PIN-10100,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Regular,25.82,,,2016-10-27,,Active,TX
+GLC-10110,Great Lakes Comfort Systems,Install,Install Manager,L4,Regular,81000.0,Annual,40.0,2024-05-11,,Active,MI
+BAY-90075,Bayside Mechanical,Install,HVAC Installer I,,FT,19.94,Hourly,40.0,2021-05-06,2026-06-18,Terminated,FL
+PIN-10159,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,,Regular,21.13,,,2025-10-13,,Active,TX
+RED-10102,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),,,21.71,Hourly,,2012-12-08,,Active,AZ
+BAY-10206,Bayside Mechanical,Service,HVAC Service Tech II,,Regular,31.71,Hourly,40.0,2020-07-20,,Active,FL
+RED-10063,Redwood Electric,Installation,Electrical Installer (Lvl 2),,Regular,24.93,Hourly,,2024-04-27,,Active,AZ
+GLC-10101,Great Lakes Comfort Systems,Install,Installer,L3,Regular,41.51,Hourly,40.0,2017-05-05,,Active,MI
+BAY-90041,Bayside Mechanical,HR,HR Coordinator,,Regular,50500.0,Annual,40.0,2019-02-24,2025-08-31,Terminated,FL
+RED-10250,Redwood Electric,CSR,Dispatcher,,Regular,19.14,Hourly,,2025-09-30,,Active,AZ
+BAY-10232,Bayside Mechanical,Service,HVAC Service Tech II,,Regular,32.55,Hourly,40.0,2025-08-01,,Active,FL
+GLC-10219,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,Regular,25.94,Hourly,40.0,2025-06-28,,Active,MI
+PIN-10346,Pinnacle Plumbing & Drain,Call Center,CSR,,Regular,17.88,,,2025-02-02,,Active,TX
+BAY-C334,Bayside Mechanical,Warehouse,Temp Warehouse Associate,,Temp,17.52,Hourly,40.0,2024-10-18,,Active,FL
+PIN-10321,Pinnacle Plumbing & Drain,Sales,Sales Manager,,Regular,105500.0,,,2025-11-30,,Active,TX
+GLC-10158,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,Regular,27.83,Hourly,40.0,2019-03-31,,Active,MI
+NHS-10017,Northstar Corporate,HR,HR Business Partner,,,97000.0,Annual,40.0,2025-08-14,,Active,FL
+GLC-10163,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,,28.93,Hourly,40.0,2023-06-01,,Active,MI
+GLC-10340,Great Lakes Comfort Systems,Customer Care,Call Center Supervisor,L3,,56500.0,Annual,40.0,2025-03-28,,Active,MI
+RED-10202,Redwood Electric,Field Ops - Service,Service Manager,,FT,91000.0,Annual,,2019-08-12,,Active,AZ
+NHS-10009,Northstar Corporate,Finance & Accounting,FP&A Analyst,,Full-Time,92500.0,Annual,40.0,2025-01-14,,Active,FL
+BAY-10328,Bayside Mechanical,Sales,Comfort Advisor,,Regular,48000.0,Annual,40.0,2021-10-10,,Active,FL
+GLC-10311,Great Lakes Comfort Systems,Customer Care,Customer Service Representative,L1,Regular,18.43,Hourly,29.0,2022-09-15,,Active,MI
+PIN-10379,Pinnacle Plumbing & Drain,Call Center,Customer Care Manager,,FT,72000.0,,,2025-08-14,,Active,TX
+GLC-10329,Great Lakes Comfort Systems,Customer Care,Dispatcher,L2,Regular,20.99,Hourly,40.0,2023-11-20,,Active,MI
+RED-10010,Redwood Electric,Installation,Apprentice Electrician (Lvl 1),,Regular,17.54,Hourly,,2026-02-06,,Active,AZ
+GLC-10133,Great Lakes Comfort Systems,Service - HVAC,Technician,L1,Regular,18.61,Hourly,40.0,2023-09-11,,Active,MI
+BAY-10169,Bayside Mechanical,Service,HVAC Service Tech I,,Regular,18.51,Hourly,40.0,2023-10-01,,Active,FL
+PIN-10237,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,Regular,27.85,,,2025-01-20,,Active,TX
+GLC-10358,Great Lakes Comfort Systems,Warehouse,Warehouse Associate,L1,FT,18.78,Hourly,25.0,2011-06-30,,Active,MI
+RED-10017,Redwood Electric,Installation,Apprentice Electrician (Lvl 1),,FT,18.37,Hourly,,2020-07-07,,Active,AZ
+BAY-10085,Bayside Mechanical,Install,HVAC Installer II,,FT,29.22,Hourly,40.0,2025-01-08,,Active,FL
+BAY-10246,Bayside Mechanical,Service,HVAC Service Tech II,,Regular,31.38,Hourly,40.0,2023-09-23,,Active,FL
+GLC-90086,Great Lakes Comfort Systems,Service - HVAC,Service Manager,L5,FT,94500.0,Annual,40.0,2019-11-28,2025-12-14,Terminated,MI
+GLC-10275,Great Lakes Comfort Systems,Sales,Comfort Advisor,L2,Full-Time,42500.0,Annual,40.0,2023-07-27,,Active,MI
+BAY-10211,Bayside Mechanical,Service,HVAC Service Tech II,,,33.12,Hourly,40.0,2017-06-02,,Active,FL
+BAY-10070,Bayside Mechanical,Install,HVAC Installer II,,Full-Time,28.52,Hourly,40.0,2024-07-20,,Active,FL
+RED-10007,Redwood Electric,Installation,Apprentice Electrician (Lvl 1),,,17.38,Hourly,,2020-02-16,,Active,AZ
+PIN-10310,Pinnacle Plumbing & Drain,Sales,Senior Sales Consultant,,,56500.0,,,2021-06-19,,Active,TX
+GLC-10334,Great Lakes Comfort Systems,Customer Care,Dispatcher,L2,Full-Time,23.43,Hourly,20.0,2021-09-02,,Active,MI
+PIN-10021,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,,Regular,20.18,,,2024-08-15,,Active,TX
+GLC-10139,Great Lakes Comfort Systems,Service - Plumbing,Technician,L1,Regular,18.89,Hourly,40.0,2026-06-13,,Active,MI
+PIN-10295,Pinnacle Plumbing & Drain,Sales,Sales Consultant,,FT,51500.0,,,2025-03-24,,Active,TX
+BAY-10050,Bayside Mechanical,Install,HVAC Installer II,,,27.25,Hourly,40.0,2024-12-22,,Active,FL
+BAY-10107,Bayside Mechanical,Install,HVAC Installer II,,Full-Time,24.83,Hourly,40.0,2020-12-16,,Active,FL
+PIN-10182,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,,26.77,,,2022-07-24,,Active,TX
+NHS-10054,Northstar Corporate,Marketing,Marketing Coordinator,,,51000.0,Annual,40.0,2018-11-03,,Active,FL
+GLC-10232,Great Lakes Comfort Systems,Service - HVAC,Technician,L3,,42.19,Hourly,40.0,2021-02-12,,Active,MI
+BAY-10299,Bayside Mechanical,Service,HVAC Service Tech III,,,37.52,Hourly,40.0,2024-11-25,,Active,FL
+GLC-10251,Great Lakes Comfort Systems,Service - HVAC,Technician,L3,Regular,42.18,Hourly,40.0,2023-12-19,,Active,MI
+GLC-10289,Great Lakes Comfort Systems,Sales,Senior Comfort Advisor,L3,FT,60500.0,Annual,40.0,2023-02-11,,Active,MI
+PIN-10326,Pinnacle Plumbing & Drain,Call Center,CSR,,Full-Time,18.27,,,2025-02-26,,Active,TX
+BAY-10403,Bayside Mechanical,Customer Care,Customer Service Rep,,Regular,19.84,Hourly,29.0,2019-10-05,,Active,FL
+BAY-10344,Bayside Mechanical,Sales,Comfort Advisor,,Full-Time,45500.0,Annual,40.0,2025-11-10,,Active,FL
+BAY-10379,Bayside Mechanical,Customer Care,Customer Service Rep,,FT,18.3,Hourly,40.0,2025-01-01,,Active,FL
+RED-10104,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),,Regular,,Hourly,,2026-03-24,,Active,AZ
+BAY-10402,Bayside Mechanical,Customer Care,Customer Service Rep,,,18.12,Hourly,25.0,2014-07-11,,Active,FL
+BAY-10454,Bayside Mechanical,Warehouse,Fleet Coordinator,,Regular,52000.0,Annual,40.0,2022-10-09,,Active,FL
+BAY-10306,Bayside Mechanical,Service,HVAC Service Tech III,,Regular,34.96,Hourly,40.0,2023-01-31,,Active,FL
+BAY-10322,Bayside Mechanical,Service,Service Manager,,Regular,97500.0,Annual,40.0,2015-12-10,,Active,FL
+PIN-90047,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Full-Time,22.54,,,2022-01-22,2026-05-10,Terminated,TX
+RED-10129,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,,32.57,Hourly,,2026-03-27,,Active,AZ
+BAY-10029,Bayside Mechanical,Install,HVAC Installer I,,FT,19.09,Hourly,40.0,2023-08-16,,Active,FL
+BAY-10362,Bayside Mechanical,Sales,Sr Comfort Advisor,,Full-Time,54500.0,Annual,40.0,2021-11-18,,Active,FL
+BAY-10340,Bayside Mechanical,Sales,Comfort Advisor,,,46500.0,Annual,40.0,2025-11-19,,Active,FL
+GLC-10172,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,,32.61,Hourly,40.0,2025-07-18,,Active,MI
+PIN-10088,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Regular,25.41,,,2025-10-10,,Active,TX
+BAY-10148,Bayside Mechanical,Service,HVAC Service Tech I,,Regular,19.79,Hourly,40.0,2022-03-04,,Active,FL
+PIN-C303,Pinnacle Plumbing & Drain,Field,Contract HVAC Technician,,1099,41.52,,,2025-12-01,,Active,TX
+BAY-10318,Bayside Mechanical,Service,Service Supervisor,,Regular,76500.0,Annual,40.0,2024-07-23,,Active,FL
+RED-90033,Redwood Electric,Sales,Home Solutions Consultant,,Full-Time,42500.0,Annual,,2016-02-24,2026-05-05,Terminated,AZ
+RED-10285,Redwood Electric,Executive,General Manager,,Regular,176500.0,Annual,,2024-09-28,,Active,AZ
+PIN-90092,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,,22.61,,,2022-11-17,2025-12-06,Terminated,TX
+PIN-10225,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,Full-Time,33.85,,,2023-04-27,,Active,TX
+RED-10193,Redwood Electric,Field Ops - Service,Field Supervisor,,FT,79000.0,Annual,,2020-02-13,,Active,AZ
+GLC-10074,Great Lakes Comfort Systems,Install,Installer,L2,Full-Time,26.5,Hourly,40.0,2023-05-01,,Active,MI
+GLC-10312,Great Lakes Comfort Systems,Customer Care,Customer Service Representative,L1,Regular,17.85,Hourly,40.0,2024-08-14,,Active,MI
+RED-10127,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,Full-Time,24.98,Hourly,,2020-12-23,,Active,AZ
+PIN-90049,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,FT,26.7,,,2018-12-04,2026-06-30,Terminated,TX
+RED-10262,Redwood Electric,Parts & Fleet,Parts Coordinator,,,25.22,Hourly,,2023-09-30,,Active,AZ
+RED-10204,Redwood Electric,Sales,Home Solutions Consultant,,Regular,49000.0,Annual,,2022-03-12,,Active,AZ
+PIN-10264,Pinnacle Plumbing & Drain,Field,Plumber - Master,,FT,34.28,,,2021-02-21,,Active,TX
+RED-10199,Redwood Electric,Field Ops - Service,Service Manager,,FT,94500.0,Annual,,2023-02-27,,Active,AZ
+PIN-10036,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Regular,23.78,,,2024-11-11,,Active,TX
+BAY-90024,Bayside Mechanical,Service,Service Supervisor,,Full-Time,77000.0,Annual,40.0,2023-03-28,2026-01-29,Terminated,FL
+BAY-10388,Bayside Mechanical,Customer Care,Customer Service Rep,,,18.1,Hourly,40.0,2022-05-20,,Active,FL
+RED-C322,Redwood Electric,Installation,Contract Installer,,Contractor,41.53,Hourly,,2026-01-26,,Active,AZ
+RED-10286,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),,FT,18.5,Hourly,,2026-08-10,,Active,AZ
+RED-10122,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,Regular,30.57,Hourly,,2022-11-09,,Active,AZ
+BAY-10289,Bayside Mechanical,Service,HVAC Service Tech III,,,36.02,Hourly,40.0,2026-04-28,,Active,FL
+GLC-10319,Great Lakes Comfort Systems,Customer Care,Customer Service Representative,L1,Regular,19.3,Hourly,40.0,2024-04-24,,Active,MI
+PIN-10084,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Regular,24.77,,,2021-01-27,,Active,TX
+RED-10070,Redwood Electric,Installation,Electrical Installer (Lvl 2),,Regular,24.32,Hourly,,2024-10-07,,Active,AZ
+PIN-90058,Pinnacle Plumbing & Drain,Fleet,Parts Coordinator,,,25.56,,,2018-10-06,2026-07-28,Terminated,TX
+BAY-10007,Bayside Mechanical,Install,HVAC Installer I,,FT,17.45,Hourly,40.0,2018-09-20,,Active,FL
+RED-90082,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,Full-Time,31.73,Hourly,,2020-04-06,2025-12-25,Terminated,AZ
+BAY-10310,Bayside Mechanical,Service,HVAC Service Tech III,,FT,36.63,Hourly,40.0,2023-06-16,,Active,FL
+GLC-10324,Great Lakes Comfort Systems,Customer Care,Dispatcher,L2,FT,23.75,Hourly,40.0,2025-08-04,,Active,MI
+RED-10157,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,FT,29.68,Hourly,,2025-02-01,,Active,AZ
+GLC-10028,Great Lakes Comfort Systems,Install,Installer,L1,Regular,18.45,Hourly,40.0,2023-10-06,,Active,MI
+BAY-10266,Bayside Mechanical,Service,HVAC Service Tech II,,Regular,33.74,Hourly,40.0,2023-05-11,,Active,FL
+GLC-10303,Great Lakes Comfort Systems,Customer Care,Customer Service Representative,L1,,18.84,Hourly,28.0,2016-11-04,,Active,MI
+PIN-10154,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,,Full-Time,21.68,,,2026-02-23,,Active,TX
+BAY-10395,Bayside Mechanical,Customer Care,Customer Service Rep,,FT,16.59,Hourly,40.0,2021-12-22,,Active,FL
+GLC-10278,Great Lakes Comfort Systems,Sales,Comfort Advisor,L2,Regular,54000.0,Annual,40.0,2024-01-13,,Active,MI
+BAY-10160,Bayside Mechanical,Service,HVAC Service Tech I,,,19.2,Hourly,40.0,2021-12-04,,Active,FL
+PIN-10153,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,,Regular,20.05,,,2025-07-17,,Active,TX
+BAY-C319,Bayside Mechanical,Install,Contract Installer,,Contractor,44.15,Hourly,40.0,2025-12-25,,Active,FL
+GLC-10236,Great Lakes Comfort Systems,Service - Plumbing,Technician,L3,Full-Time,34.53,Hourly,40.0,2018-07-13,,Active,MI
+PIN-10377,Pinnacle Plumbing & Drain,Call Center,Call Center Supervisor,,Regular,60500.0,,,2021-09-25,,Active,TX
+GLC-10050,Great Lakes Comfort Systems,Install,Installer,L2,FT,26.2,Hourly,40.0,2020-03-13,,Active,MI
+PIN-10028,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,,Full-Time,21.27,,,2025-02-20,,Active,TX
+GLC-10287,Great Lakes Comfort Systems,Sales,Comfort Advisor,L2,Regular,45000.0,Annual,40.0,2024-12-30,,Active,MI
+BAY-10220,Bayside Mechanical,Service,HVAC Service Tech II,,FT,25.01,Hourly,40.0,2021-06-05,,Active,FL
+NHS-10029,Northstar Corporate,IT,Help Desk Technician,,Full-Time,24.6,Hourly,40.0,2024-08-02,,Active,FL
+GLC-10322,Great Lakes Comfort Systems,Customer Care,Customer Service Representative,L1,Full-Time,17.67,Hourly,40.0,2022-11-21,,Active,MI
+GLC-10025,Great Lakes Comfort Systems,Install,Installer,L1,Regular,17.92,Hourly,40.0,2014-06-09,,Active,MI
+PIN-10163,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,,29.36,,,2022-08-31,,Active,TX
+BAY-10276,Bayside Mechanical,Service,HVAC Service Tech II,,FT,28.43,Hourly,40.0,2024-08-10,,Active,FL
+GLC-10048,Great Lakes Comfort Systems,Install,Installer,L2,FT,28.46,Hourly,40.0,2023-11-18,,Active,MI
+GLC-10190,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,FT,33.9,Hourly,40.0,2025-07-09,,Active,MI
+GLC-10248,Great Lakes Comfort Systems,Service - Plumbing,Technician,L3,Full-Time,34.84,Hourly,40.0,2024-04-08,,Active,MI
+GLC-10098,Great Lakes Comfort Systems,Install,Installer,L3,Regular,42.1,Hourly,40.0,2025-11-22,,Active,MI
+GLC-10270,Great Lakes Comfort Systems,Sales,Comfort Advisor,L2,Regular,50500.0,Annual,40.0,2023-07-29,,Active,MI
+RED-10008,Redwood Electric,Installation,Apprentice Electrician (Lvl 1),,Regular,19.55,Hourly,,2022-07-21,,Active,AZ
+NHS-10027,Northstar Corporate,IT,Help Desk Technician,,,26.86,Hourly,40.0,2023-08-26,,Active,FL
+BAY-10122,Bayside Mechanical,Install,Lead HVAC Installer,,Full-Time,42.36,Hourly,40.0,2025-03-27,,Active,FL
+GLC-10390,Great Lakes Comfort Systems,Executive,General Manager,L4,Regular,162500.0,Annual,40.0,2025-11-25,,Active,MI
+GLC-10120,Great Lakes Comfort Systems,Service - HVAC,Technician,L1,Regular,21.86,Hourly,40.0,2019-12-10,,Active,MI
+PIN-10420,Pinnacle Plumbing & Drain,Acctg,Controller,,,120000.0,,,2024-10-04,,Active,TX
+PIN-10283,Pinnacle Plumbing & Drain,Field,Service Manager,,,99000.0,,,2022-01-17,,Active,TX
+GLC-10082,Great Lakes Comfort Systems,Install,Installer,L2,FT,28.69,Hourly,40.0,2022-03-24,,Active,MI
+BAY-10131,Bayside Mechanical,Install,Install Mgr,,Regular,78000.0,Annual,40.0,2025-01-28,,Active,FL
+BAY-10271,Bayside Mechanical,Service,HVAC Service Tech II,,Regular,29.45,Hourly,40.0,2024-10-21,,Active,FL
+GLC-10209,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,Full-Time,26.18,Hourly,40.0,2023-02-26,,Active,MI
+GLC-10380,Great Lakes Comfort Systems,Finance,Staff Accountant,L2,Full-Time,66500.0,Annual,40.0,2025-04-14,,Active,MI
+GLC-10092,Great Lakes Comfort Systems,Install,Installer,L3,,43.77,Hourly,40.0,2024-04-05,,Active,MI
+BAY-10192,Bayside Mechanical,Service,HVAC Service Tech II,,Full-Time,33.16,Hourly,40.0,2022-07-08,,Active,FL
+BAY-10025,Bayside Mechanical,Install,HVAC Installer I,,Regular,18.98,Hourly,40.0,2019-11-19,,Active,FL
+GLC-10021,Great Lakes Comfort Systems,Install,Installer,L1,Regular,20.22,Hourly,40.0,2020-07-01,,Active,MI
+GLC-10225,Great Lakes Comfort Systems,Service - HVAC,Technician,L3,Full-Time,42.83,Hourly,40.0,2022-03-19,,Active,MI
+BAY-90014,Bayside Mechanical,Warehouse,Warehouse Associate,,Regular,16.53,Hourly,40.0,2022-12-22,,Terminated,FL
+GLC-10150,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,Full-Time,26.46,Hourly,40.0,2024-04-30,,Active,MI
+BAY-10314,Bayside Mechanical,Service,Service Supervisor,,Regular,82000.0,Annual,40.0,2025-02-19,,Active,FL
+GLC-10229,Great Lakes Comfort Systems,Service - HVAC,Technician,L3,Full-Time,38.33,Hourly,40.0,2022-10-18,,Active,MI
+GLC-90000,Great Lakes Comfort Systems,Service - Plumbing,Field Supervisor,L4,,77000.0,Annual,40.0,2012-12-05,2026-01-17,Terminated,MI
+PIN-10269,Pinnacle Plumbing & Drain,Field,Plumber - Master,,FT,42.64,,,2023-09-12,,Active,TX
+BAY-10152,Bayside Mechanical,Service,HVAC Service Tech I,,Full-Time,20.47,Hourly,40.0,2025-02-04,,Active,FL
+GLC-10206,Great Lakes Comfort Systems,Service - Plumbing,Technician,L2,Regular,25.5,Hourly,40.0,2018-09-25,,Active,MI
+BAY-10474,Bayside Mechanical,HR,HR Coordinator,,,46000.0,Annual,40.0,2025-04-17,,Active,FL
+NHS-10046,Northstar Corporate,IT,Business Systems Analyst,,,91000.0,Annual,40.0,2025-04-28,,Active,FL
+GLC-10366,Great Lakes Comfort Systems,Warehouse,Parts Coordinator,L2,Regular,25.32,Hourly,40.0,2020-12-03,,Active,MI
+BAY-10331,Bayside Mechanical,Sales,Comfort Advisor,,Full-Time,42500.0,Annual,40.0,2023-04-16,,Active,FL
+RED-10094,Redwood Electric,Installation,Install Manager,,,83000.0,Annual,,2022-07-22,,Active,AZ
+RED-10224,Redwood Electric,CSR,Cust Svc Rep,,Full-Time,19.53,Hourly,,2015-01-03,,Active,AZ
+BAY-10250,Bayside Mechanical,Service,HVAC Service Tech II,,Full-Time,26.99,Hourly,40.0,2016-10-11,,Active,FL
+BAY-10413,Bayside Mechanical,Customer Care,Dispatcher,,FT,19.82,Hourly,24.0,2020-03-04,,Active,FL
+BAY-10351,Bayside Mechanical,Sales,Comfort Advisor,,,43500.0,Annual,40.0,2024-01-11,,Active,FL
+PIN-10414,Pinnacle Plumbing & Drain,Acctg,Payroll Specialist,,Full-Time,56500.0,,,2022-10-29,,Active,TX
+PIN-10162,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,,,19.63,,,2021-11-03,,Active,TX
+PIN-10256,Pinnacle Plumbing & Drain,Field,Plumber - Master,,Full-Time,41.75,,,2022-04-08,,Active,TX
+RED-10106,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),,Regular,19.29,Hourly,,2024-08-18,,Active,AZ
+PIN-10183,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,,28.29,,,2022-12-19,,Active,TX
+BAY-10128,Bayside Mechanical,Install,Lead HVAC Installer,,Regular,42.63,Hourly,40.0,2023-08-24,,Active,FL
+PIN-10272,Pinnacle Plumbing & Drain,Field,Plumber - Master,,Regular,42.08,,,2021-06-25,,Active,TX
+PIN-10156,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,,Regular,20.48,,,2023-06-14,,Active,TX
+GLC-10162,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,FT,31.79,Hourly,40.0,2019-04-29,,Active,MI
+BAY-10073,Bayside Mechanical,Install,HVAC Installer II,,Regular,29.65,Hourly,40.0,2025-05-11,,Active,FL
+PIN-10337,Pinnacle Plumbing & Drain,Call Center,CSR,,Regular,18.67,,,2026-04-17,,Active,TX
+PIN-10293,Pinnacle Plumbing & Drain,Sales,Sales Consultant,,FT,51000.0,,,2025-10-21,,Active,TX
+BAY-10393,Bayside Mechanical,Customer Care,Customer Service Rep,,Regular,19.01,Hourly,29.0,2025-06-02,,Active,FL
+BAY-10373,Bayside Mechanical,Customer Care,Customer Service Rep,,,16.87,Hourly,40.0,2024-09-14,,Active,FL
+BAY-10096,Bayside Mechanical,Install,HVAC Installer II,,Full-Time,26.29,Hourly,40.0,2025-09-02,,Active,FL
+PIN-10180,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,Full-Time,28.17,,,2020-10-08,,Active,TX
+RED-10101,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),,FT,18.86,Hourly,,2021-07-31,,Active,AZ
+BAY-10111,Bayside Mechanical,Install,Lead HVAC Installer,,Regular,42.61,Hourly,40.0,2023-03-14,,Active,FL
+NHS-10077,Northstar Corporate,Executive & Corporate,Chief Operating Officer,,Regular,313500.0,Annual,40.0,2017-02-16,,Active,FL
+PIN-10376,Pinnacle Plumbing & Drain,Call Center,Call Center Supervisor,,Full-Time,56500.0,,,2018-12-12,,Active,TX
+RED-10072,Redwood Electric,Installation,Electrical Installer (Lvl 2),,Regular,28.14,Hourly,,2023-03-03,,Active,AZ
+GLC-10354,Great Lakes Comfort Systems,Warehouse,Warehouse Associate,L1,FT,19.69,Hourly,24.0,2019-03-06,,Active,MI
+GLC-10062,Great Lakes Comfort Systems,Install,Installer,L2,Full-Time,24.76,Hourly,40.0,2022-10-04,,Active,MI
+RED-10233,Redwood Electric,CSR,Cust Svc Rep,,Regular,19.34,Hourly,,2018-03-02,,Active,AZ
+RED-10015,Redwood Electric,Installation,Apprentice Electrician (Lvl 1),,Regular,18.34,Hourly,,2018-01-19,,Active,AZ
+BAY-10196,Bayside Mechanical,Service,HVAC Service Tech II,,FT,25.06,Hourly,40.0,2023-12-24,,Active,FL
+PIN-10063,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Regular,24.72,,,2025-02-28,,Active,TX
+RED-10164,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,FT,26.54,Hourly,,2024-11-15,,Active,AZ
+GLC-10121,Great Lakes Comfort Systems,Service - HVAC,Technician,L1,Full-Time,18.35,Hourly,40.0,2020-12-26,,Active,MI
+RED-10245,Redwood Electric,CSR,Dispatcher,,FT,21.8,Hourly,,2021-09-11,,Active,AZ
+PIN-10117,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,,Full-Time,41.41,,,2023-11-14,,Active,TX
+PIN-10397,Pinnacle Plumbing & Drain,Fleet,Parts Coordinator,,Regular,23.29,,,2026-03-21,,Active,TX
+BAY-10377,Bayside Mechanical,Customer Care,Customer Service Rep,,Full-Time,17.74,Hourly,40.0,2021-06-17,,Active,FL
+PIN-10211,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,,25.9,,,2023-03-06,,Active,TX
+NHS-10050,Northstar Corporate,IT,IT Manager,,,118500.0,Annual,40.0,2024-01-14,,Active,FL
+BAY-10053,Bayside Mechanical,Install,HVAC Installer II,,,28.01,Hourly,40.0,2025-10-20,,Active,FL
+GLC-10097,Great Lakes Comfort Systems,Install,Installer,L3,Regular,44.36,Hourly,40.0,2020-06-24,,Active,MI
+RED-90057,Redwood Electric,Installation,Electrical Installer (Lvl 2),,Regular,26.11,Hourly,,2018-07-28,,Terminated,AZ
+BAY-10426,Bayside Mechanical,Customer Care,Call Center Supervisor,,,63500.0,Annual,40.0,2023-10-11,,Active,FL
+PIN-10123,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,,Regular,44.23,,,2023-12-19,,Active,TX
+BAY-C339,Bayside Mechanical,Customer Care,Temp CSR,,Temp,17.01,Hourly,40.0,2025-06-05,,Active,FL
+BAY-10181,Bayside Mechanical,Service,HVAC Service Tech II,,Full-Time,24.77,Hourly,40.0,2025-12-30,,Active,FL
+BAY-10254,Bayside Mechanical,Service,HVAC Service Tech II,,FT,27.95,Hourly,40.0,2022-06-26,,Active,FL
+GLC-10072,Great Lakes Comfort Systems,Install,Installer,L2,Regular,24.11,Hourly,40.0,2026-03-23,,Active,MI
+PIN-10301,Pinnacle Plumbing & Drain,Sales,Sales Consultant,,Regular,47000.0,,,2023-04-06,,Active,TX
+PIN-C321,Pinnacle Plumbing & Drain,Field,Contract Installer,,Contractor,38.56,,,2025-03-14,,Active,TX
+GLC-10027,Great Lakes Comfort Systems,Install,Installer,L1,Regular,19.6,Hourly,40.0,2020-08-01,,Active,MI
+PIN-10170,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,Regular,31.53,,,2024-01-23,,Active,TX
+PIN-10410,Pinnacle Plumbing & Drain,Acctg,AP/AR Specialist,,Regular,22.23,,,2024-01-16,,Active,TX
+BAY-10320,Bayside Mechanical,Service,Service Supervisor,,Full-Time,84000.0,Annual,40.0,2020-09-23,,Active,FL
+PIN-10325,Pinnacle Plumbing & Drain,Call Center,CSR,,Full-Time,17.48,,,2024-10-14,,Active,TX
+BAY-10364,Bayside Mechanical,Sales,Inside Sales Representative,,FT,21.57,Hourly,40.0,2025-11-22,,Active,FL
+NHS-10013,Northstar Corporate,HR,Recruiter,,Regular,64500.0,Annual,40.0,2021-10-06,,Active,FL
+RED-10189,Redwood Electric,Field Ops - Service,Electrician (Lvl 3),,Full-Time,40.45,Hourly,,2019-08-05,,Active,AZ
+RED-10155,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,FT,29.19,Hourly,,2017-04-16,,Active,AZ
+GLC-10348,Great Lakes Comfort Systems,Warehouse,Warehouse Associate,L1,Full-Time,19.63,Hourly,40.0,2022-10-18,,Active,MI
+PIN-10072,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,,23.8,,,2026-02-05,,Active,TX
+NHS-10079,Northstar Corporate,Marketing,Digital Marketing Specialist,,Regular,72000.0,Annual,40.0,2026-08-03,,Active,FL
+PIN-10141,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,,Full-Time,20.01,,,2025-12-11,,Active,TX
+BAY-10263,Bayside Mechanical,Service,HVAC Service Tech II,,Regular,27.81,Hourly,40.0,2023-03-31,,Active,FL
+GLC-10020,Great Lakes Comfort Systems,Install,Installer,L1,,17.07,Hourly,40.0,2021-03-11,,Active,MI
+RED-10234,Redwood Electric,CSR,Cust Svc Rep,,Regular,20.89,Hourly,,2025-09-15,,Active,AZ
+RED-10048,Redwood Electric,Installation,Electrical Installer (Lvl 2),,Regular,27.74,Hourly,,2016-07-16,,Active,AZ
+RED-10226,Redwood Electric,CSR,Cust Svc Rep,,,16.18,Hourly,,2022-10-09,,Active,AZ
+NHS-10019,Northstar Corporate,HR,HR Business Partner,,Regular,98000.0,Annual,40.0,2025-02-14,,Active,FL
+PIN-10109,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,,,42.42,,,2025-08-21,,Active,TX
+BAY-10076,Bayside Mechanical,Install,HVAC Installer II,,Full-Time,27.43,Hourly,40.0,2015-03-04,,Active,FL
+GLC-10235,Great Lakes Comfort Systems,Service - Plumbing,Technician,L3,Regular,41.21,Hourly,40.0,2021-07-11,,Active,MI
+GLC-10247,Great Lakes Comfort Systems,Service - HVAC,Technician,L3,Full-Time,43.88,Hourly,40.0,2025-11-07,,Active,MI
+GLC-10031,Great Lakes Comfort Systems,Install,Installer,L2,FT,27.08,Hourly,40.0,2021-10-05,,Active,MI
+GLC-10063,Great Lakes Comfort Systems,Install,Installer,L2,FT,24.18,Hourly,40.0,2024-01-16,,Active,MI
+PIN-10158,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,,Regular,19.64,,,2017-01-24,,Active,TX
+NHS-10070,Northstar Corporate,Executive & Corporate,Operations Analyst,,,76000.0,Annual,40.0,2023-06-03,,Active,FL
+BAY-10069,Bayside Mechanical,Install,HVAC Installer II,,FT,29.65,Hourly,40.0,2017-09-12,,Active,FL
+PIN-10215,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,Full-Time,24.48,,,2022-01-31,,Active,TX
+BAY-10339,Bayside Mechanical,Sales,Comfort Advisor,,FT,44500.0,Annual,40.0,2011-06-30,,Active,FL
+GLC-10316,Great Lakes Comfort Systems,Customer Care,Customer Service Representative,L1,Regular,19.81,Hourly,28.0,2023-12-10,,Active,MI
+PIN-10111,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,,Regular,40.91,,,2021-07-25,,Active,TX
+BAY-10335,Bayside Mechanical,Sales,Comfort Advisor,,FT,47500.0,Annual,40.0,2025-09-30,,Active,FL
+BAY-10384,Bayside Mechanical,Customer Care,Customer Service Rep,,FT,17.52,Hourly,40.0,2014-01-23,,Active,FL
+NHS-C329,Northstar Corporate,IT,IT Consultant,,Contractor,92.9,Hourly,40.0,2026-02-16,,Active,FL
+BAY-10156,Bayside Mechanical,Service,HVAC Service Tech I,,Full-Time,17.22,Hourly,40.0,2025-06-26,,Active,FL
+PIN-10405,Pinnacle Plumbing & Drain,Fleet,Fleet Coordinator,,Full-Time,59500.0,,,2023-02-26,,Active,TX
+PIN-10419,Pinnacle Plumbing & Drain,Acctg,Senior Accountant,,,86500.0,,,2025-05-25,,Active,TX
+GLC-10188,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,FT,29.23,Hourly,40.0,2025-04-03,,Active,MI
+BAY-10203,Bayside Mechanical,Service,HVAC Service Tech II,,Regular,25.19,Hourly,40.0,2024-07-03,,Active,FL
+RED-10187,Redwood Electric,Field Ops - Service,Electrician (Lvl 3),,FT,36.26,Hourly,,2023-07-03,,Active,AZ
+GLC-10241,Great Lakes Comfort Systems,Service - HVAC,Technician,L3,Full-Time,36.53,Hourly,40.0,2021-06-10,,Active,MI
+RED-C325,Redwood Electric,Field Ops - Service,Contract Electrician,,1099,49.9,Hourly,,2025-09-13,,Active,AZ
+BAY-10378,Bayside Mechanical,Customer Care,Customer Service Rep,,Regular,20.18,Hourly,29.0,2021-03-28,,Active,FL
+PIN-10327,Pinnacle Plumbing & Drain,Call Center,CSR,,Regular,20.69,,,2019-11-08,,Active,TX
+PIN-10043,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,,29.13,,,2024-06-26,,Active,TX
+NHS-10007,Northstar Corporate,Finance & Accounting,Senior Accountant,,,76500.0,Annual,40.0,2024-03-10,,Active,FL
+PIN-10273,Pinnacle Plumbing & Drain,Field,Plumber - Master,,Regular,39.78,,,2025-05-25,,Active,TX
+NHS-10028,Northstar Corporate,IT,Help Desk Technician,,Regular,26.15,Hourly,40.0,2019-03-15,,Active,FL
+GLC-10014,Great Lakes Comfort Systems,Install,Installer,L1,,19.87,Hourly,40.0,2023-01-19,,Active,MI
+BAY-10429,Bayside Mechanical,Customer Care,Call Center Supervisor,,,57500.0,Annual,40.0,2021-10-28,,Leave,FL
+RED-10022,Redwood Electric,Installation,Electrical Installer (Lvl 2),,Regular,26.15,Hourly,,2026-01-18,,Active,AZ
+RED-10066,Redwood Electric,Installation,Electrical Installer (Lvl 2),,FT,24.76,Hourly,,2021-03-15,,Active,AZ
+BAY-10450,Bayside Mechanical,Warehouse,Parts Coordinator,,Regular,22.56,Hourly,40.0,2022-01-07,,Active,FL
+PIN-10128,Pinnacle Plumbing & Drain,Field,Installation Manager,,Full-Time,79000.0,,,2023-11-19,,Active,TX
+GLC-10261,Great Lakes Comfort Systems,Service - Plumbing,Service Manager,L5,Regular,93000.0,Annual,40.0,2017-08-24,,Active,MI
+PIN-10179,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,Regular,29.27,,,2022-03-08,,Active,TX
+BAY-10138,Bayside Mechanical,Install,Install Mgr,,Full-Time,79000.0,Annual,40.0,2023-05-22,,Active,FL
+BAY-10245,Bayside Mechanical,Service,HVAC Service Tech II,,Regular,29.14,Hourly,40.0,2020-02-01,,Active,FL
+RED-10257,Redwood Electric,Parts & Fleet,Warehouse Associate,,,18.45,Hourly,,2023-02-09,,Active,AZ
+GLC-10341,Great Lakes Comfort Systems,Customer Care,Call Center Supervisor,L3,Regular,55500.0,Annual,40.0,2024-03-29,,Active,MI
+GLC-10026,Great Lakes Comfort Systems,Install,Installer,L1,Regular,21.87,Hourly,40.0,2017-10-30,,Active,MI
+BAY-10365,Bayside Mechanical,Sales,Inside Sales Representative,,Regular,18.17,Hourly,40.0,2020-09-08,,Active,FL
+BAY-10099,Bayside Mechanical,Install,HVAC Installer II,,FT,24.31,Hourly,40.0,2023-01-17,,Active,FL
+PIN-10271,Pinnacle Plumbing & Drain,Field,Plumber - Master,,Full-Time,38.34,,,2024-12-29,,Active,TX
+RED-10273,Redwood Electric,Finance,Staff Accountant,,Regular,62000.0,Annual,,2023-03-11,,Active,AZ
+BAY-10132,Bayside Mechanical,Install,Install Mgr,,Full-Time,84000.0,Annual,40.0,2019-04-06,,Active,FL
+NHS-10038,Northstar Corporate,IT,Systems Administrator,,,77500.0,Annual,40.0,2025-12-24,,Active,FL
+BAY-10248,Bayside Mechanical,Service,HVAC Service Tech II,,Regular,25.3,Hourly,40.0,2021-12-26,,Active,FL
+RED-10265,Redwood Electric,Parts & Fleet,Parts Coordinator,,Full-Time,20.11,Hourly,,2016-11-19,,Active,AZ
+BAY-10268,Bayside Mechanical,Service,HVAC Service Tech II,,FT,25.22,Hourly,40.0,2025-01-29,,Active,FL
+GLC-10228,Great Lakes Comfort Systems,Service - HVAC,Technician,L3,Regular,41.98,Hourly,40.0,2022-11-11,,Active,MI
+NHS-10073,Northstar Corporate,Executive & Corporate,Regional Vice President,,Full-Time,206500.0,Annual,40.0,2024-02-19,,Active,FL
+BAY-10176,Bayside Mechanical,Service,HVAC Service Tech I,,Full-Time,19.28,Hourly,40.0,2026-02-22,,Active,FL
+PIN-10086,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Regular,29.84,,,2024-12-05,,Active,TX
+GLC-10281,Great Lakes Comfort Systems,Sales,Comfort Advisor,L2,Full-Time,47000.0,Annual,40.0,2014-07-10,,Active,MI
+BAY-10418,Bayside Mechanical,Customer Care,Dispatcher,,,24.29,Hourly,40.0,2024-12-23,,Active,FL
+RED-10217,Redwood Electric,Sales,Sr Home Solutions Consultant,,Regular,55500.0,Annual,,2022-02-15,,Active,AZ
+GLC-10290,Great Lakes Comfort Systems,Sales,Inside Sales Representative,L1,Regular,19.87,Hourly,40.0,2019-09-05,,Active,MI
+BAY-10021,Bayside Mechanical,Install,HVAC Installer I,,,20.76,Hourly,40.0,2019-03-22,,Active,FL
+BAY-10273,Bayside Mechanical,Service,HVAC Service Tech II,,Regular,32.84,Hourly,40.0,2025-03-09,,Active,FL
+GLC-90072,Great Lakes Comfort Systems,Customer Care,Call Center Supervisor,L3,Regular,59000.0,Annual,40.0,2022-04-22,2025-07-31,Terminated,MI
+BAY-10049,Bayside Mechanical,Install,HVAC Installer II,,Regular,28.16,Hourly,40.0,2026-06-07,,Active,FL
+GLC-10134,Great Lakes Comfort Systems,Service - HVAC,Technician,L1,FT,21.08,Hourly,40.0,2020-02-08,,Active,MI
+RED-10001,Redwood Electric,Installation,Apprentice Electrician (Lvl 1),,,18.23,Hourly,,2021-02-25,,Active,AZ
+BAY-10315,Bayside Mechanical,Service,Service Supervisor,,Full-Time,77000.0,Annual,40.0,2024-04-18,,Active,FL
+BAY-10292,Bayside Mechanical,Service,HVAC Service Tech III,,FT,42.21,Hourly,40.0,2025-11-16,,Active,FL
+GLC-10266,Great Lakes Comfort Systems,Service - HVAC,Service Manager,L5,FT,85500.0,Annual,40.0,2021-12-03,,Active,MI
+BAY-10086,Bayside Mechanical,Install,HVAC Installer II,,Full-Time,27.2,Hourly,40.0,2016-12-28,,Active,FL
+RED-10078,Redwood Electric,Installation,Lead Electrical Installer (Lvl 3),,,44.25,Hourly,,2023-12-25,,Active,AZ
+GLC-10276,Great Lakes Comfort Systems,Sales,Comfort Advisor,L2,Regular,45500.0,Annual,40.0,2026-02-18,,Active,MI
+PIN-10059,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Full-Time,22.57,,,2024-05-09,,Active,TX
+PIN-10037,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Regular,28.02,,,2026-06-15,,Active,TX
+BAY-10302,Bayside Mechanical,Service,HVAC Service Tech III,,FT,43.37,Hourly,40.0,2016-11-30,,Active,FL
+GLC-10171,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,Full-Time,30.95,Hourly,40.0,2024-03-31,,Active,MI
+PIN-10247,Pinnacle Plumbing & Drain,Field,Plumber - Master,,Full-Time,36.94,,,2021-08-09,,Active,TX
+PIN-10274,Pinnacle Plumbing & Drain,Field,Plumber - Master,,Full-Time,41.26,,,2026-06-21,,Active,TX
+BAY-10353,Bayside Mechanical,Sales,Comfort Advisor,,Regular,55000.0,Annual,40.0,2025-05-15,,Active,FL
+GLC-10245,Great Lakes Comfort Systems,Service - Plumbing,Technician,L3,FT,39.06,Hourly,40.0,2024-01-08,,Active,MI
+PIN-10192,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,Regular,31.53,,,2020-03-18,,Active,TX
+BAY-C313,Bayside Mechanical,Install,Contract Installer,,Contractor,44.79,Hourly,40.0,2024-10-14,,Active,FL
+PIN-10148,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,,Regular,18.15,,,2024-09-08,,Active,TX
+BAY-10313,Bayside Mechanical,Service,Service Supervisor,,Regular,83500.0,Annual,40.0,2021-08-16,,Active,FL
+RED-10130,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,Regular,24.78,Hourly,,2024-04-16,,Active,AZ
+BAY-10161,Bayside Mechanical,Service,HVAC Service Tech I,,,18.59,Hourly,40.0,2026-02-13,,Active,FL
+BAY-90099,Bayside Mechanical,Service,HVAC Service Tech II,,FT,28.43,Hourly,40.0,2019-12-11,2025-11-08,Terminated,FL
+GLC-10353,Great Lakes Comfort Systems,Warehouse,Warehouse Associate,L1,Regular,20.72,Hourly,40.0,2025-08-25,,Active,MI
+PIN-90065,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,FT,31.83,,,2022-09-17,2026-03-21,Terminated,TX
+RED-10062,Redwood Electric,Installation,Electrical Installer (Lvl 2),,Regular,29.65,Hourly,,2023-08-10,,Active,AZ
+BAY-10023,Bayside Mechanical,Install,HVAC Installer I,,Regular,21.71,Hourly,40.0,2024-09-09,,Active,FL
+GLC-10249,Great Lakes Comfort Systems,Service - Plumbing,Technician,L3,Full-Time,36.31,Hourly,40.0,2025-12-12,,Active,MI
+BAY-10031,Bayside Mechanical,Install,HVAC Installer II,,Full-Time,28.6,Hourly,40.0,2025-10-30,,Active,FL
+GLC-10359,Great Lakes Comfort Systems,Warehouse,Warehouse Associate,L1,Regular,18.82,Hourly,25.0,2021-01-26,,Active,MI
+PIN-10347,Pinnacle Plumbing & Drain,Call Center,CSR,,Regular,19.57,,,2024-07-21,,Active,TX
+GLC-10226,Great Lakes Comfort Systems,Service - HVAC,Technician,L3,Regular,37.97,Hourly,40.0,2019-08-05,,Active,MI
+BAY-10046,Bayside Mechanical,Install,HVAC Installer II,,FT,22.34,Hourly,40.0,2021-10-31,,Active,FL
+BAY-90081,Bayside Mechanical,Service,HVAC Service Tech II,,,24.11,Hourly,40.0,2021-02-16,2025-08-01,Terminated,FL
+NHS-10069,Northstar Corporate,Executive & Corporate,Operations Analyst,,FT,77000.0,Annual,40.0,2024-08-26,,Active,FL
+BAY-10233,Bayside Mechanical,Service,HVAC Service Tech II,,FT,30.23,Hourly,40.0,2022-04-01,,Active,FL
+PIN-10331,Pinnacle Plumbing & Drain,Call Center,CSR,,Regular,19.13,,,2021-05-05,,Active,TX
+RED-10135,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,Full-Time,30.56,Hourly,,2024-11-13,,Active,AZ
+PIN-10322,Pinnacle Plumbing & Drain,Sales,Sales Manager,,FT,109000.0,,,2023-08-16,,Active,TX
+RED-10121,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,Regular,29.04,Hourly,,2023-06-22,,Active,AZ
+PIN-C337,Pinnacle Plumbing & Drain,Fleet,Temp Warehouse Associate,,Temp,19.77,,,2024-10-11,,Active,TX
+NHS-10016,Northstar Corporate,HR,HR Business Partner,,Full-Time,81000.0,Annual,40.0,2022-08-18,,Active,FL
+PIN-10316,Pinnacle Plumbing & Drain,Sales,Inside Sales Representative,,FT,21.93,,,2023-06-02,,Active,TX
+GLC-10071,Great Lakes Comfort Systems,Install,Installer,L2,,28.99,Hourly,40.0,2022-08-30,,Active,MI
+BAY-10422,Bayside Mechanical,Customer Care,Dispatcher,,Regular,23.7,Hourly,40.0,2014-11-25,,Active,FL
+RED-10150,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,,30.26,Hourly,,2020-03-27,,Active,AZ
+PIN-10251,Pinnacle Plumbing & Drain,Field,Plumber - Master,,FT,41.57,,,2024-09-11,,Active,TX
+BAY-10179,Bayside Mechanical,Service,HVAC Service Tech II,,,28.47,Hourly,40.0,2025-05-22,,Active,FL
+PIN-90093,Pinnacle Plumbing & Drain,Field,Plumber - Master,,Full-Time,36.94,,,2019-05-09,,Terminated,TX
+PIN-10010,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,,Seasonal,21.98,,,2024-09-23,,Active,TX
+GLC-10327,Great Lakes Comfort Systems,Customer Care,Dispatcher,L2,Regular,22.89,Hourly,40.0,2022-12-26,,Active,MI
+GLC-10118,Great Lakes Comfort Systems,Service - HVAC,Technician,L1,FT,20.44,Hourly,40.0,2024-10-09,,Active,MI
+BAY-10407,Bayside Mechanical,Customer Care,Customer Service Rep,,FT,18.56,Hourly,25.0,2018-04-14,,Active,FL
+RED-90051,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,,26.82,Hourly,,2015-03-31,,Terminated,AZ
+BAY-90091,Bayside Mechanical,Service,HVAC Service Tech II,,Regular,26.74,Hourly,40.0,2023-01-01,2026-08-10,Terminated,FL
+PIN-10221,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,,26.01,,,2022-09-13,,Active,TX
+RED-10277,Redwood Electric,HR,HR Coordinator,,Full-Time,5200.0,Annual,,2018-12-20,,Active,AZ
+RED-10031,Redwood Electric,Installation,Electrical Installer (Lvl 2),,Regular,23.98,Hourly,,2025-10-30,,Active,AZ
+GLC-10176,Great Lakes Comfort Systems,Service - Plumbing,Technician,L2,FT,33.48,Hourly,40.0,2022-08-24,,Active,MI
+BAY-10288,Bayside Mechanical,Service,HVAC Service Tech III,,FT,37.23,Hourly,40.0,2025-04-07,,Active,FL
+RED-10211,Redwood Electric,Sales,Home Solutions Consultant,,Full-Time,51000.0,Annual,,2023-08-17,,Active,AZ
+BAY-10290,Bayside Mechanical,Service,HVAC Service Tech III,,FT,36.37,Hourly,40.0,2018-02-09,,Active,FL
+BAY-10437,Bayside Mechanical,Warehouse,Warehouse Associate,,Regular,16.91,Hourly,40.0,2025-06-29,,Active,FL
+GLC-10208,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,Regular,27.93,Hourly,40.0,2022-02-26,,Active,MI
+GLC-10038,Great Lakes Comfort Systems,Install,Installer,L2,,22.16,Hourly,40.0,2024-05-25,,Active,MI
+PIN-90005,Pinnacle Plumbing & Drain,Fleet,Parts Coordinator,,,22.67,,,2021-08-09,2025-09-06,Terminated,TX
+RED-10270,Redwood Electric,Finance,AP/AR Specialist,,,21.42,Hourly,,2020-05-09,,Active,AZ
+PIN-10022,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,,Regular,19.83,,,2019-11-28,,Active,TX
+GLC-10336,Great Lakes Comfort Systems,Customer Care,Dispatcher,L2,FT,22.72,Hourly,40.0,2023-11-10,,Active,MI
+GLC-10036,Great Lakes Comfort Systems,Install,Installer,L2,FT,26.58,Hourly,40.0,2022-09-29,,Active,MI
+RED-10005,Redwood Electric,Installation,Apprentice Electrician (Lvl 1),,FT,18.51,Hourly,,2025-10-10,,Active,AZ
+PIN-10096,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Regular,23.43,,,2024-05-29,,Active,TX
+GLC-90068,Great Lakes Comfort Systems,Install,Installer,L1,Full-Time,17.08,Hourly,40.0,2018-12-05,2025-10-14,Terminated,MI
+RED-10220,Redwood Electric,CSR,Cust Svc Rep,,,20.16,Hourly,,2013-05-28,,Active,AZ
+RED-10243,Redwood Electric,CSR,Cust Svc Rep,,Regular,20.11,Hourly,,2025-07-14,,Active,AZ
+PIN-10235,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,,25.39,,,2018-12-08,,Active,TX
+GLC-10181,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,FT,25.37,Hourly,40.0,2022-07-06,,Active,MI
+GLC-10126,Great Lakes Comfort Systems,Service - HVAC,Technician,L1,,21.33,Hourly,40.0,2025-12-04,,Active,MI
+RED-10210,Redwood Electric,Sales,Home Solutions Consultant,,Full-Time,51500.0,Annual,,2022-11-04,,Active,AZ
+BAY-10336,Bayside Mechanical,Sales,Comfort Advisor,,Regular,51500.0,Annual,40.0,2017-12-08,,Active,FL
+RED-10118,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),,FT,17.01,Hourly,,2024-12-06,,Active,AZ
+BAY-10467,Bayside Mechanical,Finance,Staff Accountant,,Regular,68000.0,Annual,40.0,2023-07-07,,Active,FL
+BAY-10428,Bayside Mechanical,Customer Care,Call Center Supervisor,,Regular,62500.0,Annual,40.0,2022-06-29,,Active,FL
+BAY-10145,Bayside Mechanical,Service,HVAC Service Tech I,,,20.45,Hourly,40.0,2025-07-26,,Active,FL
+RED-10254,Redwood Electric,Parts & Fleet,Warehouse Associate,,Regular,17.02,Hourly,,2022-12-02,,Active,AZ
+BAY-10404,Bayside Mechanical,Customer Care,Customer Service Rep,,,18.41,Hourly,28.0,2026-05-01,,Active,FL
+RED-10168,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,Full-Time,26.61,Hourly,,2026-03-25,,Active,AZ
+BAY-10190,Bayside Mechanical,Service,HVAC Service Tech II,,Regular,26.92,Hourly,40.0,2022-06-03,,Active,FL
+RED-90036,Redwood Electric,Installation,Electrical Installer (Lvl 2),,FT,26.75,Hourly,,2023-12-25,,Terminated,AZ
+PIN-10367,Pinnacle Plumbing & Drain,Call Center,Dispatcher,,Regular,21.48,,,2024-01-09,,Active,TX
+BAY-10026,Bayside Mechanical,Install,HVAC Installer I,,Regular,18.46,Hourly,40.0,2024-08-31,,Active,FL
+RED-10232,Redwood Electric,CSR,Cust Svc Rep,,Regular,20.19,Hourly,,2023-04-25,,Active,AZ
+GLC-10286,Great Lakes Comfort Systems,Sales,Comfort Advisor,L2,,49500.0,Annual,40.0,2024-11-28,,Active,MI
+BAY-10327,Bayside Mechanical,Sales,Comfort Advisor,,FT,53500.0,Annual,40.0,2025-08-30,,Active,FL
+PIN-10289,Pinnacle Plumbing & Drain,Sales,Sales Consultant,,Regular,47000.0,,,2020-11-05,,Active,TX
+BAY-10079,Bayside Mechanical,Install,HVAC Installer II,,FT,27.25,Hourly,40.0,2024-01-11,,Active,FL
+GLC-10105,Great Lakes Comfort Systems,Install,Installer,L3,Regular,40.53,Hourly,40.0,2026-03-25,,Active,MI
+PIN-10275,Pinnacle Plumbing & Drain,Field,Plumber - Master,,Regular,41.14,,,2023-11-06,,Active,TX
+BAY-10259,Bayside Mechanical,Service,HVAC Service Tech II,,Regular,25.28,Hourly,40.0,2023-07-09,,Active,FL
+BAY-90003,Bayside Mechanical,Service,HVAC Service Tech III,,Regular,38.29,Hourly,40.0,2008-01-24,2026-07-03,Terminated,FL
+RED-10109,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),,Regular,20.79,Hourly,,2022-03-06,,Active,AZ
+RED-10140,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,Full-Time,24.94,Hourly,,2022-01-29,,Active,AZ
+PIN-10150,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,,Regular,18.57,,,2026-02-02,,Active,TX
+RED-10239,Redwood Electric,CSR,Cust Svc Rep,,Regular,16.86,Hourly,,2025-05-29,,Active,AZ
+BAY-10116,Bayside Mechanical,Install,Lead HVAC Installer,,,40.35,Hourly,40.0,2024-10-23,,Active,FL
+BAY-10260,Bayside Mechanical,Service,HVAC Service Tech II,,Full-Time,25.17,Hourly,40.0,2023-07-18,,Active,FL
+PIN-10178,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,Regular,29.43,,,2025-02-01,,Active,TX
+RED-10045,Redwood Electric,Installation,Electrical Installer (Lvl 2),,FT,27.12,Hourly,,2025-02-22,,Active,AZ
+PIN-10242,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,,24.11,,,2022-04-20,,Active,TX
+GLC-90059,Great Lakes Comfort Systems,Service - Plumbing,Technician,L2,Full-Time,25.41,Hourly,40.0,2021-11-14,,Terminated,MI
+BAY-10386,Bayside Mechanical,Customer Care,Customer Service Rep,,FT,18.35,Hourly,40.0,2024-09-25,,Active,FL
+BAY-10178,Bayside Mechanical,Service,HVAC Service Tech II,,FT,33.18,Hourly,40.0,2022-12-27,,Active,FL
+PIN-10143,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,,FT,18.36,,,2025-05-17,,Active,TX
+BAY-10382,Bayside Mechanical,Customer Care,Customer Service Rep,,Regular,20.95,Hourly,40.0,2026-02-20,,Active,FL
+BAY-10369,Bayside Mechanical,Sales,Sales Manager,,Regular,105500.0,Annual,40.0,2022-08-24,,Active,FL
+BAY-10133,Bayside Mechanical,Install,Install Mgr,,FT,87500.0,Annual,40.0,2023-03-25,,Active,FL
+NHS-10006,Northstar Corporate,Finance & Accounting,Senior Accountant,,FT,86000.0,Annual,40.0,2026-02-13,,Active,FL
+BAY-10338,Bayside Mechanical,Sales,Comfort Advisor,,FT,44500.0,Annual,40.0,2020-07-06,,Active,FL
+NHS-10025,Northstar Corporate,IT,Help Desk Technician,,Regular,27.04,Hourly,40.0,2022-09-11,,Active,FL
+RED-10012,Redwood Electric,Installation,Apprentice Electrician (Lvl 1),,Full-Time,21.13,Hourly,,2019-11-11,,Active,AZ
+BAY-10453,Bayside Mechanical,Warehouse,Fleet Coordinator,,Regular,57500.0,Annual,40.0,2025-07-16,,Active,FL
+GLC-10106,Great Lakes Comfort Systems,Install,Install Manager,L4,,84000.0,Annual,40.0,2023-11-29,,Active,MI
+BAY-10089,Bayside Mechanical,Install,HVAC Installer II,,Regular,29.08,Hourly,40.0,2023-02-10,,Active,FL
+RED-90071,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),,Regular,19.29,Hourly,,2021-11-10,2026-02-03,Terminated,AZ
+BAY-10457,Bayside Mechanical,Warehouse,Warehouse Manager,,Regular,72000.0,Annual,40.0,2018-06-12,,Active,FL
+GLC-10061,Great Lakes Comfort Systems,Install,Installer,L2,Regular,26.91,Hourly,40.0,2023-11-01,,Active,MI
+GLC-10283,Great Lakes Comfort Systems,Sales,Comfort Advisor,L2,Regular,45500.0,Annual,40.0,2025-03-17,,Active,MI
+GLC-10169,Great Lakes Comfort Systems,Service - Plumbing,Technician,L2,Full-Time,27.36,Hourly,40.0,2022-12-25,,Active,MI
+BAY-10067,Bayside Mechanical,Install,HVAC Installer II,,FT,24.06,Hourly,40.0,2020-07-30,,Active,FL
+GLC-10108,Great Lakes Comfort Systems,Install,Install Manager,L4,Full-Time,85500.0,Annual,40.0,2024-07-08,,Active,MI
+BAY-10137,Bayside Mechanical,Install,Install Mgr,,Regular,83000.0,Annual,40.0,2019-03-27,,Active,FL
+BAY-10363,Bayside Mechanical,Sales,Inside Sales Representative,,FT,18.55,Hourly,40.0,2025-04-18,,Active,FL
+BAY-10305,Bayside Mechanical,Service,HVAC Service Tech III,,Regular,43.6,Hourly,40.0,2024-08-20,,Active,FL
+PIN-10231,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,Full-Time,24.65,,,2018-01-01,,Active,TX
+BAY-10311,Bayside Mechanical,Service,HVAC Service Tech III,,,36.35,Hourly,40.0,2025-09-29,,Active,FL
+BAY-10425,Bayside Mechanical,Customer Care,Call Center Supervisor,,Regular,56000.0,Annual,40.0,2026-02-06,,Active,FL
+PIN-10195,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,Full-Time,30.87,,,2025-07-25,,Active,TX
+BAY-10389,Bayside Mechanical,Customer Care,Customer Service Rep,,FT,17.77,Hourly,28.0,2021-08-13,,Active,FL
+BAY-10082,Bayside Mechanical,Install,HVAC Installer II,,,27.04,Hourly,40.0,2024-11-03,,Active,FL
+GLC-10095,Great Lakes Comfort Systems,Install,Installer,L3,FT,41.25,Hourly,40.0,2023-01-25,,Active,MI
+BAY-10100,Bayside Mechanical,Install,HVAC Installer II,,Full-Time,28.69,Hourly,40.0,2021-06-06,,Active,FL
+PIN-10139,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,,Regular,17.01,,,2026-04-30,,Active,TX
+RED-10112,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),,,18.8,Hourly,,2026-02-13,,Active,AZ
+BAY-10298,Bayside Mechanical,Service,HVAC Service Tech III,,,39.75,Hourly,40.0,2016-12-30,,Active,FL
+PIN-10234,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,Regular,24.71,,,2023-10-12,,Active,TX
+PIN-10364,Pinnacle Plumbing & Drain,Call Center,Dispatcher,,,19.63,,,2020-03-21,,Active,TX
+BAY-10054,Bayside Mechanical,Install,HVAC Installer II,,Regular,29.4,Hourly,40.0,2025-01-16,,Active,FL
+GLC-10310,Great Lakes Comfort Systems,Customer Care,Customer Service Representative,L1,Regular,18.1,Hourly,40.0,2024-07-28,,Active,MI
+BAY-10451,Bayside Mechanical,Warehouse,Parts Coordinator,,Full-Time,0.0,Hourly,40.0,2022-07-26,,Active,FL
+BAY-10461,Bayside Mechanical,Finance,AP/AR Specialist,,Regular,26.07,Hourly,40.0,2024-08-07,,Active,FL
+RED-10173,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,FT,31.66,Hourly,,2024-04-05,,Active,AZ
+PIN-10245,Pinnacle Plumbing & Drain,Field,Plumber - Master,,,37.85,,,2022-06-30,,Active,TX
+PIN-10387,Pinnacle Plumbing & Drain,Fleet,Warehouse Associate,,Full-Time,16.84,,,2020-12-03,,Active,TX
+PIN-10027,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,,FT,18.16,,,2024-06-23,,Active,TX
+GLC-10151,Great Lakes Comfort Systems,Service - Plumbing,Technician,L2,FT,29.29,Hourly,40.0,2021-01-29,,Active,MI
+GLC-90061,Great Lakes Comfort Systems,Finance,AP/AR Specialist,L1,Full-Time,21.27,Hourly,40.0,2011-08-28,2025-08-26,Terminated,MI
+PIN-10391,Pinnacle Plumbing & Drain,Fleet,Warehouse Associate,,,16.83,,,2025-09-14,,Active,TX
+PIN-10077,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Full-Time,24.96,,,2025-01-07,,Active,TX
+PIN-10057,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,,23.47,,,2025-06-22,,Active,TX
+RED-10151,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,Full-Time,32.29,Hourly,,2020-12-11,,Active,AZ
+NHS-10031,Northstar Corporate,IT,Help Desk Technician,,FT,22.93,Hourly,40.0,2024-08-14,,Active,FL
+RED-10049,Redwood Electric,Installation,Electrical Installer (Lvl 2),,Full-Time,27.37,Hourly,,2024-05-05,,Active,AZ
+BAY-10182,Bayside Mechanical,Service,HVAC Service Tech II,,Regular,31.05,Hourly,40.0,2025-07-31,,Active,FL
+PIN-10090,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Regular,24.19,,,2022-07-25,,Active,TX
+RED-10139,Redwood Electric,Parts & Fleet,Electrician (Lvl 2),,,28.59,Hourly,,2025-04-26,,,AZ
+GLC-10170,Great Lakes Comfort Systems,Service - Plumbing,Technician,L2,FT,,Hourly,40.0,2021-09-09,,Active,MI
+PIN-10013,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,,Regular,17.76,,,2025-04-22,,Active,TX
+PIN-10382,Pinnacle Plumbing & Drain,Fleet,Warehouse Associate,,Regular,19.16,,,2025-07-09,,Active,TX
+RED-10230,Redwood Electric,CSR,Cust Svc Rep,,Regular,16.48,Hourly,,2025-07-26,,Active,AZ
+PIN-10238,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,,28.73,,,2022-07-21,,Active,TX
+BAY-10354,Bayside Mechanical,Sales,Comfort Advisor,,FT,46000.0,Annual,40.0,2024-11-13,,Active,FL
+RED-10032,Redwood Electric,Installation,Electrical Installer (Lvl 2),,,25.57,Hourly,,2024-09-01,,Active,AZ
+GLC-10047,Great Lakes Comfort Systems,Install,Installer,L2,,26.59,Hourly,40.0,2025-08-27,,Active,MI
+BAY-10470,Bayside Mechanical,Finance,Staff Accountant,,Regular,69000.0,Annual,40.0,2022-11-21,,Active,FL
+PIN-10054,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,FT,25.56,,,2023-06-30,,Active,TX
+NHS-10011,Northstar Corporate,Finance & Accounting,FP&A Analyst,,Regular,91500.0,Annual,40.0,2021-04-06,,Active,FL
+BAY-10237,Bayside Mechanical,Service,HVAC Service Tech II,,,26.09,Hourly,40.0,2025-02-28,,Active,FL
+PIN-10361,Pinnacle Plumbing & Drain,Call Center,CSR,,Regular,20.69,,,2025-09-17,,Active,TX
+PIN-10015,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Apprentice,,Regular,19.32,,,2022-07-21,,Active,TX
+BAY-10443,Bayside Mechanical,Warehouse,Warehouse Associate,,Full-Time,19.72,Hourly,40.0,2026-01-12,,Active,FL
+RED-10020,Redwood Electric,Installation,Electrical Installer (Lvl 2),,Regular,28.38,Hourly,,2024-11-01,,Active,AZ
+RED-10110,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),,FT,19.35,Hourly,,2024-01-08,,Active,AZ
+BAY-C308,Bayside Mechanical,Service,Contract HVAC Technician,,1099,45.68,Hourly,40.0,2024-08-17,,Active,FL
+BAY-10405,Bayside Mechanical,Customer Care,Customer Service Rep,,Regular,20.4,Hourly,40.0,2025-05-24,,Active,FL
+BAY-10410,Bayside Mechanical,Customer Care,Customer Service Rep,,Full-Time,20.7,Hourly,40.0,2017-10-31,,Active,FL
+BAY-10094,Bayside Mechanical,Install,HVAC Installer II,,Regular,23.59,Hourly,40.0,2024-12-10,,Active,FL
+RED-10205,Redwood Electric,Sales,Home Solutions Consultant,,Regular,50000.0,Annual,,2025-04-28,,Leave,AZ
+PIN-10304,Pinnacle Plumbing & Drain,Sales,Sales Consultant,,,53500.0,,,2020-08-06,,Active,TX
+BAY-10267,Bayside Mechanical,Service,HVAC Service Tech II,,Regular,33.58,Hourly,40.0,2025-06-26,,Active,FL
+NHS-10051,Northstar Corporate,Marketing,Marketing Coordinator,,Regular,57000.0,Annual,40.0,2024-06-01,,Active,FL
+PIN-10336,Pinnacle Plumbing & Drain,Call Center,CSR,,Regular,17.19,,,2020-12-07,,Active,TX
+GLC-10214,Great Lakes Comfort Systems,Service - Plumbing,Technician,L2,Regular,27.9,Hourly,40.0,2024-08-11,,Active,MI
+BAY-10240,Bayside Mechanical,Service,HVAC Service Tech II,,FT,27.22,Hourly,40.0,2023-06-18,,Active,FL
+BAY-10039,Bayside Mechanical,Install,HVAC Installer II,,Regular,25.28,Hourly,40.0,2013-11-02,,Active,FL
+GLC-10384,Great Lakes Comfort Systems,Finance,Staff Accountant,L2,Regular,59000.0,Annual,40.0,2025-06-25,,Active,MI
+GLC-10258,Great Lakes Comfort Systems,Service - Plumbing,Field Supervisor,L4,FT,,Annual,40.0,2026-03-12,,Active,MI
+PIN-10166,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,FT,25.32,,,2025-01-28,,Active,TX
+PIN-10383,Pinnacle Plumbing & Drain,Fleet,Warehouse Associate,,Full-Time,17.18,,,2024-10-15,,Active,TX
+RED-10213,Redwood Electric,Sales,Sr Home Solutions Consultant,,Regular,55500.0,Annual,,2021-02-13,,Active,AZ
+RED-90050,Redwood Electric,Field Ops - Service,Service Manager,,FT,91000.0,Annual,,2016-05-18,2026-04-28,Terminated,AZ
+RED-10105,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),,Regular,21.65,Hourly,,2023-07-08,,Active,AZ
+GLC-10373,Great Lakes Comfort Systems,Warehouse,Warehouse Manager,L3,,76500.0,Annual,40.0,2022-03-24,,Active,MI
+BAY-10321,Bayside Mechanical,Service,Service Manager,,FT,91500.0,Annual,40.0,2021-12-13,,Active,FL
+BAY-10381,Bayside Mechanical,Customer Care,Customer Service Rep,,FT,20.55,Hourly,24.0,2017-04-10,,Active,FL
+PIN-10134,Pinnacle Plumbing & Drain,Field,Installation Manager,,Regular,78500.0,,,2023-04-13,,Active,TX
+BAY-10080,Bayside Mechanical,Install,HVAC Installer II,,Regular,22.41,Hourly,40.0,2021-01-10,,Active,FL
+RED-10156,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,,31.81,Hourly,,2022-05-09,,Active,AZ
+PIN-10402,Pinnacle Plumbing & Drain,Fleet,Parts Coordinator,,FT,21.14,,,2026-01-03,,Active,TX
+PIN-10186,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,Regular,33.9,,,2024-01-07,,Active,TX
+RED-10284,Redwood Electric,IT,Systems Administrator,,Regular,89000.0,Annual,,2022-02-18,,Active,AZ
+RED-10219,Redwood Electric,CSR,Cust Svc Rep,,,16.78,Hourly,,2025-08-13,,Active,AZ
+GLC-10320,Great Lakes Comfort Systems,Customer Care,Customer Service Representative,L1,Regular,16.86,Hourly,40.0,2025-11-23,,Active,MI
+RED-10100,Redwood Electric,Field Ops - Service,Apprentice Electrician (Lvl 1),,Full-Time,20.25,Hourly,,2024-03-08,,Active,AZ
+PIN-90073,Pinnacle Plumbing & Drain,Fleet,Warehouse Associate,,Regular,18.4,,,2012-08-30,2026-05-02,Terminated,TX
+BAY-10183,Bayside Mechanical,Service,HVAC Service Tech II,,,27.17,Hourly,40.0,2023-07-25,,Active,FL
+BAY-10445,Bayside Mechanical,Warehouse,Parts Coordinator,,FT,20.31,Hourly,40.0,2021-01-02,,Active,FL
+RED-10207,Redwood Electric,Sales,Home Solutions Consultant,,Regular,53000.0,Annual,,2025-03-30,,Active,AZ
+GLC-10260,Great Lakes Comfort Systems,Service - Plumbing,Field Supervisor,L4,,77000.0,Annual,40.0,2015-11-29,,Active,MI
+BAY-10304,Bayside Mechanical,Service,HVAC Service Tech III,,Regular,37.3,Hourly,40.0,2026-02-24,,Active,FL
+GLC-10013,Great Lakes Comfort Systems,Install,Installer,L1,Seasonal,17.99,Hourly,40.0,2022-08-19,,Active,MI
+BAY-10307,Bayside Mechanical,Service,HVAC Service Tech III,,FT,34.47,Hourly,40.0,2024-01-16,,Active,FL
+GLC-C306,Great Lakes Comfort Systems,Service - HVAC,Contract HVAC Technician,,1099,47.5,Hourly,40.0,2024-10-03,,Active,MI
+GLC-10103,Great Lakes Comfort Systems,Install,Installer,L3,Regular,45.09,Hourly,40.0,2020-06-03,,Active,MI
+GLC-10254,Great Lakes Comfort Systems,Service - HVAC,Field Supervisor,L4,FT,83500.0,Annual,40.0,2021-04-03,,Active,MI
+GLC-10086,Great Lakes Comfort Systems,Install,Installer,L3,Regular,45.26,Hourly,40.0,2026-01-01,,Active,MI
+BAY-10167,Bayside Mechanical,Service,HVAC Service Tech I,,Regular,18.5,Hourly,40.0,2021-06-20,,Active,FL
+RED-10201,Redwood Electric,Field Ops - Service,Service Manager,,Regular,96500.0,Annual,,2023-11-15,,Active,AZ
+BAY-10252,Bayside Mechanical,Service,HVAC Service Tech II,,,32.24,Hourly,40.0,2026-05-08,,Active,FL
+PIN-10196,Pinnacle Plumbing & Drain,Field,Plumber - Journeyman,,,26.31,,,2020-04-18,,Active,TX
+PIN-10080,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Full-Time,29.47,,,2017-10-03,,Active,TX
+PIN-10157,Pinnacle Plumbing & Drain,Field,Plumber - Apprentice,,,19.06,,,2024-07-15,,Active,TX
+RED-90012,Redwood Electric,Installation,Lead Electrical Installer (Lvl 3),,Regular,43.55,Hourly,,2015-02-25,2025-12-29,Terminated,AZ
+GLC-10342,Great Lakes Comfort Systems,Customer Care,Customer Care Manager,L4,,80500.0,Annual,40.0,2026-04-13,,Active,MI
+PIN-10253,Pinnacle Plumbing & Drain,Field,Plumber - Master,,Full-Time,43.91,,,2021-07-13,,Active,TX
+BAY-10325,Bayside Mechanical,Service,Service Manager,,,86000.0,Annual,40.0,2023-11-29,,Active,FL
+GLC-10252,Great Lakes Comfort Systems,Service - HVAC,Technician,L3,FT,39.5,Hourly,40.0,2026-03-15,,Active,MI
+BAY-10047,Bayside Mechanical,Install,HVAC Installer II,,Regular,22.17,Hourly,40.0,2025-03-13,,Active,FL
+PIN-10110,Pinnacle Plumbing & Drain,Field,Plumbing Installer - Lead,,,43.26,,,2025-05-02,,Active,TX
+BAY-10256,Bayside Mechanical,Service,HVAC Service Tech II,,Full-Time,27.15,Hourly,40.0,2023-12-29,,Active,FL
+GLC-10007,Great Lakes Comfort Systems,Install,Installer,L1,FT,21.87,Hourly,40.0,2023-12-16,,Active,MI
+RED-10086,Redwood Electric,Installation,Lead Electrical Installer (Lvl 3),,Regular,44.25,Hourly,,2023-03-09,,Active,AZ
+GLC-10055,Great Lakes Comfort Systems,Install,Installer,L2,FT,26.58,Hourly,40.0,2023-12-09,,Active,MI
+RED-10046,Redwood Electric,Installation,Electrical Installer (Lvl 2),,,25.71,Hourly,,2023-01-25,,Active,AZ
+RED-10188,Redwood Electric,Field Ops - Service,Electrician (Lvl 3),,Regular,34.95,Hourly,,2026-05-05,,Active,AZ
+PIN-10351,Pinnacle Plumbing & Drain,Call Center,CSR,,Regular,16.64,,,2025-02-25,,Active,TX
+GLC-10006,Great Lakes Comfort Systems,Install,Installer,L1,,19.11,Hourly,40.0,2022-05-14,,Active,MI
+GLC-10167,Great Lakes Comfort Systems,Service - HVAC,Technician,L2,Regular,33.33,Hourly,40.0,2023-08-24,,Active,MI
+BAY-10366,Bayside Mechanical,Sales,Inside Sales Representative,,Full-Time,21.13,Hourly,40.0,2021-08-14,,Active,FL
+BAY-10392,Bayside Mechanical,Customer Care,Customer Service Rep,,,17.29,Hourly,20.0,2023-11-09,,Active,FL
+GLC-90002,Great Lakes Comfort Systems,Sales,Comfort Advisor,L2,,51500.0,Annual,40.0,2021-10-26,2026-07-22,Terminated,MI
+GLC-10113,Great Lakes Comfort Systems,Service - HVAC,Technician,L1,Regular,20.29,Hourly,40.0,2018-09-15,,Active,MI
+BAY-10234,Bayside Mechanical,Service,HVAC Service Tech II,,Regular,31.56,Hourly,40.0,2015-08-18,,Active,FL
+BAY-90055,Bayside Mechanical,Install,HVAC Installer II,,Full-Time,28.6,Hourly,40.0,2021-09-22,2025-10-10,Terminated,FL
+GLC-10263,Great Lakes Comfort Systems,Service - HVAC,Service Manager,L5,FT,94500.0,Annual,40.0,2024-04-22,,Active,MI
+RED-10195,Redwood Electric,Field Ops - Service,Field Supervisor,,Regular,80500.0,Annual,,2023-04-08,,Active,AZ
+GLC-C310,Great Lakes Comfort Systems,Service - HVAC,Contract HVAC Technician,,1099,52.8,Hourly,40.0,2024-10-16,,Active,MI
+RED-10169,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,FT,28.89,Hourly,,2021-02-07,,Active,AZ
+GLC-10382,Great Lakes Comfort Systems,Finance,Staff Accountant,L2,FT,62500.0,Annual,40.0,2024-10-02,,Active,MI
+GLC-10111,Great Lakes Comfort Systems,Install,Install Manager,L4,Full-Time,82000.0,Annual,40.0,2026-03-14,,Active,MI
+RED-10280,Redwood Electric,HR,Recruiter,,Full-Time,65500.0,Annual,,2024-07-17,,Active,AZ
+BAY-10097,Bayside Mechanical,Install,HVAC Installer II,,Regular,23.36,Hourly,40.0,2023-05-03,,Active,FL
+BAY-10319,Bayside Mechanical,Service,Service Supervisor,,FT,83500.0,Annual,40.0,2026-01-24,,Active,FL
+PIN-10076,Pinnacle Plumbing & Drain,Field,Plumbing Installer,,Full-Time,27.31,,,2023-09-18,,Active,TX
+RED-10149,Redwood Electric,Field Ops - Service,Electrician (Lvl 2),,Regular,30.81,Hourly,,2021-07-17,,Active,AZ
+RED-10244,Redwood Electric,CSR,Cust Svc Rep,,FT,17.14,Hourly,,2025-11-09,,Active,AZ
+RED-10080,Redwood Electric,Installation,Lead Electrical Installer (Lvl 3),,Full-Time,40.38,Hourly,,2023-08-02,,Active,AZ
+BAY-10435,Bayside Mechanical,Warehouse,Warehouse Associate,,Regular,20.88,Hourly,29.0,2023-04-15,,Active,FL
+BAY-10037,Bayside Mechanical,Install,HVAC Installer II,,FT,22.14,Hourly,40.0,2025-05-18,,Active,FL
+PIN-10342,Pinnacle Plumbing & Drain,Call Center,CSR,,Regular,17.52,,,2023-10-13,,Active,TX
+BAY-10184,Bayside Mechanical,Service,HVAC Service Tech II,,Regular,33.25,Hourly,40.0,2024-12-17,,Active,FL

@@ -1,0 +1,646 @@
+profile_id,entity_id,title_raw,title_provider_cleaned,seniority_provider,location,start_date,profile_last_updated,salary_est_base
+700445,4471023,Field Supervisor,Field Supervisor,Manager,"Dayton, OH",2025-05-19,2026-02-13,
+700461,4471023,President,President,Executive,"Cincinnati, OH",2010-05-01,2020-11-06,152000.0
+700094,4471023,Plumber,Plumber,Mid,"Dayton, OH",2007-12-01,2022-09-22,
+700318,6120887,Staff Accountant,Accountant,Mid,"Louisville, KY",2010-10-01,2019-01-07,
+700068,6120887,HVAC Installer,Installer,Mid,"Louisville, KY",2021-05-27,2025-05-06,58500.0
+700006,6120887,HVAC Service Technician,Service Technician,Mid,"Louisville, KY",2011-11-01,2022-11-25,
+700087,6120887,Install Technician,Installer,Mid,"Louisville, KY",2023-05-27,2026-01-29,46000.0
+700159,4471023,Comfort Advisor,Sales Representative,Mid,"Columbus, OH",2022-11-16,2026-03-12,
+700144,4471023,Comfort Advisor,Sales Representative,Entry,"Lexington, KY",2025-10-18,2025-10-27,53000.0
+700513,9083341,Territory Sales Rep - Wholesale,Sales Representative,Mid,"Lakeland, FL",2021-12-10,2025-06-19,55500.0
+700517,9083341,Territory Sales Rep - Wholesale,Sales Representative,Entry,"Fort Myers, FL",2024-06-22,2025-03-29,
+700394,4471023,Digital Marketing Specialist,Marketing Specialist,Mid,"Louisville, KY",2022-06-16,2025-05-22,
+700210,4471023,Inside Sales Representative,Inside Sales,Mid,"Cincinnati, OH",2017-12-05,2026-07-24,
+700173,4471023,Home Solutions Consultant,Sales Representative,Mid,"Mason, OH",2021-03-24,2026-02-10,
+700605,9083341,Inside Sales - HVAC Parts,Inside Sales,Mid,"Tampa, FL",2023-05-08,2024-11-30,
+700413,6120887,Branch Manager,Branch Manager,Manager,"Louisville, KY",2023-12-01,2025-10-14,
+700095,4471023,Plumber,Plumber,Mid,"Cincinnati, OH",2010-04-01,2018-03-20,59000.0
+700177,4471023,Home Solutions Consultant,Sales Representative,Mid,"Mason, OH",2021-05-29,2025-09-24,53500.0
+700498,4471023,Consultant,Consultant,Mid,"Cincinnati, OH",2006-05-01,2019-11-01,
+700466,6120887,Vice President of Operations,VP Operations,Executive,"Louisville, KY",2021-08-04,2025-03-15,
+700322,4471023,Staff Accountant,Accountant,Entry,"Columbus, OH",2025-03-10,2026-05-24,
+700162,6120887,Home Solutions Consultant,Sales Representative,Mid,"Florence, KY",2010-05-01,2022-08-13,
+700260,6120887,Dispatcher,Dispatcher,Mid,"Louisville, KY",2012-12-01,2021-08-04,
+700452,4471023,General Manager,General Manager,Manager,"Cincinnati, OH",2013-07-19,2024-11-01,
+700614,9083341,Branch Manager - Distribution,Branch Manager,Manager,"Tampa, FL",2026-07-26,2026-08-02,
+700115,4471023,Lead Installer,Lead Installer,Senior,"Columbus, OH",2022-04-28,2025-04-30,
+700237,4471023,Customer Service Representative,Customer Service Rep,Mid,"Cincinnati, OH",2022-02-26,2025-04-12,
+700265,4471023,Dispatcher,Dispatcher,Mid,"Louisville, KY",2011-03-01,2020-04-20,
+700357,4471023,Recruiter,Recruiter,Entry,"Cincinnati, OH",2024-08-13,2025-07-19,
+700577,9083341,Warehouse Associate,Warehouse Associate,Mid,"Fort Myers, FL",2010-09-01,2020-12-07,36000.0
+700532,9083341,Territory Sales Rep - Wholesale,Sales Representative,Mid,"Lakeland, FL",2021-06-27,2026-03-30,
+700235,4471023,Customer Service Representative,Customer Service Rep,Mid,"Columbus, OH",2023-08-02,2026-04-01,36500.0
+700451,4471023,General Manager,General Manager,Manager,"Cincinnati, OH",2013-04-01,2019-04-19,
+700385,4471023,Marketing Coordinator,Marketing Coordinator,Mid,"Mason, OH",2016-10-05,2024-11-05,52500.0
+700416,4471023,Branch Manager,Branch Manager,Manager,"Florence, KY",2022-01-13,2025-12-18,
+700608,9083341,Inside Sales - HVAC Parts,Inside Sales,Mid,"Tampa, FL",2023-08-02,2025-05-04,53000.0
+700100,4471023,Plumber,Plumber,Mid,"Cincinnati, OH",2023-09-17,2025-09-06,
+700209,4471023,Inside Sales Representative,Inside Sales,Mid,"Mason, OH",2013-05-01,2018-11-09,
+700380,4471023,Marketing Coordinator,Marketing Coordinator,Mid,"Columbus, OH",2010-10-01,2018-08-01,55500.0
+700189,6120887,Residential Sales Consultant,Sales Representative,Entry,"Florence, KY",2026-02-26,2026-04-14,46000.0
+700250,4471023,Customer Service Representative,Customer Service Rep,Entry,"Cincinnati, OH",2025-02-20,2025-12-11,
+700398,4471023,Marketing Manager,Marketing Manager,Manager,"Columbus, OH",2023-11-13,2026-07-08,62500.0
+700503,6120887,Project Coordinator,Project Coordinator,Mid,"Lexington, KY",2021-09-19,2026-03-03,51000.0
+700628,9083341,Delivery Driver,Driver,Mid,"Orlando, FL",2024-01-27,2026-07-27,38000.0
+700471,4471023,Team Member,Unknown,Mid,"Louisville, KY",2010-03-01,2022-10-09,
+700552,9083341,Counter Sales Associate,Counter Sales,Mid,"Fort Myers, FL",2020-11-14,2025-04-25,48500.0
+700176,4471023,Home Solutions Consultant,Sales Representative,Entry,"Columbus, OH",2024-08-26,2025-05-27,
+700525,9083341,Territory Sales Rep - Wholesale,Sales Representative,Entry,"Tampa, FL",2025-07-24,2026-08-15,
+700133,6120887,Comfort Advisor,Sales Representative,Mid,"Louisville, KY",2020-08-30,2026-01-14,55000.0
+700457,4471023,Regional Director,Regional Director,Director,"Louisville, KY",2023-02-04,2026-03-15,
+700033,4471023,HVAC Service Technician,Service Technician,Entry,"Columbus, OH",2024-04-09,2025-10-01,
+700117,4471023,Lead Installer,Lead Installer,Senior,"Columbus, OH",2024-06-02,2025-01-23,46000.0
+700102,4471023,Plumber,Plumber,Mid,"Columbus, OH",2019-05-04,2026-01-20,54500.0
+700018,4471023,HVAC Service Technician,Service Technician,Entry,"Cincinnati, OH",2025-02-11,2025-08-28,58000.0
+700547,9083341,Counter Sales Associate,Counter Sales,Mid,"Orlando, FL",2010-09-01,2018-03-27,
+700350,4471023,HR Generalist,HR Generalist,Entry,"Cincinnati, OH",2025-05-15,2026-06-19,60500.0
+700204,4471023,Sales Manager,Sales Manager,Manager,"Dayton, OH",2023-11-01,2025-11-20,50000.0
+700598,9083341,Inside Sales - HVAC Parts,Inside Sales,Mid,"Fort Myers, FL",2009-11-01,2020-03-11,
+700269,4471023,Dispatcher,Dispatcher,Entry,"Columbus, OH",2024-04-04,2025-11-28,
+700056,6120887,Service Technician,Service Technician,Mid,"Florence, KY",2014-09-02,2024-11-01,
+700348,4471023,HR Generalist,HR Generalist,Mid,"Lexington, KY",2007-06-01,2021-07-02,
+700412,6120887,Branch Manager,Branch Manager,Manager,"Louisville, KY",2025-03-07,2025-09-17,97000.0
+700211,4471023,Inside Sales Representative,Inside Sales,Entry,"Cincinnati, OH",2024-06-02,2025-02-13,
+700254,4471023,Customer Service Representative,Customer Service Rep,Mid,"Cincinnati, OH",2022-12-24,2025-09-03,
+700636,9083341,Credit Analyst,Credit Analyst,Mid,"Fort Myers, FL",2023-12-13,2026-03-28,40000.0
+700278,6120887,Dispatcher,Dispatcher,Entry,"Louisville, KY",2025-01-15,2025-06-22,
+700002,4471023,HVAC Service Technician,Service Technician,Mid,"Mason, OH",2013-07-01,2020-12-03,
+700597,9083341,Inside Sales - HVAC Parts,Inside Sales,Mid,"Tampa, FL",2014-09-01,2022-04-04,
+700373,4471023,Systems Administrator,Systems Administrator,Mid,"Cincinnati, OH",2014-04-12,2025-08-23,
+700146,6120887,Comfort Advisor,Sales Representative,Mid,"Lexington, KY",2021-10-13,2024-10-28,
+700132,4471023,Comfort Advisor,Sales Representative,Entry,"Louisville, KY",2026-04-05,2026-07-26,50500.0
+700609,9083341,Inside Sales - HVAC Parts,Inside Sales,Mid,"Lakeland, FL",2015-03-01,2025-07-31,
+700540,9083341,Territory Sales Rep - Wholesale,Sales Representative,Mid,"Lakeland, FL",2020-03-05,2024-12-28,
+700165,6120887,Home Solutions Consultant,Sales Representative,Entry,"Florence, KY",2024-08-08,2026-01-25,55500.0
+700578,9083341,Warehouse Associate,Warehouse Associate,Mid,"Tampa, FL",2023-11-08,2024-10-30,
+700261,4471023,Dispatcher,Dispatcher,Mid,"Lexington, KY",2009-10-01,2019-06-18,
+700097,4471023,Plumber,Plumber,Mid,"Cincinnati, OH",2022-05-28,2024-10-15,48500.0
+700243,4471023,Customer Service Representative,Customer Service Rep,Entry,"Lexington, KY",2025-02-02,2025-03-29,
+700030,4471023,HVAC Service Technician,Service Technician,Mid,"Columbus, OH",2021-01-20,2026-07-18,
+700590,9083341,Warehouse Associate,Warehouse Associate,Mid,"Fort Myers, FL",2019-02-09,2026-05-08,
+700119,4471023,Lead Installer,Lead Installer,Senior,"Cincinnati, OH",2025-11-03,2026-06-11,61500.0
+700534,9083341,Territory Sales Rep - Wholesale,Sales Representative,Mid,"Fort Myers, FL",2024-01-12,2025-08-21,
+700058,4471023,Service Technician,Service Technician,Entry,"Louisville, KY",2024-10-04,2026-01-06,
+700393,4471023,Digital Marketing Specialist,Marketing Specialist,Entry,"Cincinnati, OH",2025-09-11,2026-03-26,
+700437,4471023,Install Manager,Install Manager,Manager,"Lexington, KY",2009-04-01,2019-04-19,
+700518,9083341,Territory Sales Rep - Wholesale,Sales Representative,Mid,"Fort Myers, FL",2024-01-14,2026-05-30,58000.0
+700354,4471023,HR Generalist,HR Generalist,Mid,"Lexington, KY",2021-06-01,2024-10-30,85500.0
+700446,4471023,Field Supervisor,Field Supervisor,Manager,"Cincinnati, OH",2020-09-18,2025-08-29,
+700021,4471023,HVAC Service Technician,Service Technician,Entry,"Cincinnati, OH",2026-04-11,2026-07-09,
+700182,4471023,Residential Sales Consultant,Sales Representative,Mid,"Cincinnati, OH",2010-08-01,2021-09-06,55000.0
+700164,4471023,Home Solutions Consultant,Sales Representative,Mid,"Louisville, KY",2019-10-14,2025-05-05,47000.0
+700286,4471023,Call Center Team Lead,Customer Service Supervisor,Manager,"Lexington, KY",2025-06-04,2025-10-18,35000.0
+700103,4471023,Plumber,Plumber,Mid,"Florence, KY",2017-12-01,2026-07-07,
+700312,4471023,Fleet Coordinator,Fleet Coordinator,Mid,"Cincinnati, OH",2021-05-30,2025-01-10,
+700583,9083341,Warehouse Associate,Warehouse Associate,Entry,"Tampa, FL",2024-12-13,2025-10-15,
+700405,6120887,Director of Operations,Operations Director,Director,"Louisville, KY",2025-05-20,2025-09-17,111500.0
+700344,4471023,Payroll Administrator,Payroll,Entry,"Columbus, OH",2026-01-03,2026-07-18,
+700020,4471023,HVAC Service Technician,Service Technician,Entry,"Lexington, KY",2026-06-08,2026-08-15,
+700642,9083341,Regional Sales Director,Sales Director,Director,"Orlando, FL",2012-10-01,2022-10-09,
+700472,4471023,Team Member,Unknown,Mid,"Florence, KY",2012-10-01,2020-04-17,42500.0
+700634,9083341,Credit Analyst,Credit Analyst,Mid,"Tampa, FL",2022-03-29,2025-11-22,
+700281,4471023,Call Center Team Lead,Customer Service Supervisor,Manager,"Dayton, OH",2014-07-01,2018-11-17,
+700443,4471023,Field Supervisor,Field Supervisor,Manager,"Columbus, OH",2009-02-01,2022-06-25,113000.0
+700232,4471023,Customer Service Representative,Customer Service Rep,Mid,"Cincinnati, OH",2022-01-04,2025-12-27,35500.0
+700436,4471023,Service Manager,Service Manager,Manager,"Lexington, KY",2024-04-12,2025-11-29,
+700378,6120887,Marketing Coordinator,Marketing Coordinator,Mid,"Lexington, KY",2009-02-01,2020-05-26,
+700342,4471023,Payroll Administrator,Payroll,Mid,"Louisville, KY",2019-05-09,2026-07-10,
+700387,4471023,Digital Marketing Specialist,Marketing Specialist,Mid,"Cincinnati, OH",2013-12-01,2021-04-17,
+700050,4471023,Service Technician,Service Technician,Entry,"Dayton, OH",2025-01-01,2026-07-06,54500.0
+700621,9083341,Branch Manager - Distribution,Branch Manager,Manager,"Orlando, FL",2022-03-08,2026-05-17,
+700175,4471023,Home Solutions Consultant,Sales Representative,Mid,"Cincinnati, OH",2023-02-21,2026-04-25,51000.0
+700496,6120887,Intern,Intern,Entry,"Louisville, KY",2020-12-03,2024-12-13,
+700579,9083341,Warehouse Associate,Warehouse Associate,Entry,"Orlando, FL",2025-09-02,2026-03-18,
+700273,4471023,Dispatcher,Dispatcher,Entry,"Mason, OH",2026-02-27,2026-08-03,
+700294,4471023,Customer Experience Manager,Customer Service Manager,Manager,"Florence, KY",2021-08-03,2026-07-14,
+700041,4471023,Service Technician,Service Technician,Mid,"Columbus, OH",2006-06-01,2020-01-03,61000.0
+700221,4471023,Customer Service Representative,Customer Service Rep,Mid,"Louisville, KY",2006-07-01,2022-10-04,37000.0
+700076,4471023,HVAC Installer,Installer,Mid,"Florence, KY",2022-08-24,2024-10-28,
+700355,4471023,Recruiter,Recruiter,Mid,"Louisville, KY",2011-04-01,2021-12-16,67500.0
+700123,4471023,Apprentice HVAC Technician,Apprentice Technician,Entry,"Columbus, OH",2009-03-01,2019-04-26,
+700426,4471023,Operations Manager,Operations Manager,Manager,"Florence, KY",2022-07-02,2026-07-25,
+700024,4471023,HVAC Service Technician,Service Technician,Mid,"Mason, OH",2015-06-26,2024-12-02,
+700427,6120887,Operations Manager,Operations Manager,Manager,"Florence, KY",2022-03-31,2025-10-09,
+700541,9083341,Counter Sales Associate,Counter Sales,Mid,"Orlando, FL",2012-12-01,2022-08-16,
+700259,4471023,Dispatcher,Dispatcher,Mid,"Florence, KY",2011-09-01,2021-03-07,44000.0
+700637,9083341,Credit Analyst,Credit Analyst,Mid,"Tampa, FL",2021-07-17,2025-09-12,
+700089,4471023,Install Technician,Installer,Mid,"Columbus, OH",2020-07-05,2026-04-29,
+700460,6120887,Regional Director,Regional Director,Director,"Lexington, KY",2023-08-20,2026-08-24,115000.0
+700576,9083341,Warehouse Associate,Warehouse Associate,Mid,"Fort Myers, FL",2012-04-01,2018-05-07,
+700397,4471023,Marketing Manager,Marketing Manager,Manager,"Dayton, OH",2025-01-22,2025-03-18,73000.0
+700356,4471023,Recruiter,Recruiter,Entry,"Louisville, KY",2024-12-29,2025-06-06,
+700467,4471023,Vice President of Operations,VP Operations,Executive,"Cincinnati, OH",2020-01-28,2025-07-02,
+700395,4471023,Marketing Manager,Marketing Manager,Manager,"Florence, KY",2011-09-01,2018-10-19,
+700449,4471023,Field Supervisor,Field Supervisor,Manager,"Cincinnati, OH",2026-02-20,2026-03-14,
+700240,4471023,Customer Service Representative,Customer Service Rep,Entry,"Mason, OH",2024-12-11,2026-06-04,
+700613,9083341,Branch Manager - Distribution,Branch Manager,Manager,"Tampa, FL",2019-03-25,2026-05-18,
+700140,4471023,Comfort Advisor,Sales Representative,Entry,"Lexington, KY",2024-10-25,2026-02-10,49500.0
+700404,4471023,Director of Operations,Operations Director,Director,"Cincinnati, OH",2022-09-09,2025-05-07,
+700640,9083341,Pricing Analyst,Pricing Analyst,Mid,"Orlando, FL",2022-07-01,2025-09-26,
+700311,4471023,Parts Runner,Warehouse Associate,Mid,"Lexington, KY",2019-10-03,2026-08-21,
+700429,4471023,Service Manager,Service Manager,Manager,"Cincinnati, OH",2014-08-01,2020-12-01,
+700227,4471023,Customer Service Representative,Customer Service Rep,Mid,"Cincinnati, OH",2008-08-01,2019-01-06,41500.0
+700358,4471023,Recruiter,Recruiter,Mid,"Cincinnati, OH",2019-12-09,2024-10-06,81500.0
+700510,9083341,Territory Sales Rep - Wholesale,Sales Representative,Mid,"Orlando, FL",2010-03-01,2021-08-22,
+700538,9083341,Territory Sales Rep - Wholesale,Sales Representative,Entry,"Lakeland, FL",2025-06-18,2026-05-28,55500.0
+700615,9083341,Branch Manager - Distribution,Branch Manager,Manager,"Fort Myers, FL",2025-12-26,2026-04-19,
+700624,9083341,Delivery Driver,Driver,Mid,"Lakeland, FL",2009-04-01,2020-03-01,39500.0
+700316,4471023,Staff Accountant,Accountant,Mid,"Cincinnati, OH",2006-09-01,2019-12-17,
+700196,4471023,Residential Sales Consultant,Sales Representative,Mid,"Florence, KY",2020-09-16,2026-04-15,54500.0
+700185,4471023,Residential Sales Consultant,Sales Representative,Mid,"Columbus, OH",2020-02-08,2026-05-13,52000.0
+700315,4471023,Fleet Coordinator,Fleet Coordinator,Entry,"Florence, KY",2025-01-04,2025-12-05,
+700470,4471023,Owner,Owner,Executive,"Louisville, KY",2009-02-01,2020-05-27,225000.0
+700376,4471023,IT Manager,IT Manager,Manager,"Lexington, KY",2023-10-31,2025-05-25,75500.0
+700325,4471023,Staff Accountant,Accountant,Entry,"Cincinnati, OH",2025-01-30,2025-05-03,61500.0
+700486,6120887,Associate,Unknown,Mid,"Louisville, KY",2014-09-01,2020-06-18,
+700049,4471023,Service Technician,Service Technician,Mid,"Florence, KY",2021-07-18,2025-08-07,60000.0
+700291,4471023,Customer Experience Manager,Customer Service Manager,Manager,"Louisville, KY",2018-04-25,2025-07-11,
+700369,4471023,IT Support Specialist,IT Support,Entry,"Cincinnati, OH",2025-10-26,2026-03-09,
+700611,9083341,Branch Manager - Distribution,Branch Manager,Manager,"Fort Myers, FL",2009-05-01,2018-08-23,
+700206,4471023,Sales Manager,Sales Manager,Manager,"Cincinnati, OH",2025-10-15,2025-10-16,
+700057,4471023,Service Technician,Service Technician,Mid,"Cincinnati, OH",2023-09-19,2025-02-10,
+700417,4471023,Branch Manager,Branch Manager,Manager,"Cincinnati, OH",2019-12-17,2025-02-14,
+700220,4471023,Customer Service Representative,Customer Service Rep,Mid,"Dayton, OH",2012-04-01,2022-07-22,
+700052,6120887,Service Technician,Service Technician,Mid,"Lexington, KY",2023-05-27,2025-04-30,
+700593,9083341,Warehouse Associate,Warehouse Associate,Entry,"Fort Myers, FL",2024-12-30,2025-05-06,40000.0
+700148,4471023,Comfort Advisor,Sales Representative,Mid,"Dayton, OH",2021-02-22,2025-04-22,50000.0
+700400,6120887,Brand Manager,Marketing Manager,Manager,"Louisville, KY",2019-08-06,2026-02-07,82500.0
+700459,6120887,Regional Director,Regional Director,Director,"Louisville, KY",2016-09-18,2025-06-08,
+700200,4471023,Sales Manager,Sales Manager,Manager,"Florence, KY",2013-06-01,2022-05-21,51000.0
+700283,6120887,Call Center Team Lead,Customer Service Supervisor,Manager,"Louisville, KY",2022-06-28,2025-08-25,36500.0
+700012,4471023,HVAC Service Technician,Service Technician,Mid,"Louisville, KY",2017-11-06,2025-07-27,
+700522,9083341,Territory Sales Rep - Wholesale,Sales Representative,Entry,"Orlando, FL",2025-01-31,2025-06-20,
+700107,4471023,Senior Service Technician,Senior Service Technician,Senior,"Mason, OH",2024-08-24,2026-04-05,
+700633,9083341,Credit Analyst,Credit Analyst,Mid,"Tampa, FL",2011-05-01,2021-07-15,
+700213,4471023,Inside Sales Representative,Inside Sales,Entry,"Cincinnati, OH",2026-03-15,2026-06-02,
+700118,4471023,Lead Installer,Lead Installer,Senior,"Cincinnati, OH",2024-04-22,2026-07-22,
+700323,6120887,Staff Accountant,Accountant,Mid,"Louisville, KY",2023-05-29,2025-06-25,
+700303,4471023,Warehouse Associate,Warehouse Associate,Mid,"Dayton, OH",2023-03-25,2024-11-02,
+700296,4471023,Warehouse Associate,Warehouse Associate,Mid,"Louisville, KY",2010-11-01,2020-12-19,44000.0
+700084,6120887,Install Technician,Installer,Mid,"Louisville, KY",2011-07-01,2018-07-27,
+700229,4471023,Customer Service Representative,Customer Service Rep,Mid,"Cincinnati, OH",2009-11-01,2021-07-24,
+700191,4471023,Residential Sales Consultant,Sales Representative,Entry,"Cincinnati, OH",2024-12-29,2026-07-17,52500.0
+700592,9083341,Warehouse Associate,Warehouse Associate,Entry,"Tampa, FL",2024-06-20,2026-03-27,
+700251,4471023,Customer Service Representative,Customer Service Rep,Entry,"Cincinnati, OH",2024-08-22,2025-01-09,
+700450,4471023,Field Supervisor,Field Supervisor,Manager,"Cincinnati, OH",2025-02-04,2025-11-26,
+700575,9083341,Warehouse Associate,Warehouse Associate,Mid,"Fort Myers, FL",2009-01-01,2018-02-15,
+700501,4471023,Consultant,Consultant,Mid,"Columbus, OH",2013-06-22,2025-06-26,43000.0
+700122,4471023,Apprentice HVAC Technician,Apprentice Technician,Entry,"Cincinnati, OH",2013-10-01,2022-11-11,
+700631,9083341,Delivery Driver,Driver,Mid,"Lakeland, FL",2019-01-01,2025-03-26,
+700042,4471023,Service Technician,Service Technician,Mid,"Cincinnati, OH",2008-03-01,2018-08-07,
+700361,4471023,HR Manager,HR Manager,Manager,"Cincinnati, OH",2025-09-30,2026-08-16,
+700248,4471023,Customer Service Representative,Customer Service Rep,Mid,"Cincinnati, OH",2017-01-17,2025-09-15,
+700580,9083341,Warehouse Associate,Warehouse Associate,Mid,"Fort Myers, FL",2024-02-12,2025-04-22,38000.0
+700125,4471023,Apprentice HVAC Technician,Apprentice Technician,Entry,"Cincinnati, OH",2024-03-15,2024-10-30,
+700267,4471023,Dispatcher,Dispatcher,Mid,"Lexington, KY",2012-09-01,2025-05-28,
+700396,4471023,Marketing Manager,Marketing Manager,Manager,"Mason, OH",2023-11-01,2025-03-19,
+700180,6120887,Home Solutions Consultant,Sales Representative,Mid,"Louisville, KY",2019-08-22,2025-12-10,
+700428,4471023,Operations Manager,Operations Manager,Manager,"Mason, OH",2026-02-21,2026-04-24,
+700226,6120887,Customer Service Representative,Customer Service Rep,Mid,"Florence, KY",2012-09-01,2019-07-12,
+700028,4471023,HVAC Service Technician,Service Technician,Mid,"Mason, OH",2023-04-03,2025-08-13,
+700163,4471023,Home Solutions Consultant,Sales Representative,Mid,"Mason, OH",2006-09-01,2020-02-11,
+700567,9083341,Counter Sales Associate,Counter Sales,Mid,"Fort Myers, FL",2021-06-07,2025-12-08,
+700037,6120887,HVAC Service Technician,Service Technician,Mid,"Louisville, KY",2023-07-23,2025-04-02,
+700484,4471023,Associate,Unknown,Mid,"Dayton, OH",2009-01-01,2020-05-21,
+700161,4471023,Home Solutions Consultant,Sales Representative,Mid,"Cincinnati, OH",2012-04-01,2021-08-21,
+700476,4471023,Team Member,Unknown,Mid,"Cincinnati, OH",2015-08-20,2024-12-17,35000.0
+700219,4471023,Customer Service Representative,Customer Service Rep,Mid,"Cincinnati, OH",2013-08-01,2022-03-17,35000.0
+700372,4471023,Systems Administrator,Systems Administrator,Entry,"Florence, KY",2025-09-03,2026-02-25,94000.0
+700001,4471023,HVAC Service Technician,Service Technician,Mid,"Columbus, OH",2006-10-01,2020-04-10,
+700236,6120887,Customer Service Representative,Customer Service Rep,Entry,"Louisville, KY",2026-04-29,2026-07-09,
+700106,4471023,Senior Service Technician,Senior Service Technician,Senior,"Cincinnati, OH",2008-01-01,2021-05-14,52500.0
+700507,9083341,Territory Sales Rep - Wholesale,Sales Representative,Mid,"Orlando, FL",2010-06-01,2021-02-15,50000.0
+700492,4471023,Intern,Intern,Entry,"Cincinnati, OH",2008-03-01,2021-11-25,
+700371,6120887,Systems Administrator,Systems Administrator,Entry,"Florence, KY",2024-12-20,2025-05-27,70000.0
+700310,6120887,Parts Runner,Warehouse Associate,Mid,"Louisville, KY",2022-09-30,2025-12-15,
+700015,4471023,HVAC Service Technician,Service Technician,Mid,"Cincinnati, OH",2020-02-03,2025-09-18,
+700289,4471023,Customer Experience Manager,Customer Service Manager,Manager,"Lexington, KY",2006-08-01,2018-11-21,
+700530,9083341,Territory Sales Rep - Wholesale,Sales Representative,Mid,"Lakeland, FL",2023-05-10,2024-10-07,45000.0
+700059,4471023,HVAC Installer,Installer,Mid,"Lexington, KY",2006-02-01,2019-08-12,
+700495,6120887,Intern,Intern,Entry,"Louisville, KY",2016-06-16,2025-08-13,
+700454,4471023,General Manager,General Manager,Manager,"Florence, KY",2021-11-05,2024-12-09,115000.0
+700320,4471023,Staff Accountant,Accountant,Entry,"Louisville, KY",2026-02-19,2026-05-06,64500.0
+700549,9083341,Counter Sales Associate,Counter Sales,Mid,"Tampa, FL",2022-12-21,2026-07-03,
+700433,6120887,Service Manager,Service Manager,Manager,"Florence, KY",2025-03-08,2026-04-16,
+700171,4471023,Home Solutions Consultant,Sales Representative,Mid,"Florence, KY",2023-12-05,2026-04-02,
+700309,4471023,Parts Runner,Warehouse Associate,Mid,"Lexington, KY",2023-11-15,2026-08-04,41500.0
+700423,6120887,Operations Manager,Operations Manager,Manager,"Florence, KY",2023-03-13,2025-11-07,
+700138,4471023,Comfort Advisor,Sales Representative,Mid,"Dayton, OH",2022-11-13,2026-03-05,48500.0
+700082,4471023,HVAC Installer,Installer,Entry,"Louisville, KY",2026-06-17,2026-08-27,
+700337,4471023,Controller,Controller,Manager,"Cincinnati, OH",2007-03-01,2019-05-26,
+700128,4471023,Comfort Advisor,Sales Representative,Mid,"Cincinnati, OH",2014-09-01,2020-03-26,
+700526,9083341,Territory Sales Rep - Wholesale,Sales Representative,Entry,"Orlando, FL",2025-10-16,2025-10-24,48500.0
+700166,4471023,Home Solutions Consultant,Sales Representative,Mid,"Louisville, KY",2016-06-06,2025-05-04,
+700587,9083341,Warehouse Associate,Warehouse Associate,Entry,"Lakeland, FL",2025-05-17,2025-08-21,
+700403,6120887,Director of Operations,Operations Director,Director,"Louisville, KY",2025-06-02,2026-08-23,97000.0
+700284,4471023,Call Center Team Lead,Customer Service Supervisor,Manager,"Florence, KY",2021-05-19,2025-06-12,
+700489,4471023,Associate,Unknown,Entry,"Mason, OH",2025-10-08,2026-02-28,46500.0
+700324,4471023,Staff Accountant,Accountant,Entry,"Cincinnati, OH",2024-08-12,2025-12-30,
+700069,4471023,HVAC Installer,Installer,Mid,"Cincinnati, OH",2023-09-07,2026-06-24,
+700193,4471023,Residential Sales Consultant,Sales Representative,Mid,"Florence, KY",2019-01-17,2026-04-19,
+700557,9083341,Counter Sales Associate,Counter Sales,Entry,"Fort Myers, FL",2026-01-20,2026-01-21,
+700135,6120887,Comfort Advisor,Sales Representative,Entry,"Louisville, KY",2024-10-29,2025-07-19,
+700098,4471023,Plumber,Plumber,Mid,"Louisville, KY",2024-02-24,2026-05-17,
+700434,4471023,Service Manager,Service Manager,Manager,"Cincinnati, OH",2022-02-01,2024-12-07,
+700295,4471023,Customer Experience Manager,Customer Service Manager,Manager,"Louisville, KY",2024-03-01,2024-10-11,
+700619,9083341,Branch Manager - Distribution,Branch Manager,Manager,"Fort Myers, FL",2017-12-13,2024-10-03,
+700440,6120887,Install Manager,Install Manager,Manager,"Louisville, KY",2024-06-02,2026-01-29,88500.0
+700208,6120887,Sales Manager,Sales Manager,Manager,"Louisville, KY",2025-08-27,2025-12-22,
+700491,4471023,Intern,Intern,Entry,"Louisville, KY",2012-10-01,2018-11-13,
+700478,4471023,Team Member,Unknown,Mid,"Dayton, OH",2018-07-21,2025-09-22,
+700073,4471023,HVAC Installer,Installer,Entry,"Cincinnati, OH",2025-01-16,2026-08-20,
+700013,4471023,HVAC Service Technician,Service Technician,Mid,"Cincinnati, OH",2013-04-12,2025-12-31,
+700430,4471023,Service Manager,Service Manager,Manager,"Cincinnati, OH",2021-04-11,2025-09-06,
+700509,9083341,Territory Sales Rep - Wholesale,Sales Representative,Mid,"Orlando, FL",2013-12-01,2019-01-05,54000.0
+700314,4471023,Fleet Coordinator,Fleet Coordinator,Entry,"Columbus, OH",2024-03-19,2025-03-09,
+700563,9083341,Counter Sales Associate,Counter Sales,Entry,"Orlando, FL",2024-09-16,2025-02-13,
+700092,6120887,Install Technician,Installer,Mid,"Louisville, KY",2023-02-08,2026-08-21,
+700147,4471023,Comfort Advisor,Sales Representative,Entry,"Mason, OH",2024-04-24,2026-06-09,
+700626,9083341,Delivery Driver,Driver,Mid,"Orlando, FL",2022-10-23,2026-04-07,
+700554,9083341,Counter Sales Associate,Counter Sales,Mid,"Tampa, FL",2023-01-30,2025-07-05,57000.0
+700328,6120887,Accounts Payable Specialist,Accounts Payable,Mid,"Florence, KY",2011-01-01,2018-09-24,
+700249,4471023,Customer Service Representative,Customer Service Rep,Entry,"Cincinnati, OH",2026-04-19,2026-05-11,
+700602,9083341,Inside Sales - HVAC Parts,Inside Sales,Mid,"Tampa, FL",2020-05-06,2024-11-21,
+700616,9083341,Branch Manager - Distribution,Branch Manager,Manager,"Tampa, FL",2024-08-11,2025-11-27,
+700292,4471023,Customer Experience Manager,Customer Service Manager,Manager,"Cincinnati, OH",2025-06-19,2025-11-04,39500.0
+700340,6120887,Controller,Controller,Manager,"Louisville, KY",2016-12-15,2024-11-07,
+700212,4471023,Inside Sales Representative,Inside Sales,Mid,"Dayton, OH",2020-10-20,2026-01-13,
+700349,6120887,HR Generalist,HR Generalist,Mid,"Louisville, KY",2010-09-01,2018-08-12,
+700528,9083341,Territory Sales Rep - Wholesale,Sales Representative,Entry,"Lakeland, FL",2025-08-22,2026-07-21,
+700548,9083341,Counter Sales Associate,Counter Sales,Mid,"Orlando, FL",2021-03-31,2025-07-14,
+700108,4471023,Senior Service Technician,Senior Service Technician,Senior,"Mason, OH",2024-08-19,2026-08-05,
+700216,6120887,Customer Service Representative,Customer Service Rep,Mid,"Louisville, KY",2011-01-01,2019-04-17,
+700497,4471023,Intern,Intern,Entry,"Dayton, OH",2025-02-05,2026-02-11,
+700399,4471023,Brand Manager,Marketing Manager,Manager,"Cincinnati, OH",2024-02-15,2026-07-16,
+700343,4471023,Payroll Administrator,Payroll,Mid,"Cincinnati, OH",2021-02-10,2025-06-07,
+700008,6120887,HVAC Service Technician,Service Technician,Mid,"Louisville, KY",2008-02-01,2019-01-08,
+700031,4471023,HVAC Service Technician,Service Technician,Entry,"Cincinnati, OH",2025-08-20,2026-07-05,
+700035,4471023,HVAC Service Technician,Service Technician,Mid,"Columbus, OH",2023-11-30,2026-03-17,
+700025,6120887,HVAC Service Technician,Service Technician,Entry,"Florence, KY",2024-08-13,2025-07-02,
+700088,4471023,Install Technician,Installer,Entry,"Dayton, OH",2025-04-22,2025-06-12,
+700407,4471023,Branch Manager,Branch Manager,Manager,"Cincinnati, OH",2009-09-01,2018-02-04,
+700080,4471023,HVAC Installer,Installer,Mid,"Florence, KY",2020-12-30,2025-05-06,50500.0
+700074,6120887,HVAC Installer,Installer,Mid,"Lexington, KY",2023-10-20,2025-03-03,55000.0
+700268,4471023,Dispatcher,Dispatcher,Mid,"Cincinnati, OH",2022-05-08,2026-02-03,43000.0
+700411,4471023,Branch Manager,Branch Manager,Manager,"Florence, KY",2025-03-11,2026-05-15,
+700061,4471023,HVAC Installer,Installer,Mid,"Columbus, OH",2007-10-01,2018-03-07,
+700096,6120887,Plumber,Plumber,Mid,"Louisville, KY",2013-02-01,2021-12-26,
+700409,4471023,Branch Manager,Branch Manager,Manager,"Dayton, OH",2023-11-10,2025-12-07,
+700040,4471023,Service Technician,Service Technician,Mid,"Dayton, OH",2007-09-01,2022-07-22,51000.0
+700181,4471023,Home Solutions Consultant,Sales Representative,Entry,"Lexington, KY",2025-11-15,2026-02-26,
+700536,9083341,Territory Sales Rep - Wholesale,Sales Representative,Entry,"Orlando, FL",2026-04-06,2026-06-02,
+700127,4471023,Comfort Advisor,Sales Representative,Mid,"Louisville, KY",2011-11-01,2019-08-22,
+700545,9083341,Counter Sales Associate,Counter Sales,Mid,"Orlando, FL",2007-09-01,2019-11-19,44500.0
+700464,4471023,Chief Financial Officer,CFO,Executive,"Dayton, OH",2023-04-03,2026-01-19,
+700287,4471023,Call Center Team Lead,Customer Service Supervisor,Manager,"Mason, OH",2021-06-04,2025-11-03,
+700153,4471023,Comfort Advisor,Sales Representative,Entry,"Columbus, OH",2024-03-21,2025-09-04,54500.0
+700139,4471023,Comfort Advisor,Sales Representative,Entry,"Dayton, OH",2024-12-01,2025-10-09,
+700499,4471023,Consultant,Consultant,Mid,"Cincinnati, OH",2021-03-14,2025-12-16,50000.0
+700319,4471023,Staff Accountant,Accountant,Mid,"Louisville, KY",2024-02-14,2025-01-08,68000.0
+700142,4471023,Comfort Advisor,Sales Representative,Mid,"Mason, OH",2022-05-08,2026-02-17,
+700630,9083341,Delivery Driver,Driver,Mid,"Fort Myers, FL",2022-09-03,2024-10-22,
+700047,4471023,Service Technician,Service Technician,Entry,"Lexington, KY",2025-05-25,2026-01-10,
+700183,6120887,Residential Sales Consultant,Sales Representative,Mid,"Florence, KY",2008-07-01,2020-08-13,
+700062,4471023,HVAC Installer,Installer,Mid,"Dayton, OH",2012-05-01,2019-09-21,
+700305,4471023,Warehouse Associate,Warehouse Associate,Mid,"Cincinnati, OH",2021-04-25,2025-09-20,
+700202,4471023,Sales Manager,Sales Manager,Manager,"Florence, KY",2025-05-26,2026-04-14,44500.0
+700462,4471023,President,President,Executive,"Dayton, OH",2024-04-01,2025-04-29,165500.0
+700038,4471023,HVAC Service Technician,Service Technician,Entry,"Mason, OH",2026-07-29,2026-08-04,
+700190,6120887,Residential Sales Consultant,Sales Representative,Entry,"Lexington, KY",2024-08-19,2025-12-30,
+700571,9083341,Counter Sales Associate,Counter Sales,Mid,"Fort Myers, FL",2021-10-26,2025-03-01,50000.0
+700383,4471023,Marketing Coordinator,Marketing Coordinator,Mid,"Florence, KY",2021-11-02,2026-02-08,56000.0
+700502,4471023,Consultant,Consultant,Entry,"Dayton, OH",2024-11-06,2026-08-05,
+700066,4471023,HVAC Installer,Installer,Mid,"Lexington, KY",2013-04-01,2018-07-02,
+700313,4471023,Fleet Coordinator,Fleet Coordinator,Mid,"Florence, KY",2014-11-04,2026-01-25,44000.0
+700131,4471023,Comfort Advisor,Sales Representative,Mid,"Mason, OH",2006-01-01,2022-06-26,
+700011,6120887,HVAC Service Technician,Service Technician,Mid,"Louisville, KY",2019-09-23,2024-12-19,
+700475,6120887,Team Member,Unknown,Mid,"Lexington, KY",2021-03-03,2026-04-26,
+700252,4471023,Customer Service Representative,Customer Service Rep,Mid,"Cincinnati, OH",2021-11-01,2026-05-23,38500.0
+700247,6120887,Customer Service Representative,Customer Service Rep,Mid,"Louisville, KY",2023-09-27,2026-03-27,
+700381,4471023,Marketing Coordinator,Marketing Coordinator,Entry,"Lexington, KY",2024-03-23,2025-06-21,80000.0
+700639,9083341,Pricing Analyst,Pricing Analyst,Mid,"Orlando, FL",2024-01-04,2025-08-21,
+700643,9083341,Regional Sales Director,Sales Director,Director,"Tampa, FL",2023-09-13,2025-06-20,
+700067,4471023,HVAC Installer,Installer,Entry,"Cincinnati, OH",2025-07-12,2025-07-17,
+700246,4471023,Customer Service Representative,Customer Service Rep,Entry,"Columbus, OH",2026-06-20,2026-08-11,36000.0
+700463,4471023,Chief Executive Officer,CEO,Executive,"Lexington, KY",2022-03-11,2025-01-05,
+700339,4471023,Controller,Controller,Manager,"Cincinnati, OH",2026-01-02,2026-05-06,64000.0
+700374,4471023,Systems Administrator,Systems Administrator,Mid,"Lexington, KY",2023-12-02,2025-08-02,
+700553,9083341,Counter Sales Associate,Counter Sales,Entry,"Orlando, FL",2026-06-15,2026-08-22,
+700207,6120887,Sales Manager,Sales Manager,Manager,"Lexington, KY",2021-10-29,2025-08-20,
+700034,4471023,HVAC Service Technician,Service Technician,Entry,"Columbus, OH",2024-05-07,2025-04-13,
+700410,4471023,Branch Manager,Branch Manager,Manager,"Lexington, KY",2025-08-25,2026-07-15,
+700363,4471023,IT Support Specialist,IT Support,Mid,"Cincinnati, OH",2010-10-01,2020-09-04,
+700141,6120887,Comfort Advisor,Sales Representative,Entry,"Lexington, KY",2026-01-26,2026-06-10,52500.0
+700203,4471023,Sales Manager,Sales Manager,Manager,"Columbus, OH",2024-03-02,2026-04-20,49500.0
+700500,4471023,Consultant,Consultant,Mid,"Cincinnati, OH",2022-07-11,2024-12-22,
+700154,4471023,Comfort Advisor,Sales Representative,Entry,"Louisville, KY",2025-08-16,2026-03-21,
+700266,4471023,Dispatcher,Dispatcher,Entry,"Cincinnati, OH",2026-06-01,2026-08-26,
+700201,4471023,Sales Manager,Sales Manager,Manager,"Lexington, KY",2019-06-14,2025-07-12,
+700187,4471023,Residential Sales Consultant,Sales Representative,Mid,"Louisville, KY",2024-02-28,2024-11-05,51500.0
+700060,4471023,HVAC Installer,Installer,Mid,"Florence, KY",2014-04-01,2019-10-17,
+700604,9083341,Inside Sales - HVAC Parts,Inside Sales,Mid,"Fort Myers, FL",2023-07-07,2025-12-26,52000.0
+700408,4471023,Branch Manager,Branch Manager,Manager,"Lexington, KY",2013-04-01,2018-12-10,102000.0
+700145,6120887,Comfort Advisor,Sales Representative,Mid,"Louisville, KY",2020-03-08,2026-01-17,
+700391,4471023,Digital Marketing Specialist,Marketing Specialist,Mid,"Cincinnati, OH",2023-01-05,2024-10-29,61500.0
+700424,4471023,Operations Manager,Operations Manager,Manager,"Florence, KY",2023-03-29,2025-10-25,
+700346,4471023,Financial Analyst,Financial Analyst,Entry,"Louisville, KY",2024-09-13,2025-10-24,
+700390,4471023,Digital Marketing Specialist,Marketing Specialist,Entry,"Cincinnati, OH",2026-04-10,2026-05-27,
+700565,9083341,Counter Sales Associate,Counter Sales,Mid,"Tampa, FL",2023-04-13,2025-07-18,
+700264,6120887,Dispatcher,Dispatcher,Mid,"Louisville, KY",2011-06-01,2020-11-23,
+700632,9083341,Delivery Driver,Driver,Mid,"Lakeland, FL",2023-04-30,2026-07-14,
+700623,9083341,Delivery Driver,Driver,Mid,"Lakeland, FL",2008-01-01,2020-12-15,45000.0
+700641,9083341,Pricing Analyst,Pricing Analyst,Mid,"Orlando, FL",2023-11-22,2025-08-03,
+700233,4471023,Customer Service Representative,Customer Service Rep,Entry,"Dayton, OH",2025-06-04,2025-10-28,
+700258,4471023,Dispatcher,Dispatcher,Mid,"Louisville, KY",2007-04-01,2022-12-04,
+700638,9083341,Pricing Analyst,Pricing Analyst,Mid,"Tampa, FL",2010-07-01,2020-11-23,37500.0
+700242,4471023,Customer Service Representative,Customer Service Rep,Mid,"Cincinnati, OH",2021-08-06,2025-11-10,36000.0
+700113,4471023,Senior Service Technician,Senior Service Technician,Senior,"Dayton, OH",2025-03-25,2025-12-09,
+700573,9083341,Counter Sales Associate,Counter Sales,Mid,"Lakeland, FL",2022-02-23,2025-01-18,
+700352,6120887,HR Generalist,HR Generalist,Entry,"Louisville, KY",2026-07-06,2026-07-14,
+700198,6120887,Residential Sales Consultant,Sales Representative,Entry,"Louisville, KY",2024-07-20,2025-12-12,
+700338,4471023,Controller,Controller,Manager,"Cincinnati, OH",2022-09-30,2025-04-09,70000.0
+700508,9083341,Territory Sales Rep - Wholesale,Sales Representative,Mid,"Tampa, FL",2013-01-01,2020-01-23,57000.0
+700441,4471023,Install Manager,Install Manager,Manager,"Mason, OH",2023-11-11,2024-11-20,104500.0
+700537,9083341,Territory Sales Rep - Wholesale,Sales Representative,Entry,"Fort Myers, FL",2024-05-20,2025-11-05,50000.0
+700551,9083341,Counter Sales Associate,Counter Sales,Entry,"Fort Myers, FL",2024-08-30,2025-09-11,53500.0
+700157,4471023,Comfort Advisor,Sales Representative,Mid,"Dayton, OH",2022-07-19,2024-10-21,
+700064,4471023,HVAC Installer,Installer,Mid,"Cincinnati, OH",2007-04-01,2018-07-01,54000.0
+700546,9083341,Counter Sales Associate,Counter Sales,Mid,"Orlando, FL",2006-06-01,2021-08-20,50500.0
+700622,9083341,Branch Manager - Distribution,Branch Manager,Manager,"Tampa, FL",2023-08-21,2024-11-15,
+700334,4471023,Accounts Payable Specialist,Accounts Payable,Entry,"Columbus, OH",2026-01-23,2026-05-30,
+700480,6120887,Team Member,Unknown,Mid,"Louisville, KY",2023-11-15,2025-10-27,47500.0
+700112,4471023,Senior Service Technician,Senior Service Technician,Senior,"Columbus, OH",2026-02-17,2026-04-21,57500.0
+700531,9083341,Territory Sales Rep - Wholesale,Sales Representative,Entry,"Tampa, FL",2025-09-14,2025-10-24,52500.0
+700195,6120887,Residential Sales Consultant,Sales Representative,Entry,"Louisville, KY",2025-05-10,2026-01-18,
+700192,4471023,Residential Sales Consultant,Sales Representative,Mid,"Cincinnati, OH",2023-05-29,2026-03-14,48500.0
+700493,4471023,Intern,Intern,Entry,"Dayton, OH",2025-07-30,2026-08-27,
+700367,4471023,IT Support Specialist,IT Support,Entry,"Florence, KY",2024-12-06,2026-08-18,
+700599,9083341,Inside Sales - HVAC Parts,Inside Sales,Entry,"Lakeland, FL",2025-07-05,2025-08-13,
+700158,4471023,Comfort Advisor,Sales Representative,Entry,"Cincinnati, OH",2024-03-08,2024-12-25,51000.0
+700005,4471023,HVAC Service Technician,Service Technician,Mid,"Mason, OH",2010-11-01,2018-06-09,
+700473,4471023,Team Member,Unknown,Mid,"Lexington, KY",2006-05-01,2019-07-08,
+700570,9083341,Counter Sales Associate,Counter Sales,Mid,"Orlando, FL",2023-01-29,2026-02-25,
+700625,9083341,Delivery Driver,Driver,Entry,"Orlando, FL",2025-04-20,2025-07-17,
+700149,6120887,Comfort Advisor,Sales Representative,Mid,"Louisville, KY",2023-03-19,2025-07-13,56000.0
+700550,9083341,Counter Sales Associate,Counter Sales,Entry,"Lakeland, FL",2025-04-14,2025-10-08,
+700524,9083341,Territory Sales Rep - Wholesale,Sales Representative,Mid,"Tampa, FL",2022-01-31,2025-06-18,
+700504,6120887,Project Coordinator,Project Coordinator,Entry,"Lexington, KY",2026-02-10,2026-06-26,52000.0
+700516,9083341,Territory Sales Rep - Wholesale,Sales Representative,Mid,"Fort Myers, FL",2021-11-26,2026-07-02,
+700079,4471023,HVAC Installer,Installer,Entry,"Mason, OH",2024-04-28,2026-04-05,
+700256,6120887,Customer Service Representative,Customer Service Rep,Entry,"Florence, KY",2026-05-12,2026-05-14,
+700560,9083341,Counter Sales Associate,Counter Sales,Entry,"Tampa, FL",2024-04-24,2024-11-04,47500.0
+700574,9083341,Warehouse Associate,Warehouse Associate,Mid,"Fort Myers, FL",2008-06-01,2018-08-20,45000.0
+700559,9083341,Counter Sales Associate,Counter Sales,Entry,"Tampa, FL",2025-08-22,2025-11-13,
+700561,9083341,Counter Sales Associate,Counter Sales,Entry,"Lakeland, FL",2025-09-14,2026-05-14,55500.0
+700527,9083341,Territory Sales Rep - Wholesale,Sales Representative,Entry,"Lakeland, FL",2024-07-06,2025-10-30,
+700382,6120887,Marketing Coordinator,Marketing Coordinator,Entry,"Louisville, KY",2024-10-12,2026-07-20,53000.0
+700607,9083341,Inside Sales - HVAC Parts,Inside Sales,Mid,"Tampa, FL",2022-04-10,2025-06-04,
+700535,9083341,Territory Sales Rep - Wholesale,Sales Representative,Mid,"Tampa, FL",2021-10-19,2025-02-18,
+700326,6120887,Staff Accountant,Accountant,Mid,"Lexington, KY",2020-10-07,2024-12-30,
+700438,4471023,Install Manager,Install Manager,Manager,"Dayton, OH",2025-08-30,2026-04-30,93500.0
+700174,6120887,Home Solutions Consultant,Sales Representative,Mid,"Florence, KY",2020-03-13,2025-05-15,
+700054,4471023,Service Technician,Service Technician,Entry,"Florence, KY",2025-05-05,2026-05-02,58500.0
+700514,9083341,Territory Sales Rep - Wholesale,Sales Representative,Entry,"Tampa, FL",2026-02-20,2026-05-14,
+700468,4471023,Vice President of Sales,VP Sales,Executive,"Cincinnati, OH",2021-03-18,2024-11-22,
+700085,6120887,Install Technician,Installer,Mid,"Florence, KY",2012-05-01,2019-03-08,
+700277,4471023,Dispatcher,Dispatcher,Entry,"Mason, OH",2025-02-15,2025-02-17,
+700188,4471023,Residential Sales Consultant,Sales Representative,Mid,"Dayton, OH",2022-04-13,2025-06-28,45000.0
+700442,4471023,Install Manager,Install Manager,Manager,"Columbus, OH",2025-06-12,2026-03-17,
+700299,4471023,Warehouse Associate,Warehouse Associate,Mid,"Dayton, OH",2013-12-01,2018-08-02,
+700150,4471023,Comfort Advisor,Sales Representative,Mid,"Florence, KY",2015-06-17,2025-02-20,
+700078,6120887,HVAC Installer,Installer,Mid,"Louisville, KY",2024-01-12,2025-11-05,
+700238,4471023,Customer Service Representative,Customer Service Rep,Mid,"Louisville, KY",2022-09-12,2026-06-04,
+700523,9083341,Territory Sales Rep - Wholesale,Sales Representative,Entry,"Tampa, FL",2024-08-24,2026-02-25,
+700036,6120887,HVAC Service Technician,Service Technician,Mid,"Lexington, KY",2023-06-23,2026-07-09,
+700055,4471023,Service Technician,Service Technician,Mid,"Columbus, OH",2021-10-24,2026-04-25,48000.0
+700439,4471023,Install Manager,Install Manager,Manager,"Columbus, OH",2023-11-23,2025-06-26,
+700046,6120887,Service Technician,Service Technician,Mid,"Louisville, KY",2020-08-21,2026-02-24,
+700116,4471023,Lead Installer,Lead Installer,Senior,"Louisville, KY",2024-07-16,2025-04-11,50000.0
+700121,4471023,Apprentice HVAC Technician,Apprentice Technician,Entry,"Florence, KY",2007-09-01,2019-06-14,59500.0
+700600,9083341,Inside Sales - HVAC Parts,Inside Sales,Mid,"Tampa, FL",2024-01-03,2025-02-26,
+700044,4471023,Service Technician,Service Technician,Mid,"Lexington, KY",2009-11-01,2020-08-13,
+700152,4471023,Comfort Advisor,Sales Representative,Entry,"Cincinnati, OH",2025-08-13,2026-05-02,
+700568,9083341,Counter Sales Associate,Counter Sales,Mid,"Orlando, FL",2022-06-06,2025-04-21,
+700533,9083341,Territory Sales Rep - Wholesale,Sales Representative,Entry,"Tampa, FL",2025-11-10,2026-03-09,52500.0
+700386,4471023,Marketing Coordinator,Marketing Coordinator,Entry,"Cincinnati, OH",2025-06-20,2026-06-27,
+700542,9083341,Counter Sales Associate,Counter Sales,Mid,"Tampa, FL",2010-10-01,2019-09-13,
+700455,4471023,General Manager,General Manager,Manager,"Cincinnati, OH",2025-10-24,2026-03-24,
+700224,4471023,Customer Service Representative,Customer Service Rep,Mid,"Cincinnati, OH",2011-03-01,2018-06-18,
+700610,9083341,Inside Sales - HVAC Parts,Inside Sales,Mid,"Lakeland, FL",2024-01-31,2025-04-27,
+700301,6120887,Warehouse Associate,Warehouse Associate,Entry,"Florence, KY",2024-04-17,2025-08-04,
+700645,9083341,Regional Sales Director,Sales Director,Director,"Tampa, FL",2024-02-21,2024-10-28,52000.0
+700086,4471023,Install Technician,Installer,Mid,"Louisville, KY",2020-03-16,2025-02-14,
+700270,4471023,Dispatcher,Dispatcher,Entry,"Columbus, OH",2024-05-03,2025-04-30,
+700515,9083341,Territory Sales Rep - Wholesale,Sales Representative,Mid,"Fort Myers, FL",2019-08-16,2025-03-04,
+700110,4471023,Senior Service Technician,Senior Service Technician,Senior,"Mason, OH",2021-01-17,2025-01-04,61500.0
+700603,9083341,Inside Sales - HVAC Parts,Inside Sales,Mid,"Tampa, FL",2020-05-04,2025-05-15,
+700075,4471023,HVAC Installer,Installer,Mid,"Louisville, KY",2022-06-21,2026-07-06,
+700594,9083341,Warehouse Associate,Warehouse Associate,Mid,"Orlando, FL",2018-09-13,2026-07-26,
+700010,4471023,HVAC Service Technician,Service Technician,Mid,"Lexington, KY",2021-04-23,2025-09-29,60500.0
+700419,4471023,Operations Manager,Operations Manager,Manager,"Cincinnati, OH",2006-07-01,2021-03-23,
+700543,9083341,Counter Sales Associate,Counter Sales,Mid,"Orlando, FL",2012-03-01,2018-08-06,49500.0
+700432,4471023,Service Manager,Service Manager,Manager,"Cincinnati, OH",2024-05-15,2025-10-26,114000.0
+700045,4471023,Service Technician,Service Technician,Mid,"Dayton, OH",2023-10-12,2025-06-16,49500.0
+700458,4471023,Regional Director,Regional Director,Director,"Cincinnati, OH",2024-10-19,2025-12-28,85000.0
+700104,4471023,Plumber,Plumber,Mid,"Louisville, KY",2021-07-18,2024-12-10,
+700307,4471023,Parts Runner,Warehouse Associate,Mid,"Florence, KY",2006-06-01,2020-11-19,38000.0
+700485,4471023,Associate,Unknown,Mid,"Cincinnati, OH",2014-08-01,2019-09-07,
+700271,4471023,Dispatcher,Dispatcher,Entry,"Cincinnati, OH",2025-04-21,2026-07-11,
+700359,4471023,Recruiter,Recruiter,Mid,"Cincinnati, OH",2016-08-23,2024-11-20,
+700627,9083341,Delivery Driver,Driver,Entry,"Lakeland, FL",2024-03-19,2026-02-11,43000.0
+700199,4471023,Residential Sales Consultant,Sales Representative,Entry,"Dayton, OH",2026-07-18,2026-07-20,45500.0
+700377,4471023,IT Manager,IT Manager,Manager,"Mason, OH",2022-04-05,2024-12-10,73000.0
+700072,4471023,HVAC Installer,Installer,Mid,"Cincinnati, OH",2021-12-18,2025-02-09,
+700093,4471023,Plumber,Plumber,Mid,"Dayton, OH",2008-11-01,2019-07-20,60000.0
+700223,4471023,Customer Service Representative,Customer Service Rep,Mid,"Cincinnati, OH",2013-10-01,2018-04-18,39500.0
+700453,4471023,General Manager,General Manager,Manager,"Cincinnati, OH",2024-04-07,2026-06-28,
+700217,4471023,Customer Service Representative,Customer Service Rep,Mid,"Columbus, OH",2011-06-01,2022-06-15,
+700332,4471023,Accounts Payable Specialist,Accounts Payable,Mid,"Mason, OH",2023-11-16,2026-07-06,
+700004,4471023,HVAC Service Technician,Service Technician,Mid,"Louisville, KY",2007-05-01,2020-02-19,58000.0
+700317,6120887,Staff Accountant,Accountant,Mid,"Louisville, KY",2011-07-01,2021-07-22,
+700070,4471023,HVAC Installer,Installer,Entry,"Cincinnati, OH",2026-02-19,2026-05-19,
+700375,4471023,IT Manager,IT Manager,Manager,"Cincinnati, OH",2018-09-26,2025-06-26,
+700065,4471023,HVAC Installer,Installer,Mid,"Columbus, OH",2012-03-01,2022-08-22,55000.0
+700481,4471023,Team Member,Unknown,Entry,"Florence, KY",2025-12-24,2025-12-24,
+700447,4471023,Field Supervisor,Field Supervisor,Manager,"Florence, KY",2024-10-01,2025-06-21,
+700566,9083341,Counter Sales Associate,Counter Sales,Mid,"Lakeland, FL",2023-07-04,2024-11-07,
+700172,6120887,Home Solutions Consultant,Sales Representative,Mid,"Louisville, KY",2019-07-28,2026-07-27,
+700635,9083341,Credit Analyst,Credit Analyst,Mid,"Fort Myers, FL",2021-05-02,2026-02-28,42000.0
+700418,6120887,Branch Manager,Branch Manager,Manager,"Lexington, KY",2021-07-15,2026-07-25,
+700225,4471023,Customer Service Representative,Customer Service Rep,Mid,"Cincinnati, OH",2008-02-01,2021-11-23,
+700456,4471023,Regional Director,Regional Director,Director,"Columbus, OH",2023-03-30,2025-09-27,99500.0
+700101,4471023,Plumber,Plumber,Mid,"Florence, KY",2020-11-30,2025-03-04,
+700435,4471023,Service Manager,Service Manager,Manager,"Columbus, OH",2013-10-06,2025-07-10,89000.0
+700027,4471023,HVAC Service Technician,Service Technician,Mid,"Florence, KY",2018-12-20,2026-06-30,
+700160,4471023,Home Solutions Consultant,Sales Representative,Mid,"Columbus, OH",2006-05-01,2019-07-05,
+700124,6120887,Apprentice HVAC Technician,Apprentice Technician,Entry,"Louisville, KY",2023-09-27,2026-07-15,
+700105,4471023,Senior Service Technician,Senior Service Technician,Senior,"Cincinnati, OH",2008-03-01,2018-08-07,48000.0
+700347,4471023,Financial Analyst,Financial Analyst,Mid,"Lexington, KY",2024-01-30,2024-10-03,
+700469,4471023,Vice President of Sales,VP Sales,Executive,"Columbus, OH",2024-05-19,2024-12-31,
+700169,6120887,Home Solutions Consultant,Sales Representative,Mid,"Louisville, KY",2022-12-31,2026-07-16,46000.0
+700239,4471023,Customer Service Representative,Customer Service Rep,Mid,"Columbus, OH",2023-08-11,2025-02-05,36500.0
+700302,4471023,Warehouse Associate,Warehouse Associate,Mid,"Louisville, KY",2022-10-05,2025-04-19,39000.0
+700022,4471023,HVAC Service Technician,Service Technician,Entry,"Columbus, OH",2025-09-06,2026-04-08,
+700586,9083341,Warehouse Associate,Warehouse Associate,Entry,"Tampa, FL",2024-05-04,2025-09-19,
+700345,4471023,Financial Analyst,Financial Analyst,Entry,"Louisville, KY",2024-05-26,2026-04-18,75500.0
+700290,4471023,Customer Experience Manager,Customer Service Manager,Manager,"Dayton, OH",2011-04-01,2022-12-07,38500.0
+700562,9083341,Counter Sales Associate,Counter Sales,Mid,"Fort Myers, FL",2021-12-21,2025-03-28,
+700488,4471023,Associate,Unknown,Entry,"Louisville, KY",2025-11-25,2026-07-15,
+700285,4471023,Call Center Team Lead,Customer Service Supervisor,Manager,"Dayton, OH",2026-05-04,2026-07-24,
+700539,9083341,Territory Sales Rep - Wholesale,Sales Representative,Entry,"Tampa, FL",2025-06-15,2025-08-21,52500.0
+700253,4471023,Customer Service Representative,Customer Service Rep,Entry,"Dayton, OH",2025-05-14,2026-02-17,37500.0
+700111,4471023,Senior Service Technician,Senior Service Technician,Senior,"Cincinnati, OH",2024-10-29,2025-09-25,
+700529,9083341,Territory Sales Rep - Wholesale,Sales Representative,Entry,"Lakeland, FL",2025-04-02,2025-07-16,
+700282,6120887,Call Center Team Lead,Customer Service Supervisor,Manager,"Louisville, KY",2025-12-04,2026-04-14,
+700644,9083341,Regional Sales Director,Sales Director,Director,"Fort Myers, FL",2026-03-10,2026-04-12,56500.0
+700007,4471023,HVAC Service Technician,Service Technician,Mid,"Columbus, OH",2006-09-01,2018-03-06,
+700582,9083341,Warehouse Associate,Warehouse Associate,Entry,"Tampa, FL",2025-11-03,2025-12-29,
+700401,4471023,Director of Operations,Operations Director,Director,"Florence, KY",2008-01-01,2021-06-22,88500.0
+700511,9083341,Territory Sales Rep - Wholesale,Sales Representative,Mid,"Lakeland, FL",2013-01-01,2018-12-23,
+700109,6120887,Senior Service Technician,Senior Service Technician,Senior,"Louisville, KY",2024-03-09,2025-09-10,
+700572,9083341,Counter Sales Associate,Counter Sales,Mid,"Fort Myers, FL",2019-05-01,2026-02-09,
+700341,6120887,Payroll Administrator,Payroll,Mid,"Lexington, KY",2011-11-01,2019-11-10,
+700333,4471023,Accounts Payable Specialist,Accounts Payable,Mid,"Lexington, KY",2021-01-10,2026-07-11,
+700274,4471023,Dispatcher,Dispatcher,Mid,"Dayton, OH",2020-01-08,2024-12-05,38000.0
+700368,4471023,IT Support Specialist,IT Support,Mid,"Columbus, OH",2022-11-28,2025-10-12,
+700275,4471023,Dispatcher,Dispatcher,Mid,"Lexington, KY",2017-11-04,2025-01-06,
+700329,4471023,Accounts Payable Specialist,Accounts Payable,Mid,"Cincinnati, OH",2009-04-01,2018-08-24,70500.0
+700167,4471023,Home Solutions Consultant,Sales Representative,Entry,"Columbus, OH",2024-03-17,2024-10-08,49000.0
+700228,4471023,Customer Service Representative,Customer Service Rep,Mid,"Florence, KY",2007-10-01,2019-03-07,
+700474,4471023,Team Member,Unknown,Mid,"Cincinnati, OH",2023-09-02,2026-01-06,
+700032,4471023,HVAC Service Technician,Service Technician,Mid,"Cincinnati, OH",2022-04-01,2024-10-14,
+700134,4471023,Comfort Advisor,Sales Representative,Entry,"Lexington, KY",2025-03-11,2026-03-20,
+700364,4471023,IT Support Specialist,IT Support,Mid,"Cincinnati, OH",2022-05-22,2026-03-05,
+700179,4471023,Home Solutions Consultant,Sales Representative,Mid,"Lexington, KY",2022-09-25,2026-07-04,49500.0
+700384,4471023,Marketing Coordinator,Marketing Coordinator,Entry,"Cincinnati, OH",2025-09-01,2026-07-12,
+700362,4471023,IT Support Specialist,IT Support,Mid,"Cincinnati, OH",2009-03-01,2021-03-21,
+700477,4471023,Team Member,Unknown,Mid,"Cincinnati, OH",2023-05-12,2025-12-29,48500.0
+700168,4471023,Home Solutions Consultant,Sales Representative,Mid,"Columbus, OH",2023-03-23,2024-12-27,
+700071,4471023,HVAC Installer,Installer,Mid,"Cincinnati, OH",2019-04-28,2026-04-27,
+700222,4471023,Customer Service Representative,Customer Service Rep,Mid,"Columbus, OH",2007-08-01,2020-02-04,
+700588,9083341,Warehouse Associate,Warehouse Associate,Mid,"Orlando, FL",2023-12-04,2025-11-14,
+700014,6120887,HVAC Service Technician,Service Technician,Mid,"Lexington, KY",2023-06-13,2025-09-19,
+700482,4471023,Team Member,Unknown,Mid,"Louisville, KY",2020-10-23,2025-01-21,
+700276,4471023,Dispatcher,Dispatcher,Mid,"Louisville, KY",2022-04-22,2025-09-05,
+700544,9083341,Counter Sales Associate,Counter Sales,Mid,"Tampa, FL",2011-08-01,2020-09-08,47000.0
+700506,9083341,Territory Sales Rep - Wholesale,Sales Representative,Mid,"Tampa, FL",2014-04-01,2019-02-14,
+700197,4471023,Residential Sales Consultant,Sales Representative,Entry,"Dayton, OH",2024-03-20,2025-12-07,51000.0
+700151,4471023,Comfort Advisor,Sales Representative,Entry,"Florence, KY",2025-04-27,2025-07-22,46000.0
+700234,4471023,Customer Service Representative,Customer Service Rep,Mid,"Mason, OH",2024-02-21,2025-11-28,
+700272,4471023,Dispatcher,Dispatcher,Entry,"Louisville, KY",2024-12-04,2025-05-23,
+700178,4471023,Home Solutions Consultant,Sales Representative,Mid,"Dayton, OH",2019-01-24,2025-12-15,
+700388,4471023,Digital Marketing Specialist,Marketing Specialist,Mid,"Cincinnati, OH",2023-06-09,2026-06-15,
+700129,4471023,Comfort Advisor,Sales Representative,Mid,"Florence, KY",2009-09-01,2018-06-01,
+700130,4471023,Comfort Advisor,Sales Representative,Mid,"Dayton, OH",2014-04-01,2018-01-12,
+700039,4471023,Service Technician,Service Technician,Mid,"Columbus, OH",2007-11-01,2022-08-02,
+700569,9083341,Counter Sales Associate,Counter Sales,Mid,"Lakeland, FL",2022-09-17,2025-07-12,
+700194,4471023,Residential Sales Consultant,Sales Representative,Entry,"Lexington, KY",2025-02-02,2025-11-30,
+700564,9083341,Counter Sales Associate,Counter Sales,Mid,"Fort Myers, FL",2024-01-08,2026-08-24,48500.0
+700230,4471023,Customer Service Representative,Customer Service Rep,Mid,"Cincinnati, OH",2024-02-13,2026-01-19,
+700114,6120887,Lead Installer,Lead Installer,Senior,"Louisville, KY",2012-02-01,2019-11-19,
+700304,4471023,Warehouse Associate,Warehouse Associate,Entry,"Cincinnati, OH",2024-10-06,2024-11-11,
+700016,4471023,HVAC Service Technician,Service Technician,Mid,"Cincinnati, OH",2023-11-28,2026-08-11,
+700003,4471023,HVAC Service Technician,Service Technician,Mid,"Dayton, OH",2012-07-01,2022-03-07,
+700231,4471023,Customer Service Representative,Customer Service Rep,Mid,"Dayton, OH",2016-04-03,2026-04-13,
+700053,4471023,Service Technician,Service Technician,Entry,"Lexington, KY",2024-11-04,2026-04-22,
+700263,4471023,Dispatcher,Dispatcher,Mid,"Cincinnati, OH",2006-12-01,2022-08-11,
+700335,4471023,Accounts Payable Specialist,Accounts Payable,Entry,"Florence, KY",2024-09-17,2024-11-26,93000.0
+700143,4471023,Comfort Advisor,Sales Representative,Mid,"Lexington, KY",2018-02-12,2026-04-06,
+700019,4471023,HVAC Service Technician,Service Technician,Mid,"Mason, OH",2019-08-25,2026-01-07,59500.0
+700512,9083341,Territory Sales Rep - Wholesale,Sales Representative,Mid,"Tampa, FL",2011-08-01,2018-03-03,
+700479,4471023,Team Member,Unknown,Entry,"Cincinnati, OH",2024-08-01,2025-09-23,36500.0
+700330,4471023,Accounts Payable Specialist,Accounts Payable,Mid,"Florence, KY",2007-03-01,2018-11-27,
+700520,9083341,Territory Sales Rep - Wholesale,Sales Representative,Entry,"Fort Myers, FL",2024-11-10,2025-11-25,55500.0
+700298,4471023,Warehouse Associate,Warehouse Associate,Mid,"Cincinnati, OH",2012-04-01,2022-11-17,
+700214,6120887,Inside Sales Representative,Inside Sales,Mid,"Lexington, KY",2017-01-15,2025-10-12,50500.0
+700184,4471023,Residential Sales Consultant,Sales Representative,Mid,"Cincinnati, OH",2009-02-01,2021-03-20,
+700606,9083341,Inside Sales - HVAC Parts,Inside Sales,Mid,"Tampa, FL",2021-11-22,2025-02-04,
+700379,6120887,Marketing Coordinator,Marketing Coordinator,Mid,"Florence, KY",2006-05-01,2018-12-26,
+700029,4471023,HVAC Service Technician,Service Technician,Mid,"Dayton, OH",2018-12-01,2025-01-09,
+700581,9083341,Warehouse Associate,Warehouse Associate,Mid,"Orlando, FL",2021-04-20,2024-12-24,41500.0
+700444,4471023,Field Supervisor,Field Supervisor,Manager,"Cincinnati, OH",2013-12-01,2018-02-07,
+700083,4471023,Install Technician,Installer,Mid,"Columbus, OH",2007-02-01,2019-08-15,
+700612,9083341,Branch Manager - Distribution,Branch Manager,Manager,"Tampa, FL",2008-04-01,2020-09-15,82500.0
+700241,4471023,Customer Service Representative,Customer Service Rep,Entry,"Cincinnati, OH",2026-03-18,2026-05-15,
+700422,4471023,Operations Manager,Operations Manager,Manager,"Columbus, OH",2026-06-24,2026-07-12,
+700505,4471023,Project Coordinator,Project Coordinator,Entry,"Cincinnati, OH",2024-08-06,2026-04-20,
+700077,4471023,HVAC Installer,Installer,Mid,"Mason, OH",2022-10-07,2025-01-10,49500.0
+700026,4471023,HVAC Service Technician,Service Technician,Entry,"Florence, KY",2024-05-04,2025-12-05,
+700629,9083341,Delivery Driver,Driver,Mid,"Tampa, FL",2023-04-16,2026-03-28,
+700279,4471023,Dispatcher,Dispatcher,Mid,"Mason, OH",2022-04-08,2025-08-27,40500.0
+700300,4471023,Warehouse Associate,Warehouse Associate,Entry,"Cincinnati, OH",2025-02-24,2025-10-23,
+700585,9083341,Warehouse Associate,Warehouse Associate,Entry,"Orlando, FL",2024-09-11,2025-09-09,
+700090,4471023,Install Technician,Installer,Mid,"Louisville, KY",2020-02-12,2024-11-22,60500.0
+700126,6120887,Comfort Advisor,Sales Representative,Mid,"Florence, KY",2014-10-01,2022-12-10,56500.0
+700205,4471023,Sales Manager,Sales Manager,Manager,"Louisville, KY",2025-03-26,2025-09-24,
+700137,4471023,Comfort Advisor,Sales Representative,Mid,"Columbus, OH",2021-12-05,2025-09-15,
+700365,6120887,IT Support Specialist,IT Support,Entry,"Louisville, KY",2025-07-11,2025-12-28,104000.0
+700431,4471023,Service Manager,Service Manager,Manager,"Columbus, OH",2022-11-25,2024-11-10,
+700425,4471023,Operations Manager,Operations Manager,Manager,"Mason, OH",2025-02-01,2026-05-24,
+700465,4471023,Vice President of Operations,VP Operations,Executive,"Mason, OH",2021-09-30,2025-04-05,
+700589,9083341,Warehouse Associate,Warehouse Associate,Entry,"Lakeland, FL",2026-03-13,2026-06-19,
+700360,4471023,HR Manager,HR Manager,Manager,"Cincinnati, OH",2014-05-01,2020-04-03,
+700420,4471023,Operations Manager,Operations Manager,Manager,"Cincinnati, OH",2008-04-01,2021-01-05,
+700048,4471023,Service Technician,Service Technician,Entry,"Florence, KY",2025-05-17,2025-11-24,
+700244,4471023,Customer Service Representative,Customer Service Rep,Mid,"Cincinnati, OH",2023-01-14,2026-07-28,
+700555,9083341,Counter Sales Associate,Counter Sales,Mid,"Fort Myers, FL",2022-08-17,2025-08-18,44500.0
+700293,4471023,Customer Experience Manager,Customer Service Manager,Manager,"Mason, OH",2026-04-23,2026-05-18,41500.0
+700321,4471023,Staff Accountant,Accountant,Entry,"Louisville, KY",2025-02-08,2026-04-03,89000.0
+700327,4471023,Staff Accountant,Accountant,Entry,"Cincinnati, OH",2026-07-10,2026-07-15,68500.0
+700483,4471023,Associate,Unknown,Mid,"Dayton, OH",2006-10-01,2018-01-07,
+700415,6120887,Branch Manager,Branch Manager,Manager,"Louisville, KY",2025-04-16,2026-03-13,
+700584,9083341,Warehouse Associate,Warehouse Associate,Entry,"Fort Myers, FL",2024-10-25,2024-11-22,
+700257,4471023,Customer Service Representative,Customer Service Rep,Mid,"Florence, KY",2023-01-09,2025-11-07,
+700136,4471023,Comfort Advisor,Sales Representative,Mid,"Cincinnati, OH",2020-04-13,2024-12-28,
+700494,4471023,Intern,Intern,Entry,"Dayton, OH",2021-11-11,2025-01-20,
+700245,4471023,Customer Service Representative,Customer Service Rep,Entry,"Cincinnati, OH",2024-08-28,2025-05-07,
+700262,4471023,Dispatcher,Dispatcher,Mid,"Mason, OH",2010-03-01,2021-04-25,
+700043,4471023,Service Technician,Service Technician,Mid,"Columbus, OH",2008-03-01,2021-06-06,
+700120,4471023,Apprentice HVAC Technician,Apprentice Technician,Entry,"Louisville, KY",2007-05-01,2019-12-26,
+700487,4471023,Associate,Unknown,Entry,"Louisville, KY",2024-03-16,2026-07-24,
+700288,4471023,Call Center Team Lead,Customer Service Supervisor,Manager,"Cincinnati, OH",2020-03-30,2025-10-06,
+700099,4471023,Plumber,Plumber,Entry,"Mason, OH",2024-11-13,2025-07-24,
+700402,4471023,Director of Operations,Operations Director,Director,"Louisville, KY",2023-10-13,2026-07-04,
+700063,4471023,HVAC Installer,Installer,Mid,"Cincinnati, OH",2010-08-01,2018-06-13,
+700336,6120887,Accounts Payable Specialist,Accounts Payable,Entry,"Louisville, KY",2026-02-15,2026-03-03,
+700308,4471023,Parts Runner,Warehouse Associate,Mid,"Cincinnati, OH",2023-04-30,2025-12-12,
+700023,4471023,HVAC Service Technician,Service Technician,Mid,"Cincinnati, OH",2020-04-20,2025-08-15,
+700617,9083341,Branch Manager - Distribution,Branch Manager,Manager,"Fort Myers, FL",2021-03-10,2026-07-14,82000.0
+700215,4471023,Inside Sales Representative,Inside Sales,Mid,"Columbus, OH",2024-02-25,2026-03-29,
+700186,4471023,Residential Sales Consultant,Sales Representative,Mid,"Columbus, OH",2023-05-06,2025-04-03,
+700490,4471023,Associate,Unknown,Entry,"Lexington, KY",2025-08-05,2025-11-01,
+700414,4471023,Branch Manager,Branch Manager,Manager,"Dayton, OH",2022-02-07,2026-03-21,
+700421,4471023,Operations Manager,Operations Manager,Manager,"Cincinnati, OH",2019-01-13,2025-11-28,
+700218,6120887,Customer Service Representative,Customer Service Rep,Mid,"Lexington, KY",2007-03-01,2020-10-21,
+700155,6120887,Comfort Advisor,Sales Representative,Entry,"Lexington, KY",2026-07-16,2026-08-14,57500.0
+700331,4471023,Accounts Payable Specialist,Accounts Payable,Mid,"Lexington, KY",2021-09-26,2025-07-13,
+700081,4471023,HVAC Installer,Installer,Entry,"Columbus, OH",2024-07-06,2025-12-20,
+700620,9083341,Branch Manager - Distribution,Branch Manager,Manager,"Orlando, FL",2021-08-22,2025-12-12,84500.0
+700351,4471023,HR Generalist,HR Generalist,Mid,"Dayton, OH",2023-11-22,2025-04-21,
+700255,6120887,Customer Service Representative,Customer Service Rep,Mid,"Louisville, KY",2023-09-25,2025-07-25,
+700306,4471023,Warehouse Associate,Warehouse Associate,Mid,"Cincinnati, OH",2023-06-10,2026-08-09,43500.0
+700558,9083341,Counter Sales Associate,Counter Sales,Mid,"Lakeland, FL",2022-10-14,2025-09-15,
+700596,9083341,Inside Sales - HVAC Parts,Inside Sales,Mid,"Fort Myers, FL",2014-07-01,2020-08-09,
+700595,9083341,Warehouse Associate,Warehouse Associate,Mid,"Fort Myers, FL",2021-09-08,2025-12-22,
+700406,4471023,Director of Operations,Operations Director,Director,"Columbus, OH",2024-10-26,2026-04-19,85000.0
+700618,9083341,Branch Manager - Distribution,Branch Manager,Manager,"Orlando, FL",2022-05-10,2026-07-07,
+700370,4471023,Systems Administrator,Systems Administrator,Mid,"Dayton, OH",2006-04-01,2019-01-16,92500.0
+700392,4471023,Digital Marketing Specialist,Marketing Specialist,Mid,"Cincinnati, OH",2023-07-13,2025-04-08,
+700280,4471023,Call Center Team Lead,Customer Service Supervisor,Manager,"Cincinnati, OH",2006-12-01,2022-12-02,
+700017,4471023,HVAC Service Technician,Service Technician,Entry,"Mason, OH",2025-05-10,2025-07-26,58500.0
+700448,4471023,Field Supervisor,Field Supervisor,Manager,"Florence, KY",2024-11-30,2025-07-22,
+700521,9083341,Territory Sales Rep - Wholesale,Sales Representative,Mid,"Tampa, FL",2022-11-12,2025-09-14,53000.0
+700297,4471023,Warehouse Associate,Warehouse Associate,Mid,"Mason, OH",2010-10-01,2019-02-01,
+700170,4471023,Home Solutions Consultant,Sales Representative,Mid,"Louisville, KY",2020-03-05,2025-04-04,
+700009,4471023,HVAC Service Technician,Service Technician,Mid,"Cincinnati, OH",2010-10-01,2019-11-10,
+700601,9083341,Inside Sales - HVAC Parts,Inside Sales,Mid,"Tampa, FL",2021-04-30,2024-10-25,
+700156,6120887,Comfort Advisor,Sales Representative,Entry,"Louisville, KY",2024-07-08,2025-04-22,
+700519,9083341,Territory Sales Rep - Wholesale,Sales Representative,Mid,"Fort Myers, FL",2022-01-12,2026-03-19,
+700389,6120887,Digital Marketing Specialist,Marketing Specialist,Mid,"Louisville, KY",2021-09-21,2026-06-23,
+700091,4471023,Install Technician,Installer,Entry,"Cincinnati, OH",2024-06-23,2025-08-03,
+700556,9083341,Counter Sales Associate,Counter Sales,Entry,"Orlando, FL",2024-03-05,2025-02-05,56000.0
+700591,9083341,Warehouse Associate,Warehouse Associate,Entry,"Lakeland, FL",2025-09-06,2026-03-03,
+700353,4471023,HR Generalist,HR Generalist,Mid,"Louisville, KY",2024-01-20,2025-07-11,
+700366,4471023,IT Support Specialist,IT Support,Mid,"Lexington, KY",2023-07-08,2025-08-28,72000.0
+700051,4471023,Service Technician,Service Technician,Entry,"Cincinnati, OH",2024-11-04,2025-02-03,
