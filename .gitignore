@@ -2,3 +2,8 @@
 __pycache__/
 .DS_Store
 ~$*
+
+# Cursor workspace state is local, but the planning documents for each part
+# are kept because they record how the build was scoped.
+.cursor/*
+!.cursor/plans/
